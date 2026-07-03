@@ -1,0 +1,2857 @@
+HEALTH SCIENCE 1 — PRACTICE QUIZZES (Knowledge Checks)
+Source: Canvas course 61964 — Manukau
+Extracted: questions and answer options (correct answers not marked)
+Total quizzes: 33 | Total questions: 514
+=======================================================================
+
+##### Module 1 #####
+
+========================================
+QUIZ: Anatomical Terminology  (18 questions)
+========================================
+
+Q1. What does the prefix hyper‑ mean in medical terminology?
+   a) around
+   b) above normal
+   c) painful
+   d) below normal
+
+Q2. The term hypothermia refers to:
+   a) a normal body temperature
+   b) decreased body temperature
+   c) increased body temperature
+   d) a fluctuating body temperature
+
+Q3. What does the suffix ‑emia indicate?
+   a) disease
+   b) tumour
+   c) blood condition
+   d) genetic condition
+
+Q4. A patient diagnosed with hyperglycaemia is experiencing:
+   a) high blood sugar
+   b) low blood sugar
+   c) overproduction of insulin
+   d) normal blood sugar
+
+Q5. A pressure injury is documented as being on the posterior aspect of the patient’s pelvis. This means it is located:
+   a) near the midline
+   b) on the side
+   c) on the back
+   d) at the front
+
+Q6. Which directional term means away from the midline of the body?
+   a) distal
+   b) medial
+   c) supine
+   d) lateral
+
+Q7. The sternum (breastbone) is medial to the ribs. This means the sternum is:
+   a) closer to the midline of the body
+   b) closer towards the head
+   c) closer to the side of the body
+   d) closer to the feet
+
+Q8. When documenting an injury, the nurse notes that a laceration is located proximal to the patient’s wrist. This means the injury is:
+   a) on the fingers
+   b) on the opposite limb
+   c) away from the trunk
+   d) closer to the trunk
+
+Q9. A nurse documents that a wound is superficial. This indicates the wound:
+   a) involves muscle and bone
+   b) is deep within body tissues
+   c) is close to the skin surface
+   d) is located near the midline
+
+Q10. Which sentence correctly uses directional terminology in nursing documentation?
+   a) “The patient reports pain everywhere.”
+   b) “The injury is sort of below the knee.”
+   c) “The wound is on the left side near the front.”
+   d) “Redness noted on anterior aspect of left lower leg.”
+
+Q11. Which cavity contains the brain?
+   a) abdominal cavity
+   b) cranial cavity
+   c) thoracic cavity
+   d) spinal cavity
+
+Q12. The thoracic cavity is separated from the abdominal cavity by the:
+   a) diaphragm
+   b) sternum
+   c) ribs
+   d) lungs
+
+Q13. Which organs are located within the thoracic cavity?
+   a) lungs and stomach
+   b) small and large intestines
+   c) kidneys and bladder
+   d) heart and lungs
+
+Q14. The mediastinum is best described as:
+   a) A space between the lungs that contains the heart
+   b) A cavity containing the abdominal organs
+   c) The lower portion of the pelvic cavity
+   d) A membrane surrounding the lungs
+
+Q15. The pelvic cavity contains which of the following organs?
+   a) liver and rectum
+   b) bladder and reproductive organs
+   c) large intestine and pancreas
+   d) gall bladder and pancreas
+
+Q16. Which cavity protects organs involved in breathing and circulation?
+   a) thoracic cavity
+   b) cranial cavity
+   c) pelvic cavity
+   d) abdominal cavity
+
+Q17. What is the correct order of the levels of organisation in the human body, from simplest to most complex?
+   a) Tissues → cells → organs → organ systems → organism
+   b) Cells → organs → tissues → organ systems → organism
+   c) Cells → tissues → organs → organ systems → organism
+   d) Molecules → organs → tissues → cells → organism
+
+Q18. Which of the following is an example of an organ system?
+   a) lungs
+   b) neuron
+   c) areolar tissue
+   d) respiratory system
+
+========================================
+QUIZ: Cell Structure and Function  (7 questions)
+========================================
+
+Q1. Nerve cells are specialised by having many branching dendrites. These dendrites:
+   a) increase the amount of information able to be received from other nerve cells
+   b) increase the amount of information sent to other nerve cells or muscles
+   c) increase attachment to other structures so nerves stay in place
+   d) allow the production of neuroglial cells
+
+Q2. Nerve cells have a particular shape as do RBC. In fact, many cells have a variety of shapes to help them carry out specific jobs. Which structures help give cells their shapes?
+   a) endoplasmic reticulum
+   b) golgi body
+   c) microtubules
+   d) phospholipids
+
+Q3. The function of the mitochondria is to:
+   a) digest microbes and foreign particles
+   b) store the DNA
+   c) make proteins
+   d) produce ATP (energy) for the cell
+
+Q4. Match the feature to the cell type:
+   a) Red blood cell
+   b) Biconcave shape
+   c) Phagocyte
+   d) Many lysosomes
+   e) Neuron
+   f) Myelinated axon
+   g) Melanocyte
+   h) Melanosomes
+
+Q5. Phagocytes are white blood cells that engulf and break down microbes and other foreign bodies. To help with this function, they have increased numbers of an organelle which contains digestive enzymes and acid. These organelles are called:
+   a) lysosomes
+   b) nucleoli
+   c) golgi bodies
+   d) ribosomes
+
+Q6. Proteins in the cell membrane have many functions, including:
+   a) Cell-cell adhesion
+   b) Cell signalling
+   c) Facilitated diffusion
+   d) All of these answers are correct
+   e) Cell-cell recognition
+
+Q7. The cytoplasm is the:
+   a) fluid interior of the cell
+   b) extra-cellular fluid
+   c) fluid interior of the cell and all the organelles and inclusions of the cell
+   d) cell membrane
+
+========================================
+QUIZ: Cell Division  (5 questions)
+========================================
+
+Q1. The skin is able to repair itself by process called mitosis. Mitosis is the splitting of the nuclear material (karyokinesis) followed by the splitting of cytoplasm (cytokinesis). When the cell is not dividing, it is in interphase. During interphase the DNA replicates and the chromatin doubles. The cell is now ready for mitosis. FROM TOP TO BOTTOM THE CORRECT SEQUENCE OF THE LABELS IN THIS DIAGRAM IS:
+   a) Centrioles, Cell membrane, Cytoplasm.
+   b) Cell membrane, Cytoplasm,  Nuclear membrane, Centrioles, Chromosomes
+   c) Centrioles, Cell membrane, Cytoplasm, Nuclear membrane, Chromosomes,
+   d) Cell membrane, Cytoplasm,  Nuclear membrane, Chromosomes, Centrioles,
+
+Q2. Descriptions: Which description goes with which diagram? Metaphase: The chromosomes line up across the middle (equator)of the spindle fibres Telophase: A new nuclear membrane starts to form around each set of chromatids, and the cytoplasm divides across the middle forming two new cells, with the same number of chromosomes. Anaphase: The centromeres holding the chromatids together break and the chromatids move to opposite ends (spindle poles) of the cell. Prophase: The chromatin is coiled up to show chromosomes as a pair of chromatids. The centrioles start to form spindle fibres for the chromatids to move along.
+   a) 1C, 2A, 3D, 4B
+   b) 1D, 2C, 3A, 4B
+   c) 1D, 2B, 3C, 4A
+   d) 1D, 2A, 3C, 4B
+
+Q3. ARROW POSITION OF CHROMATIDS e.g. on spindle equator/ at spindle poles/ spread out /moving towards poles STAGE OF MITOSIS 1 [ Select ] [ Select ] 2 [ Select ] [ Select ] 3 [ Select ] [ Select ] 4 [ Select ] [ Select ] In cells in interphase, the following structures that are NOT visible in a cell undergoing mitosis, are visible : [ Select ] Which of the following do you NOT expect in a cell that is in interphase? [ Select ]
+   a) on spindle equator
+   b) spread out
+   c) moving towards poles
+   d) at spindle poles
+   e) Prophase
+   f) Anaphase
+   g) Metaphase
+   h) Telophase
+   i) spread out
+   j) on spindle equator
+   k) at spindle poles
+   l) moving towards poles
+   m) Anaphase
+   n) Telophase
+   o) Prophase
+   p) Metaphase
+   q) on spindle equator
+   r) at spindle poles
+   s) spread out
+   t) moving towards poles
+   u) Telophase
+   v) Metaphase
+   w) Prophase
+   x) Anaphase
+   y) spread out
+   z) on spindle equator
+   {) moving towards poles
+   |) at spindle poles
+   }) Anaphase
+   ~) Metaphase
+   ) Prophase
+   ) Telophase
+   ) Mitochondria, Spindle, Chromosomes
+   ) Nuclear membrane, Chromatin network, Nucleolus
+   ) Mitochondria, Nuclear membrane, Chromosomes
+   ) Smooth ER, Ribosomes, Chromosomes
+   ) Grainy chromatin network
+   ) Nuclear membrane
+   ) Nucleolus
+   ) Darkly stained coiled up Chromosomes/chromatids
+
+Q4. Below are some photomicrographs showing cells undergoing mitosis. Cells 1 to 6 are respectively in:
+   a) Telophase, Prophase, Anaphase, Late Telophase, Anaphase and Metaphase
+   b) Anaphase, Prophase, Late Telophase, Telophase, Anaphase and Metaphase
+   c) Anaphase, Prophase, Telophase, Late Telophase, Anaphase and Metaphase
+   d) Anaphase, Metaphase, Late Telophase, Telophase, Anaphase and Prophase
+
+Q5. Read and answer the material on cell division from the following pages. Cell division in the body: Mitosis and Meiosis There are two types of cell division called mitosis and meiosis.Mitosis is essentially for the growth and repair of all living tissues in humans, whereas meiosis only occurs in the special reproductive glands – specifically in the testes and ovaries in humans. (These processes do occur in animals and also plants as well). New cells form from old ones by cell division, allowing organisms to grow and repair by replacing worn out and damaged tissues and cells. When cells become too big, it is difficult for oxygen and nutrients to diffuse across the large cell. As the cell becomes inefficient, it will divide into two smaller cells. Thus, mitotic cell division is necessary when cells become too large. Once mitotic cell division is completed, two new cells would have formed: each with exactly the same number of chromosomes as the mother cell. During meiosis, four new cells are made. Each of these cells has half the number of chromosomes as the original cell. That is why meiosis is also known as “reduction” devision. Meiosis only occurs in organisms that reproduce sexually. For example, in humans, during fertilisation the sperm cell from the male with 23 chromosomes unites with the egg from the female which also has 23 chromosomes to form one cell with 46 chromosomes. Because sexual reproduction involves the joining together of these two gametes, the number of chromosomes in each gamete must be halved so that when the gametes join, the correct number of chromosomes will be maintained. Summarise the information above, in table 1.3 below. Mitosis Meiosis Where cell division process occurs [ Select ] [ Select ] Number of cells at the end of the process [ Select ] [ Select ] Chromosome number of daughter cells in humans [ Select ] [ Select ] Why this type of cell division is needed [ Select ] [ Select ]
+   a) Only in certain body tissues
+   b) Only in the ovary and testes of adults
+   c) Potentially in all body cells
+   d) In the ovaries and testes
+   e) Potentially in all body cells
+   f) In the ovaries and testes and genitalia
+   g) Only in the ovaries and testes after puberty
+   h) In certain body cells such as liver cells
+   i) 2
+   j) 8
+   k) 4
+   l) 6
+   m) 2
+   n) 8
+   o) 4
+   p) 6
+   q) 23
+   r) 92
+   s) 46
+   t) 23
+   u) 92
+   v) 46
+   w) formation of diploid gametes such as sperm and eggs
+   x) to ensure genetic variation
+   y) growth and repair
+   z) formation of haploid gametes such as sperm and eggs
+   {) to avoid genetic variation
+   |) formation of haploid gametes such as sperm and eggs
+   }) formation of diploid gametes such as sperm and eggs
+   ~) growth and repair
+
+========================================
+QUIZ: Membrane Transport  (18 questions)
+========================================
+
+Q1. Osmosis refers to the movement of:
+   a) Solutes from high to low concentration
+   b) Ions against a concentration gradient
+   c) Water across a selectively permeable membrane
+   d) Nutrients through protein channels
+
+Q2. What does concentration refer to in a solution?
+   a) The ability of a cell membrane to regulate ion flow
+   b) The mass of the solvent in a solution
+   c) The number of solute particles per unit volume of solvent
+   d) The amount of water molecules compared to solutes
+
+Q3. Osmolarity is defined as:
+   a) The ability of a solution to cause osmosis
+   b) The transport of glucose into cells
+   c) The total concentration of solute particles in a solution
+   d) The movement of ions across a membrane
+
+Q4. Which of the following is an example of simple diffusion?
+   a) Sodium exchange via the sodium-potassium pump
+   b) Water movement through aquaporins
+   c) Oxygen crossing the lipid bilayer
+   d) Glucose transport via GLUT4
+
+Q5. What factor primarily drives diffusion?
+   a) Endocytosis
+   b) ATP hydrolysis
+   c) Membrane proteins
+   d) Concentration gradient
+
+Q6. Facilitated diffusion differs from simple diffusion because:
+   a) It moves molecules against their concentration gradient
+   b) It requires ATP
+   c) It involves membrane proteins
+   d) It only occurs in nerve cells
+
+Q7. What type of molecules typically require facilitated diffusion?
+   a) Gases like oxygen or carbon dioxide
+   b) Large or charged molecules
+   c) Small or non-charged molecules
+   d) Glucose
+
+Q8. Ion channels primarily function by
+   a) Using ATP to pump ions
+   b) Blocking ion movement altogether
+   c) Facilitating passive movement of ions
+   d) Transporting large macromolecules
+
+Q9. GLUT4 is an important transporter responsible for
+   a) Potassium ion transport
+   b) Water movement across membranes
+   c) Glucose uptake in muscle and fat cells
+   d) Insulin secretion
+
+Q10. Saturated solutions occur when the limit of solutes that can be dissolved is reach. A supersaturated solution can cause
+   a) tonsil stones
+   b) standing stones
+   c) kidney stones
+   d) gizzard stones
+
+Q11. What happens to a cell placed in a hypotonic solution?
+   a) It remains unchanged
+   b) It expands as water enters the cell
+   c) It stops all membrane transport
+   d) It shrinks as water leaves the cell
+
+Q12. A hypertonic solution generally has:
+   a) No impact on water movement
+   b) A higher solute concentration than inside the cell
+   c) A lower solute concentration than inside the cell
+   d) The same solute concentration as inside the cell
+
+Q13. Which of the following best describes the key difference between diffusion and osmosis?
+   a) Diffusion involves the movement of solutes, whereas osmosis refers to the movement of water across a selectively permeable membrane
+   b) Osmosis requires membrane proteins, whereas diffusion does not
+   c) Diffusion involves the movement of water only, while osmosis moves any type of molecule
+   d) Osmosis occurs in gases, while diffusion is restricted to liquids
+
+Q14. Which of the following best describes the key difference between diffusion and facilitated diffusion?
+   a) Both diffusion and facilitated diffusion rely on ion pumps to transport molecules
+   b) Facilitated diffusion moves molecules against their concentration gradient, while diffusion moves them down their gradient
+   c) Diffusion requires ATP, while facilitated diffusion does not
+   d) Diffusion occurs without membrane proteins, whereas facilitated diffusion requires specific membrane proteins
+
+Q15. Extra for experts Which of the following best describes how insulin increases GLUT4 in the cell membrane
+   a) Insulin activates signaling pathways that promote GLUT4 insertion into the membrane
+   b) Insulin directly binds to GLUT4 transporters, forcing them into the membrane
+   c) Insulin stimulates endocytosis of GLUT4 transporters, removing them from the membrane
+   d) Insulin inhibits glucose uptake, preventing GLUT4 transporters from reaching the membrane
+
+Q16. Why does active transport require energy?
+   a) It operates only in oxygen-deprived cells
+   b) It works at equilibrium
+   c) It does not involve membrane proteins
+   d) It moves substances against the concentration gradient
+
+Q17. The sodium-potassium pump moves:
+   a) 3 sodium ions out and 2 potassium ions in
+   b) 2 sodium ions in and 3 potassium ions out
+   c) Equal amounts of sodium and potassium
+   d) Water through the membrane
+
+Q18. Ion channels primarily function by:
+   a) Facilitating passive movement of ions
+   b) Using ATP to pump ions
+   c) Blocking ion movement altogether
+   d) Transporting large macromolecules
+
+========================================
+QUIZ: Tissues (Structure and Function 1)  (9 questions)
+========================================
+
+Q1. Part D1: Tissues of the Skin NB: Your textbook (Marieb) will also include information about this content. Overview: 1. Skin layers The main layers: the epidermis (superficial), dermis (in the middle), and hypodermis (the deepest).The epidermis consists of several layers of epithelium tissue. Because the superficial layer consists of [ Select ] epithelium, we classify the epidermis as [ Select ] epithelium. The layers, from superficial to deep are: Stratum [ Select ] : dead cells filled with keratin filaments embedded in a dense protein matrix. Nuclei are [ Select ] . Stratum [ Select ] : transparent cells – consist of several layers of flattened dead cells. Faint nuclear outlines may be visible in some cells. Stratum [ Select ] : cells with lipid-rich keratohyaline granules which are released in interstitial spaces to form a waterproof barrier. Stratum [ Select ] : polygonal cells separated by narrow, translucent clefts spanned by spine-like cytoplasmatic extensions. These spines meet end-to-end or side-to-side and are attached to one another by desmosomes. Stratum [ Select ] : A single layer of columnar /cuboidal stem cells that divide by mitosis to replace cells towards the surface. Melanocytes contain melanin to protect dividing cells against UV light. Basement membrane: superficial to the [ Select ] . SALT, i.e. Skin-Associated Lymphoid Tissue includes two types of epidermal cells namely Langerhans cells and Merkel cells. Langerhans cells recognize [ Select ] and express them on their surface for recognition by the immune cells. https://quizlet.com/134736586/dermatopathology-flash-cards/ http://download.videohelp.com/vitualis/med/his_pic_integument2.htm Choose the correct option: The dermis, which is much [ Select ] than the epidermis, consists mainly of dense [ Select ] connective tissue. Dermal tissue that creates an irregular border between the dermis and epidermis is known as [ Select ] . Sweat glands, hair, hair erector muscles, sebaceous glands, and various sense organs are situated in the dermis. The hypodermis consists mainly of [ Select ] tissue. Strands of dense connective tissue may extend from the dermis deep into the hypodermis and anchor the skin to underlying structures.
+   a) Cuboidal
+   b) Squamous
+   c) Columnar
+   d) Columnar
+   e) Squamous
+   f) Cuboidal
+   g) spinosum
+   h) lucidum
+   i) corneum
+   j) absent
+   k) present
+   l) corneum
+   m) granulosum
+   n) lucidum
+   o) basale
+   p) granulosum
+   q) lucidum
+   r) corneum
+   s) spinosum
+   t) lucidum
+   u) basale
+   v) granulosum
+   w) basale
+   x) corneum
+   y) granulosum
+   z) spinosum
+   {) actively dividing cells
+   |) melanocytes in stratum basale
+   }) dermal papillae
+   ~) antigens
+   ) antibodies
+   ) thicker
+   ) thinner
+   ) irregular
+   ) regular
+   ) microvilli
+   ) epidermal papillae
+   ) dermal papillae
+   ) villi
+   ) reticular tissue
+   ) dense regular connective tissue
+   ) areolar
+   ) adipose
+
+Q2. Stratified Squamous Epithelial Tissue As seen in the micrographs below, the epidermis has different cell types. http://lecannabiculteur.free.fr/SITES/UNIV%20W.AUSTRALIA/mb140/CorePages/Integumentary/Integum.htm#labmajor Which of the following epidermal cell types do you observe in the epidermis? [ Select ] Why do we identify it then as stratified squamous epithelium? [ Select ] How can we distinguish between dead and live cells? [ Select ] Choose the options that give more information about where you expect each of the following and a brief function of each: Cell type Location Function Melanocytes [ Select ] [ Select ] Dead cells [ Select ] [ Select ] Cells that release fatty granules [ Select ] [ Select ] Dividing cells [ Select ] [ Select ] Polyhedral keratinocytes [ Select ] [ Select ] 5. TITLE: LANGERHANS CELLS. FUNCTION: [ Select ] https://commons.wikimedia.org/wiki/File:Langerhans_Cells_in_Normal_Epidermis,_CD1a_Immunostain_(4435883030).jpg
+   a) Only squamous
+   b) Squamous and columnar
+   c) Squamous, cuboidal and columnar
+   d) Squamous and cuboidal
+   e) The deepest layer is made of squamous epithelial cells
+   f) most of the cells are made of squamous epithelial cells
+   g) The most superficial layer is made of squamous epithelial cells
+   h) Dead cells lost their cell membranes
+   i) Dead cells lost their nuclei
+   j) Dead cells lost their cytoplasm
+   k) Basal layer of the epidermis
+   l) Stratum corneum of the epidermis
+   m) Stratum spinosum of the epidermis
+   n) Stratum granulosum of the epidermis
+   o) Contributes to immunity
+   p) Protects the underlying cells from mechanical harm
+   q) Responsible for different skin colour, protects from UV light
+   r) Makes the skin waterproof
+   s) Basal layer of the epidermis
+   t) Stratum spinosum of the epidermis
+   u) Stratum corneum of the epidermis
+   v) Responsible for different skin colour, protects from UV light
+   w) Makes the skin waterproof
+   x) Protects the underlying cells from mechanical harm
+   y) Contributes to immunity by interacting with antigens
+   z) Stratum corneum of the epidermis
+   {) Stratum basale of the epidermis
+   |) Stratum spinosum of the epidermis
+   }) Stratum granulosum of the epidermis
+   ~) Keratinized to protect the underlying cells from mechanical harm
+   ) Responsible for different skin colour, protects from UV light
+   ) Contributes to immunity by interacting with antigens
+   ) Makes the skin waterproof by secreting a waxy layer into the intercellular spaces
+   ) Stratum corneum of the epidermis
+   ) Stratum granulosum of the epidermis
+   ) Stratum spinosum of the epidermis
+   ) Stratum basale of the epidermis
+   ) Undergo mitosis to constantly replace cell as they shift to surface
+   ) Interact with antigens on the surfaces of of foreign cells to build immunity
+   ) Waxy material is secreted into the intercellular spaces to make the skin waterproof
+   ) In stratum spinosum
+   ) In stratum corneum
+   ) In stratum basale
+   ) Immune function
+   ) Forms a waterproof waxy layer
+   ) partly responsible for the skin's strength and flexibility
+   ) highly keratinized to protect the skin from mechanical injury
+   ) break antigens into smaller pieces then migrate from the epidermis into the dermis to help with immunity
+   ) form melanin to protect the body from UV light
+
+Q3. Dense Irregular Connective Tissue Look at the two micrographs of dense irregular connective tissue below. This tissue forms the matrix of the dermis. https://plasticsurgerykey.com/histology-of-the-skin/ https://fankhauserblog.wordpress.com/2001/10/12/connective-tissues-lab/ Make notes on the following: 1. The position of the dermis: The dermis is situated deep to the [ Select ] and superficial to the [ Select ] . It extends into the epidermis through [ Select ] 2. The arrangement and appearance of the collagen fibres. The collagen fibres are arranged [ Select ] . 3. The arrangement and appearance of the fibroblast nuclei. The nuclei of the fibroblasts are situated [ Select ] . They are [ Select ] in shape.
+   a) epidermis
+   b) hypodermis
+   c) epidermis
+   d) hypodermis
+   e) dermal papillae
+   f) epidermal papillae
+   g) parallel to one another
+   h) haphazardly
+   i) in the fibres
+   j) between the fibres
+   k) round
+   l) elongated
+
+Q4. Connective Tissue Proper: Loose Areolar Tissue Identify and label elastic fibres, collagen fibres, and fibroblast nuclei in the micrograph of areolar tissue below. https://fankhauserblog.wordpress.com/2001/10/12/connective-tissues-lab/ 1. The outstanding features of this tissue that would help you recognize it later are that it looks [ Select ] . 2. Location(s) where areolar tissue is found in the human body is/are [ Select ] . 3. Functions: Its function in the skin is NOT to [ Select ] and in the organs it is NOT to [ Select ] . 4. “Although fascia looks like one sheet of tissue, it’s actually made up of multiple layers with liquid in between called hyaluronan. It’s designed to stretch as you move. But there are certain things that cause fascia to thicken and become sticky. When it dries up and tightens around muscles, it can limit mobility and cause painful knots to develop”. https://www.hopkinsmedicine.org/health/wellness-and-prevention/muscle-pain-it-may-actually-be-your-fascia 4.1 What is fascia? Fascia is [ Select ] 4.2 How does fascia relate to areolar tissue? It has, like areolar tissue, [ Select ] . 4.3 How could the Covid pandemic and lockdowns relate to stiffened fascia? [ Select ]
+   a) The nuclei between the fibres
+   b) It looks cobwebby with crisscrossing fibres
+   c) The pink colour of the fibres
+   d) only beneath the adipose tissue
+   e) only beneath the dermis
+   f) beneath the dermis and epithelial tissue of all the body systems that have external openings
+   g) It attaches epithelial tissue to other underlying tissues.
+   h) It serves as a reservoir of water and salts for surrounding tissues.
+   i) It holds the skin in place
+   j) Skin cells obtain nutrients from and release its wastes into areolar connective tissue.
+   k) Transport blood back to the heart
+   l) Organ cells release wastes into areolar connective tissue.
+   m) It serves as a reservoir of water and salts for surrounding tissues.
+   n) Organ cells obtain their nutrients from
+   o) adipose tissue
+   p) dense irregular connective tissues,
+   q) areolar tissue
+   r) dense regular connective tissue
+   s) a matrix and fibres
+   t) only fibres and cellular components
+   u) a matrix, fibres and cellular components
+   v) People drink less water making the fascia dry
+   w) People are less active making the fascia dry and stiffen
+
+Q5. Adipose tissue The following are labelled in the micrograph below: adipocytes (adipose cells), nuclei of adipocytes, and the plasma membrane (cytoplasmic membrane). 1. Where do you see the extracellular matrix? [ Select ] http://histology-world.com/photoalbum/displayimage.php?pid=1194 2. In which part of the adipocyte is the fat stored? [ Select ] 3. The outstanding features of adipose tissue that would help you recognize it later are: [ Select ] 4. Give two locations (besides in the hypodermis) where adipose tissue is found. [ Select ] 5. Adipose tissue stores reserve energy in the form of fat. What are the other roles of adipose tissue in the body? [ Select ]
+   a) in the cells
+   b) between the cells
+   c) Golgi body
+   d) Endoplamic reticulum
+   e) Vacuole
+   f) Cytoplasm
+   g) The seemingly "empty" cells with nuclei driven to the membrane side
+   h) The white colour of the content of the cells
+   i) The purple colour of the cell membranes
+   j) In the muscles and in the dermis
+   k) between the muscles and in the organs
+   l) around the organs and in bone marrow
+   m) Protect internal organs and help to reduce heat loss
+   n) Provide the raw materials for making blood and protect the muscles
+   o) Protect the heart and the kidneys and help to increase heat loss
+
+Q6. Muscle tissue in the skin Three types of muscle tissue are found in the human body (see later) namely cardiac (involuntary in the heart), skeletal (voluntary), and smooth (involuntary). https://quizlet.com/272818097/comparison-of-muscle-types-ch8-diagram/ https://www.frontiersin.org/files/Articles/736738/fcell-09-736738-HTML/image_m/fcell-09-736738-g001.jpg https://eugraph.com/histology/skin/arrseb.html The arrector / errector muscle (arr) in the skin causes goosebumps when it is cold. It does that when it pulls the [ Select ] upright and the skin inwards. The errector muscle is of the [ Select ] type (try to see the [ Select ] -shaped fibres with large oval [ Select ] nuclei in the micrograph).
+   a) hair
+   b) dermis
+   c) sebaceous gland
+   d) cardiac
+   e) smooth
+   f) skeletal
+   g) branched
+   h) cylindrical
+   i) spindle
+   j) central (in the middle)
+   k) peripheral (on the side)
+
+Q7. Blood Different types of blood cells are shown in the image below. These blood cells are suspended in the blood plasma (the matrix), a protein-rich fluid containing electrolytes. Choose the appropriate words in brackets to make the following information true. Thrombocytes are the smallest cellular elements in the blood – they are involved in blood clotting. They are also called (platelets/ basophils) Erythrocytes are small biconcave (nucleated/anucleated) cells that contain the oxygen-carrying protein, hemoglobin (Hb). The heme parts of hemoglobin have (Iron/Copper) at their centre. When oxygen (molecules/atoms/ions) are uploaded into it, it forms oxyhemoglobin (HbO2). It can also upload carbon dioxide to form carbamino hemoglobin(HbCO2). https://courses.lumenlearning.com/suny-wmopen-biology2/chapter/introduction-to-structure-and-function-of-blood/ Title: Micrograph of human blood https://quizlet.com/272599408/blood-cells-under-the-microscope-diagram/ Leukocytes are known as white blood cells. Two groups are found in the blood: 1. Granulocytes contains small granules. Use the image to identify three examples of granulocytes. Give their main function of each. Granulocytes Name of Leukocyte Function of Leukocyte Large cell with a multilobed nucleus that looks like a dumbbell. Usually stains purple. [ Select ] involved in allergic reactions and secrete [ Select ] and other compounds that cause inflammation Large cell with a multilobed nucleus that looks like a string of beads. Usually stains purple. [ Select ] The body's first-line defense against [ Select ] , viruses, and fungal infections. When tissue is injured, the body releases chemotactic factors (substances that stimulate cell migration) to attract them. Large cell with a multilobed nucleus that looks like earphones. Will stain pink with the stain Eosin. [ Select ] fight parasitic infections like [ Select ] 2. Agranulocytes do not contain granules. Use the image to identify three examples of agranulocytes. Give the main function of each. Agranulocytes Name of Leukocyte Function of Leukocyte Smallish cell with a round large nucleus. Usually stains purple. [ Select ] Mature in the bone marrow and make antibodies to kill pathogens. Smallish cell with a round large nucleus. Usually stains purple.[ [ Select ] Mature in the thymus and kill pathogens using chemicals and by puncturing them. 3. These red blood (erythrocytes) cells may have been exposed to a [ Select ] environment. https://www.klimud.org/public/atlas/idrar/web/www.diaglab.vet.cornell.edu/clinpath/modules/rbcmorph/images/roldbld.jpg 4. The smallest cellular components of blood are [ Select ] and they are involved in the formation of blood clots. Cells that contain hemoglobin and carry oxygen are known as [ Select ] 5. Outline why blood is considered to be a specialised type of connective tissue: [ Select ]
+   a) Basophil
+   b) Neutrophil
+   c) Eosinophil
+   d) Lymphocyte
+   e) secretin
+   f) adrenalin
+   g) histamine
+   h) Neutrophil
+   i) T-lymphocyte
+   j) Basophil
+   k) Eosinophil
+   l) bacteria
+   m) plants
+   n) worms
+   o) animals
+   p) Neutrophil
+   q) Eosinophil
+   r) Basophil
+   s) rats
+   t) blowflies
+   u) worms
+   v) B-lymphocytes
+   w) T-lymphocytes
+   x) T-lymphocytes
+   y) B-lymphocytes
+   z) hypotonic
+   {) hypertonic
+   |) isotonic
+   }) lymphocytes
+   ~) erythrocytes
+   ) thrombocytes
+   ) lymphocytes
+   ) erythrocytes
+   ) thrombocytes
+   ) leukocytes
+   ) It does not have a matrix
+   ) It does not contain fibres unless clotting
+   ) It does not have cellular components
+
+Q8. Nervous Tissue The micrograph below shows nervous tissue. Identify and label the neuron cell body, nucleus, and processes (axon and dendrites). cell body [ Select ] nucleus [ Select ] and processes axon [ Select ] with myelin sheath dendrites [ Select ] In people with multiple sclerosis, the [ Select ] becomes damaged so that conduction of electrical impulses is impaired. TITLE: THE NEURON SURROUNDED BY NEUROGLIAL SUPPORTING TISSUE https://m.facebook.com/doctorthelifeline/photos/a.2105079472875736/3303864469663891/?type=3&_rdr (Links to an external site.) Describe this tissue’s outstanding features that would help you recognize it: [ Select ] Where in the brain are cell bodies and axons respectively found? cell bodies [ Select ] axons [ Select ] What are the functions of the cell bodies, dendrites, and axons respectively? cell bodies [ Select ] dendrites [ Select ] axons [ Select ] What are the functions of the neuroglia? Overall [ Select ] https://ecampusontario.pressbooks.pub/neurosciencecdn2/chapter/anatomy-physiology-the-nervous-system-and-nervous-tissue/ Microglia [ Select ] Oligodendrocytes [ Select ] Ependymal cells [ Select ] Astrocytes [ Select ]
+   a) 3
+   b) 4
+   c) 1
+   d) 2
+   e) 3
+   f) 2
+   g) 4
+   h) 1
+   i) 4
+   j) 1
+   k) 3
+   l) 2
+   m) 4
+   n) 3
+   o) 2
+   p) 1
+   q) cell body
+   r) dendrites
+   s) myelin sheath
+   t) the spindle shaped cell bodies with branches
+   u) the star shaped cell bodies with branches
+   v) the pink colour of the slide
+   w) the large cell bodies
+   x) white matter
+   y) nowhere
+   z) grey matter
+   {) grey matter
+   |) nowhere
+   }) white matter
+   ~) bring information from other neurons
+   ) take information to other neurons
+   ) control and integrate all the functions of the cell
+   ) highly branched processes, taking messages away from the cell body
+   ) highly branched processes, bringing messages to the cell body
+   ) single processes taking impulses away from the cell body
+   ) single processes taking impulses towards the cell body
+   ) single processes taking impulses away from the cell body
+   ) highly branched processes, bringing messages to the cell body
+   ) conducting electrical impulses
+   ) helping neurons complete their function for communication
+   ) conducting chemical messages
+   ) reaches out and surrounds an axon to insulate it in myelin
+   ) maintain the concentration of chemicals in the extracellular space, removing excess signaling molecules, reacting to tissue damage, and contributing to the blood-brain barrier (BBB)
+   ) filters blood to make cerebrospinal fluid (CSF), circulates the CSF in the CNS through ciliary movement
+   ) they ingest and digest those cells or the pathogens that cause disease
+   ) reaches out and surrounds an axon to insulate it in myelin
+   ) maintain the concentration of chemicals in the extracellular space, removing excess signaling molecules, reacting to tissue damage, and contributing to the blood-brain barrier (BBB)
+   ) filters blood to make cerebrospinal fluid (CSF), circulates the CSF in the CNS through ciliary movement
+   ) they ingest and digest those cells or the pathogens that cause disease
+   ) maintain the concentration of chemicals in the extracellular space, removing excess signaling molecules, reacting to tissue damage, and contributing to the blood-brain barrier (BBB)
+   ) filters blood to make cerebrospinal fluid (CSF), circulates the CSF in the CNS through ciliary movement
+   ) they ingest and digest those cells or the pathogens that cause disease
+   ) reaches out and surrounds an axon to insulate it in myelin
+   ) filters blood to make cerebrospinal fluid (CSF), circulates the CSF in the CNS through ciliary movement
+   ) they ingest and digest those cells or the pathogens that cause disease
+   ) maintain the concentration of chemicals in the extracellular space, removing excess signaling molecules, reacting to tissue damage, and contributing to the blood-brain barrier (BBB)
+   ) reaches out and surrounds an axon to insulate it in myelin
+
+Q9. Tissues not found in the skin Copy and paste this table in your text window and complete it. An answer will be uploaded in the answer to this question so that you can mark it yourself. Connective tissue recap Complete table 1.5 to create an overview of connective tissue: Table 1.5: ________________________________________________________________ TYPE MATRIX LOCATION: EXAMPLE Cells FIBROUS Areolar Collagen, Elastin and reticular fibres Between tissues and organs; Between skin and ____________________ Fibroblasts Mast cells Plasma cells Macrophages Adipose Little matrix; fibroblasts enlarge to store ________________ Around organs, in ___________ of the skin Adipocytes Reticular Reticular fibres Lymphatic organs like ________ __________& _____________ Fibroblasts Reticular cells Dense · Regular Bundles of ___________ collagen fibres Tendons, _________________ Fibroblasts · Irregular Bundles of _____________________ collagen fibres Joint capsules; __________of the skin Fibroblasts CARTILAGE · Hyaline Fine collagen fibres Ends of __________bones; nose, _____________cartilages ______________ cytes in lacunae · Elastic Many ______________fibres ________________ ear · Fibro _________collagen fibres Between ________________ ___________symphysis BONE · Compact Collagen plus calcium salts arranged in ____________________-- Skeleton Osteo_________ in lacunae to maintain bone Osteo______ to resorb bone Osteo______ to build bone · Spongy Collagen plus calcium salts arranged in trabeculae In flat bones, Ends of ________ bones BLOOD Plasma Inside blood vessels and heart Erythrocytes Leukocytes Thrombocytes https://www.cliffsnotes.com/study-guides/anatomy-and-physiology/tissues/connective-tissue Images of other connective tissues not found in the skin: Bone https://www.pinterest.nz/pin/369928556876315998/ Identify and label in your book the Haversian system (osteon) with the central canal, canaliculi, lacunae with osteocytes (bone cells), and lamellae. Cartilage Study the micrograph of hyaline cartilage (trachea). Identify and label the extracellular matrix and the chondrocytes in the lacuna in your book. In this image, you see the chondrocytes (B and C) in the lacuna (A). Where do we find this tissue in the body? http://faculty.gordonstate.edu/sfinazzo/connective%20tissue/Histology_Connective_Tissue/Histology_Connective_Tissue_print.html Dense regular connective tissue This is shown in the micrograph below. Identify and label in your book: collagen fibres and nuclei of fibroblasts. https://en.wikipedia.org/wiki/Dense_connective_tissue Compare the micrograph above with one of irregular dense connective tissue (as found in the dermis). What is the most obvious difference between these two tissues? In which of the following do you expect dense regular connective tissue? Ligaments / Tendons / Joint capsules Remember, the orientation of the fibres shows the direction of its strength. Outline the functional differences between dense regular connective tissue and dense irregular connective tissue. Reticular connective tissue As found in the spleen and other lymphoid organs (except thymus). https://www.flickr.com/photos/146824358@N03/40885194065 A micrograph of spleen tissue is seen below. Identify and label in your book: reticular fibres, lymphocyte (a type of white blood cell) and mast cell.
+
+========================================
+QUIZ: Tissues of the Human Body (Structure and Function 2)  (20 questions)
+========================================
+
+Q1. Which type of epithelium is most commonly found in the lining of the respiratory tract?
+   a) Transitional epithelium
+   b) Pseudostratified columnar epithelium
+   c) Stratified squamous epithelium
+   d) Simple squamous epithelium
+
+Q2. What is the primary function of simple squamous epithelium?
+   a) Facilitation of diffusion and filtration
+   b) Secretion of mucus
+   c) Protection from mechanical stress
+   d) Absorption of nutrients
+
+Q3. Which of the following is a characteristic of connective tissue?
+   a) It is avascular
+   b) It is specialized for contraction
+   c) It has tightly packed cells with no extracellular matrix
+   d) It has abundant extracellular matrix
+
+Q4. Which of the following connective tissues is specialized for storing energy in the form of fat?
+   a) Cartilage
+   b) Adipose tissue
+   c) Bone Tissue (Osseus tissue)
+   d) Blood
+
+Q5. Which type of muscle tissue is under voluntary control?
+   a) All muscle tissues are voluntary
+   b) Smooth muscle
+   c) Skeletal muscle
+   d) Cardiac muscle
+
+Q6. What is the primary role of neurons in nervous tissue?
+   a) Providing structural support and nourishment to neurons
+   b) Transmission of electrical signals
+   c) Formation of myelin sheaths in skeletal muscle
+   d) Initiating muscle contraction
+
+Q7. Which of the following statements best describes neurons?
+   a) Neurons are specialized for conducting electrical impulses.
+   b) Neurons are the only cells in the nervous system capable of mitosis.
+   c) Neurons are the primary cells involved in the formation of the blood-brain barrier.
+   d) Neurons do not require oxygen for function.
+
+Q8. Which tissue type forms the outer layer of the skin?
+   a) Transitional epithelium
+   b) Simple cuboidal epithelium
+   c) Stratified squamous epithelium
+   d) Simple columnar epithelium
+
+Q9. What type of epithelial tissue is found in areas where secretion and absorption occur, such as the lining of the intestines?
+   a) Pseudostratified columnar epithelium
+   b) Simple columnar epithelium
+   c) Stratified squamous epithelium
+   d) Simple cuboidal epithelium
+
+Q10. In which tissue is the intercalated disk a characteristic feature?
+   a) Cardiac muscle
+   b) Smooth muscle
+   c) Epithelial muscle
+   d) Skeletal muscle
+
+Q11. Which type of connective tissue has a matrix that is hard due to the presence of calcium salts?
+   a) Blood
+   b) Bone
+   c) Cartilage
+   d) Adipose tissue
+
+Q12. Which term refers to the process of tissue repair in which new tissue replaces lost or damaged tissue?
+   a) Apoptosis
+   b) Necrosis
+   c) Regeneration
+   d) Metaplasia
+
+Q13. The term "basement membrane" refers to
+   a) The network of fibers that maintain the structure of bone tissue
+   b) The layer of connective tissue that binds epithelial cells to underlying structures
+   c) The outer layer of skin cells
+   d) A thick layer of cartilage that supports epithelial tissue
+
+Q14. "Fibroblasts" are best described as
+   a) ells that produce the extracellular matrix and collagen fibers in connective tissue
+   b) Cells responsible for transmitting nerve impulses
+   c) Cells that break down bone tissue
+   d) Cells that support and nourish neurons
+
+Q15. The term "fibrosis" refers to
+   a) The regeneration of nerve cells after an injury
+   b) The formation of scar tissue following injury or damage to tissue
+   c) The increased number of fat cells in adipose tissue
+   d) The formation of new blood vessels
+
+Q16. What tissue type is this?
+   a) Adipose
+   b) Lung
+   c) Blood
+   d) Cartilage
+
+Q17. What tissue is this?
+   a) Adipose Tissue
+   b) Splenic reticular tissue
+   c) Hyaline Cartilage
+   d) Elastic Cartilage
+
+Q18. What kind of fibre arrangement is this tissue? Hint: the white spaces are due to dehydration when the slides are made, in real life, there's no white space.
+   a) Loose regular
+   b) Dense regular
+   c) Loose irregular
+   d) Dense irregular
+
+Q19. What kind of tissue is this?
+   a) Stratified squamous epithelium
+   b) Simple squamous epithelium
+   c) Simple cubodial epithelium
+   d) Simple columnar epithelium
+
+Q20. What organ is this tissue slide from?
+   a) Lung
+   b) Liver
+   c) Fat
+   d) Intestine
+
+========================================
+QUIZ: Microbes 1  (9 questions)
+========================================
+
+Q1. Bacteria are prokaryotes.
+   a) True
+   b) False
+
+Q2. Prokaryotic cells have no nucleus.
+   a) True
+   b) False
+
+Q3. What is a pathogen?
+   a) A toxin
+   b) A protein
+   c) A disease causing organism
+   d) A cell organelle
+
+Q4. How do bacteria reproduce?
+   a) Budding
+   b) Replication
+   c) Binary fission
+   d) Sexual Reproduction
+
+Q5. What conditions do bacteria need for growth?
+   a) Correct pH, temperature, oxygen levels and moisture
+   b) No answer text provided.
+   c) Agar jelly and an incubator
+   d) Around 37 degrees Celcius, neutral pH and plenty of water and oxygen
+
+Q6. What is the correct order for the stages of viral replication: 3. The virus attaches to a receptor on a host cell, then the virus enters the cell. 6. The virus enters the cell. 4. The virus is dismantled, viral nucleic acid (DNA or RNA) enters the host cell nucleus. 1. The viral nucleic acid is copied many times and viral proteins are made by the cell. 2. New viruses are assembled. 5. New viruses are released from the cell (the cell often dies).
+   a) 1, 2, 5, 4, 3, 6
+   b) 2, 1, 3, 4, 5, 6
+   c) 3, 5, 6, 4, 1, 2
+   d) 6, 4, 5, 3, 1, 2
+   e) 3, 6, 4, 1, 2, 5
+
+Q7. The organism pictured below is a:
+   a) Insect
+   b) No answer text provided.
+   c) Bacteria
+   d) Fungi
+   e) No answer text provided.
+   f) Protozoa
+
+Q8. The organisms pictured below are:
+   a) Protozoa
+   b) Virus
+   c) Fungi
+   d) Bacteria
+
+Q9. This is:
+   a) A virus
+   b) A flea
+   c) An elephant
+   d) A mite
+
+========================================
+QUIZ: Microbes 2  (70 questions)
+========================================
+
+Q1. An obligate aerobe is
+   a) an organism that will not ever grow in oxygen
+   b) an organism that sometimes grows in oxygen
+   c) an organism that can only grow in oxygen
+   d) an organism that does not need oxygen to grow
+
+Q2. A single celled organism that moves by extending its arms of cytoplasm is
+   a) a ciliate
+   b) an amoeba
+   c) a louse
+   d) a flagellate
+
+Q3. Obligate anaerobes like tetanus can
+   a) grow only in carbon dioxide
+   b) grow in conditions that require little oxgyen
+   c) only grow when there is no oxygen
+   d) grow in the presence of oxygen
+
+Q4. A substance produced naturally by one type of microorganism to kill or inhibit the growth of another microorganism is an
+   a) antibiotic
+   b) antibody
+   c) antigen
+   d) antihistamine
+
+Q5. A foreign substance introduced into the body, activates the immune response is known as
+   a) an antiseptic
+   b) an antibiotic
+   c) an antigen
+   d) an antibody
+
+Q6. A substance which can be used on skin or living tissue to kill or remove microbes is called a(n)
+   a) antiseptic
+   b) antibiotic
+   c) antihistamine
+   d) disinfectant
+
+Q7. Arthropods may carry infectious agents from one host to another. An example of an arthropod is
+   a) anthrax
+   b) the scabies mite
+   c) a tapeworm
+   d) an amoeba
+
+Q8. In nursing, asepsis is a very important concept, and aseptic technique is encouraged. Aseptic technique refers to
+   a) the absence of disease causing microbes
+   b) procedures used minimise the transfer of microorganisms
+   c) the equipment used to sterilise equipment
+   d) increasing the amount of antibodies in the blood to combat disease
+
+Q9. Asexual reproduction is
+   a) the ability of an organism to produce offspring which involves only one parent and produces offspring that are genetically identical to the parent
+   b) the ability of an organism to produce offspring in the absence of oxygen
+   c) the ability of an organism to produce offspring without breathing
+   d) the ability of an organism to produce offspring which involves two parents and produces offspring that are genetically identical to the parent
+
+Q10. Tinea (athletes' foot) is an example of an infection caused by
+   a) fungi
+   b) protozoa
+   c) arthropods
+   d) bacteria
+
+Q11. The equipment used to sterilise heat resistant materials using steam under pressure is called a(n)
+   a) dishwasher
+   b) pressure cooker
+   c) autoclone
+   d) autoclave
+
+Q12. Lymphocytes
+   a) engulf microbes
+   b) release histamines
+   c) make antibodies
+   d) kill parasitic worms
+
+Q13. Yeasts reproduce by
+   a) budding
+   b) dimorphism
+   c) extracellular reproduction
+   d) anaerobic reproduction
+
+Q14. Teresa looks under the microscope at some bacteria. She notices that they are long, skinny, and are purple in colour. She correctly identifies them as
+   a) gram-positive, bacilli
+   b) gram-positive, cocci
+   c) gram-negative, cocci
+   d) gram-negative, bacilli
+
+Q15. An example of a prokaryote is
+   a) scabies
+   b) tinea
+   c) influenza
+   d) streptococci
+
+Q16. A special kind of virus that can invade bacteria is
+   a) bacteriocidal
+   b) a basophil
+   c) a bacteriophage
+   d) a helminthe
+
+Q17. The process where a bacterial cell splits into two in order to reproduce is called
+   a) binary fusion
+   b) binary system
+   c) biogenesis
+   d) binary fission
+
+Q18. A large, pus-filled nodule that develops when the deeper areas of a hair follicle become infected with Staphylococci is called a
+   a) impetigo
+   b) pimple
+   c) school sore
+   d) boil
+
+Q19. Broad spectrum antibiotics will
+   a) only kill specific bacteria
+   b) kill a wide range of bacteria including natural flora
+   c) kill a wide variety of pathogens
+   d) work best on fungi and viruses
+
+Q20. An infection caused by the yeast Candida must be treated with
+   a) antifungal medication
+   b) antihistamines
+   c) antiviral medication
+   d) antibiotics
+
+Q21. Sometimes people harbour diseases but do not show any symptoms. However, they can pass on the disease to others. These people are considered to be:
+   a) carriers
+   b) lucky
+   c) contraband
+   d) couriers
+
+Q22. The cell wall is an outer layer of a cell that provides shape and structural support. Cell walls are seen in
+   a) plant and animal cells
+   b) fungal, plant and animal cells
+   c) fungal, plant and bacterial cells
+   d) bacterial cells only
+
+Q23. Chicken pox is a
+   a) bacterial infection
+   b) fungal infection
+   c) viral infection
+   d) zoological infection
+
+Q24. An example of a viral infection is
+   a) tonsilitis
+   b) ringworm
+   c) hepatitis
+   d) chlamydia
+
+Q25. A disease that is EASILY transmitted from one host to another is said to be
+   a) communicable
+   b) contagious
+   c) non-communicable
+   d) congenital
+
+Q26. When bacteria transfer genetic material to another by using pilli, we say this is
+   a) conjugation
+   b) plasmidolysis
+   c) binary fission
+   d) conjunction
+
+Q27. Megan has impetigo on her arm. Her arm brushes against Sam's arm during class, and Sam later develops impetigo too. This form of transmission was by
+   a) indirect contact
+   b) airborne
+   c) droplet
+   d) direct contact
+
+Q28. Maggots are sometimes used therapeutically in debridement. This is where
+   a) the maggots destroy body cells so that antigens are more available
+   b) the maggots release histamines to flush out the wound
+   c) the maggots kill the microbes
+   d) the maggots remove necrotic tissue
+
+Q29. The chemical produced by skin that kills a range of microbes is called
+   a) defensin
+   b) sweat
+   c) immunoglobulins
+   d) antibodies
+
+Q30. Spherical bacteria that occur in pairs are known as
+   a) streptobacilli
+   b) diplobacilli
+   c) diplococci
+   d) staphylococci
+
+Q31. A harmful alteration to your physiology or metabolism is referred to as
+   a) epidemiology
+   b) virulence
+   c) infection
+   d) disease
+
+Q32. The destruction or removal of harmful microbes by a chemical from non-living surfaces is called
+   a) sterilisation
+   b) santitation
+   c) antiseption
+   d) disinfection
+
+Q33. The spread of infectious agents in airborne liquid droplets has most likely come from
+   a) direct contact
+   b) a nosocomial infection
+   c) someone sneezing
+   d) someone sharing a drink which has become contaminated
+
+Q34. Anne accidentally rubs some soil from the garden in her eye. Her eye socket becomes infected and develops into cellulitis. This is an example of
+   a) an exogenous infection
+   b) an iatrogenic infection
+   c) a disseminated infection
+   d) a congential infection
+
+Q35. Some gram positive bacteria can survive hostile conditions. They do this by
+   a) smothering themselves with a glycocalyx layer
+   b) forming endospores
+   c) hibernating
+   d) forming endotoxins
+
+Q36. A substance that causes fever in the body is known as
+   a) a prophylatic
+   b) an antibody
+   c) puerperal
+   d) a pyrogen
+
+Q37. Select all that apply A microbe made up of thin filaments called hyphae are
+   a) viruses
+   b) mould
+   c) fungi
+   d) bacteria
+
+Q38. The hair like structures on bacteria that help them adhere to surfaces are called
+   a) fimbriae
+   b) pilli
+   c) cilia
+   d) arector pilli
+
+Q39. Flukes and tapeworms are examples of
+   a) ciliates
+   b) helminthes
+   c) prokaryotes
+   d) protozoa
+
+Q40. A dirty mop used to clean the floor is an example of a
+   a) fungi
+   b) fimbriae
+   c) giardia
+   d) fomite
+
+Q41. An example of a eukaryotic organisms with cell walls, that are unable to make their own food by photosynthesis would be
+   a) Staphylococci
+   b) Penicillium
+   c) Balantidium
+   d) an amoeba
+
+Q42. A structure made of polysaccharides which is found in the cell walls of some bacteria, that stops the bacteria from being phagocytosed is the
+   a) endospore
+   b) slime layer
+   c) glucose
+   d) cell wall
+
+Q43. Herpes is classified as a
+   a) protozoa
+   b) bacteria
+   c) virus
+   d) fungi
+
+Q44. Nosocomial infections are better known as
+   a) a sickness that makes your nose go funny
+   b) hospital strains
+   c) Health care associated infections
+   d) head colds
+
+Q45. The rate at which a percentage of the population are affected by disease in a certain amount of time is known as
+   a) latent period
+   b) incubation period
+   c) incidence rate
+   d) virulence rate
+
+Q46. Mellanie is exposed to the chicken pox virus. It takes four or five days for spots to appear. The period of time between exposure to the virus and the appearance of these spots is known as the
+   a) incubation period
+   b) invasive phase
+   c) convalescing phase
+   d) prodromal period
+
+Q47. Elmo is horrified when he goes to give blood and finds that the blood bank is unable to use his blood as he has hepatitis B antibodies. Elmo is shocked because he has never suffered any of the symptoms of hepatitis B but has obviously been exposed to the virus. This is possibly an example of a
+   a) mixed infection
+   b) opportunistic infection
+   c) dissmeninated infection
+   d) latent infection
+
+Q48. Malaria is caused by
+   a) arthropods
+   b) protozoa
+   c) bacteria
+   d) viruses
+
+Q49. A sterile area of the body is the
+   a) genitalia
+   b) mucosa of the mouth
+   c) lower respiratory tract
+   d) skin
+
+Q50. A strain of bacteria that is resistant to some antimicrobial drugs is
+   a) VERTA
+   b) MERSA
+   c) MRSA
+   d) MERTA
+
+Q51. The incidence of disease in a population is known as
+   a) morbidity
+   b) mortality
+   c) epidemiology
+   d) pathology
+
+Q52. Diseases that are not spread from person to person are called
+   a) non-communicable
+   b) notifiable
+   c) communicable
+   d) resistant
+
+Q53. Microbes that inhabit the body, without causing disease are called
+   a) microflora
+   b) normal flora
+   c) transient flora
+   d) resident flora
+
+Q54. Sometimes infections are caused by an organism like Candida, that does not usually cause an infection but can if the person has a suppressed immune system. These types of infections are best known as
+   a) nosocomial
+   b) opportunistic
+   c) bacterial
+   d) latent
+
+Q55. People are often alerted to a recent pandemic. A pandemic is
+   a) an epidemic that spreads worldwide
+   b) is a disease that spreads nationally
+   c) a disease easily cured with panadol
+   d) a localised infection
+
+Q56. An ectoparasite is
+   a) an organism that breaks down dead and decaying material
+   b) an organism that lives inside its host, feeding off the nutrients supplied by the host, but does not kill the host
+   c) an organism that lives on the outside of the body that feeds off the nutrients of the host, but does not kill the host
+   d) an organism that enhances phagocytosis
+
+Q57. The best example to explain the portal of entry is
+   a) coughing
+   b) a person whose has a low immunity
+   c) a bacterium
+   d) an uncovered surgical wound
+
+Q58. Select all that apply Some bacteria have become resistant to antibiotics because
+   a) antibiotics are unsuitable as they are meant for viruses
+   b) antibiotics were sometimes incorrectly given for viral infections
+   c) people do not finish complete doses of antibiotics
+   d) people prefer alternative treatments and so the bacteria are building up their forces to strike back as the alternatives are not as effective
+
+Q59. Ernies cold sore becomes infected with bacteria forming a big infected sore on his lip. This bacterial infection is an example of a
+   a) mixed infection
+   b) superinfection
+   c) primary infection
+   d) secondary infection
+
+Q60. Measurable changes that can be observed in your patient are called
+   a) symptoms
+   b) a syndrome
+   c) signs
+   d) qualitiative
+
+Q61. People used to think the meat magically turned into maggots. This is an example of
+   a) biogenesis
+   b) spontaneous generation
+   c) asexual reproduction
+   d) binary fission
+
+Q62. The complete destruction or removal of all microbes including viruses and endospores is called
+   a) sterilisation
+   b) aseptic technique
+   c) sanitation
+   d) disinfection
+
+Q63. Daphne has a throat infection and takes a course of penicillin. Unfortunately, the penicillin kills off the natural flora of the body, and she soon finds herself "riddled" with a vaginal thrush infection, caused by an overgrowth of Candida. This is an example of:
+   a) a superinfection
+   b) a primary infection
+   c) an opportunistic infection
+   d) a secondary infection
+
+Q64. A substance produced by microbes that interferes with the normal functioning of host cells or tissues are called
+   a) extracellular digestion
+   b) pyrogens
+   c) virions
+   d) toxins
+
+Q65. Microbes found on the body for only a small amount of time, that do not cause disease are
+   a) transients
+   b) residents
+   c) opportunistic
+   d) natural flora
+
+Q66. Warts are caused by
+   a) benign cancers
+   b) bacteria
+   c) fungi
+   d) viruses
+
+Q67. The zone of inhibition refers to the
+   a) the places on the body where there is no natural bacteria
+   b) clear area on an agar plate that is free of antibiotics as the bacteria have killed them
+   c) clear area on an agar plate that is free of bacteria as antibiotics on the plate have killed them
+   d) the areas on an agar plate where bacteria grow
+
+Q68. Bacteria and fungi get their nutrients by
+   a) phagocytosis
+   b) binary fission
+   c) intracellular digestion
+   d) extracellular digestion
+
+Q69. Some microbes are hard to treat because they are not killed by antibiotics, are too small to detect and can hide inside other cells, can mutate to form different strains, and because they use a human host are often difficult to find a method of annihilation that will not harm the host. The microbe that meets all these criteria is the
+   a) amoeba
+   b) fungi
+   c) virus
+   d) bacteria
+
+Q70. The microbe characterised by its simple structure of a protein coat and nucleic material is the
+   a) virus
+   b) bacteria
+   c) mould
+   d) paramecium
+
+========================================
+QUIZ: Microbiology Terminology  (2 questions)
+========================================
+
+Q1. Understanding the new terms is going to be very important for this topic! Match up the following terms and their definitions!
+   a) Agar
+   b) A growth medium (a jelly-like substance that microbes like bacteria and fungi can grow on!)
+   c) Antibiotic
+   d) A substance that targets and kills bacteria
+   e) Gel sanitizer
+   f) A high alcohol solution that can be used to kill microbes on the hands
+   g) Microbe
+   h) A small organism which include fungi, bacteria and viruses.
+   i) control
+   j) in an experiment, this has none of the variable applied to it, so you can make sure the experiment so you can check for contamination
+   k) microbe variety
+   l) having lots of different TYPES of microbe present
+   m) streak plate
+   n) is used to produce isolated colonies of an organism on an agar plate
+   o) sensitivity
+   p) when something is specifically effected by something else
+   q) resistance
+   r) when something is able to withstand something else
+   s) untreated
+   t) when no variable (treatment) is applied
+   u) bar soap
+   v) a solid form of soap that can be lathered with water
+   w) liquid soap
+   x) can be delivered to the hands in a "hands free" way, to prevent cross contamination
+   y) blood agar
+   z) a growth medium that can be used to grow microbes like bacteria and fungi but that
+   {) colony
+   |) a growth on an agar plate that comes from one bacteria (or other microbe). Often appear as spots, but when many colonies grow close together than can appear to be one very large growth.
+   }) normal flora
+   ~) resident microbes that are found in and on our bodies that normally live there. Often they have a role in maintaining our body functions
+   ) leucocyte
+   ) a white blood cell
+   ) UTI
+   ) a urinary tract infection, this is when there is a bacterial infection somewhere in the urinary tract (anywhere from your kidneys down to your urethra but often in your bladder and urethra as they are closest to the outside and thus easiest to get to!).
+
+Q2. Understanding the new terms is going to be very important for this topic! Match up the following terms and their definitions!
+   a) swab
+   b) a sterile tool used to take a sample or transfer bacteria samples
+   c) inoculating loop
+   d) a sterile tool used to transfer bacteria culture onto an agar plate
+   e) inoculate
+   f) introduce (cells or organisms) into a culture medium
+   g) bacterial culture
+   h) The growing of micro-organisms on a culture medium, such as agar, in an incubator kept at body temperature, for purposes of identification. Can refer to the solution of bacteria as well.
+   i) bacterial lawn
+   j) when you grow bacteria on an agar plate so it fully covers the agar - so all the agar is covered in the bacterial solution
+   k) inhibition
+   l) to stop (the growth of)
+   m) zone
+   n) an area of something
+   o) fatal
+   p) is able to kill you
+   q) MSU
+   r) mid stream urine sample (when the first and last volumes of urine are not collected)
+   s) pili
+   t) found on bacteria and can help them stick to surfaces or pass DNA to other bacteria
+   u) pathogen
+   v) a microbe that causes disease
+   w) trigene
+   x) a disinfectant
+   y) sterilisation
+   z) to remove ALL microbes from an object or surface
+   {) disinfect
+   |) to remove most microbes from an object or surface
+   }) sterile
+   ~) an object that has no microbes on it and has not been in contact with microbes
+   ) autoclave
+   ) used for sterilising objects
+
+========================================
+QUIZ: Microbiology Review  (4 questions)
+========================================
+
+Q1. What is an autoclave?
+
+Q2. Define disinfectant
+
+Q3. How is a disinfectant different to an antiseptic
+
+Q4. Water cyclinders are generally set at 55 degree celcius to avoid scalding and burns. Often people run utensils and plates straight under hot water from the tap to clean them. How effective will this be? Why?
+
+##### Module 2 #####
+
+========================================
+QUIZ: Acidosis and Alkalosis  (13 questions)
+========================================
+
+Q1. https://www.khanacademy.org/science/biology/structure-of-a-cell/prokaryotic-and-eukaryotic-cells/a/plasma-membrane-and-cytoplasm Fat-soluble substances, like fatty acids, can diffuse freely through the phospholipid bilayer of the cell membrane. With large water-soluble molecules, like glucose, diffusion needs to be facilitated by channel proteins.
+   a) True
+   b) False
+
+Q2. https://www.emedihealth.com/glands-hormones/diabetes/manage-diabetes In hyperglycemia (>10 mmol/L), the high levels of glucose in the blood of a diabetic person are due to an inability of the body cells to get glucose from the blood.
+   a) True
+   b) False
+
+Q3. A blood pH of 7 is seen as acidotic.
+   a) True
+   b) False
+
+Q4. High levels of bicarbonate ions in the blood due to the intake of massive amounts of antacids are known as:
+   a) metabolic acidosis
+   b) respiratory alkalosis
+   c) metabolic alkalosis
+   d) respiratory acidosis
+
+Q5. Carbon dioxide dissolves in blood plasma forming carbonic acid and lowering the blood pH. High carbon dioxide levels in the blood therefore cause:
+   a) respiratory alkalosis
+   b) metabolic alkalosis
+   c) metabolic acidosis
+   d) respiratory acidosis
+
+Q6. The body usually compensates for respiratory acidosis and respiratory alkalosis using the kidneys.
+   a) True
+   b) False
+
+Q7. People feel dizzy when they breathe fast and deep. This breathing pattern causes respiratory acidosis since the blood CO2 becomes too low.
+   a) True
+   b) False
+
+Q8. Link the breathing patterns to the type of blood pH conditions that would cause these symptoms. Breathing pattern that would...................................
+   a) Kussmaul breathing to compensate for  too much H+ in the blood
+   b) Rapid shallow breathing
+   c) cause respiratory acidosis because CO2  accumulates in  the blood
+   d) Hypoventilation
+   e) compensate for Metabolic alkalosis when there is too little CO2 in the blood
+   f) Hyperventilation
+   g) cause respiratory alkalosis
+
+Q9. Link the conditions to the matching item.
+   a) Low levels of potassium in blood
+   b) High levels of potassium in blood
+   c) Some diuretics can cause these two conditions
+   d) Hypokalemia and metabolic acidosis
+   e) May be caused by excessive use of antacids
+   f) Metabolic alkalosis
+   g) Too much carbon dioxide blown off
+   h) Arrhythmias of the heart can be caused by these two conditions
+   i) Linked to hyper and hypokalemia
+
+Q10. Consider the given information and fill in the spaces by choosing an appropriate word from the drop-down menu in every case. Ketones, keto bodies (like acetone) and ketoacids are alternative [ Select ] ["fuels", "hormones", "enzymes", "building blocks"] for the body. They are made from fatty acids in the [ Select ] ["kidneys", "brain", "pancreas", "liver"] when glucose is in short supply, such as during dieting or fasting. Low levels of the hormone [ Select ] ["glucagon", "glycerol", "insulin", "glycogen"] cause fat to be released from the fat cells and to be broken down to glycerol and fatty acids (a process known as lipolysis). Fatty acids travel through the blood to the liver and are processed into ketone units. The ketone units circulate back into the bloodstream and are picked up by the muscle and other tissues to fuel the body’s metabolism. In a person without diabetes, ketone production is the body’s normal adaptation to starvation. Normally blood sugar levels never get too high, because the production is regulated by just the right balance of insulin, glucagon and other hormones. In people with diabetes, dangerous and life-threatening ketone levels can develop. With insufficient insulin levels, the fat cells continually release fat into the blood, and the liver continues to make ketones and ketoacids. If the rising ketoacid levels make the blood pH go below [ Select ] ["7.35", "7.4", "7.45", "7"] - an emergency medical situation that requires immediate medical attention develops. Type 1 diabetics have the [ Select ] ["Lowest", "Highest", "No"] risk of developing Diabetic Ketoacidosis (DKA) since they do not produce enough insulin. Type 2 diabetics can develop DKA if insulin resistance is severe or during an infection or steroid treatment or reduction in insulin release from the pancreas. Diabetics can go into DKA when their cells start to use [ Select ] ["glycerol", "keto bodies", "amino acids"] as an energy source. This will happen if [ Select ] ["glucose", "starch", "fatty acids", "amino acids"] cannot get into the cells because of a lack of the pancreatic hormone insulin . Another reason could be that the cells are resistant to this hormone and the cell transport process of [ Select ] ["osmosis", "active transport", "simple diffusion", "facilitated diffusion"] cannot happen. The cells are then forced to use alternative energy sources like [ Select ] ["carbon monoxide", "keto bodies", "amino acids"] in the process. The person's breath may smell fruity when keto bodies are produced in the liver as a result of this metabolic shift.
+   a) fuels
+   b) hormones
+   c) enzymes
+   d) building blocks
+   e) kidneys
+   f) brain
+   g) pancreas
+   h) liver
+   i) glucagon
+   j) glycerol
+   k) insulin
+   l) glycogen
+   m) 7.35
+   n) 7.4
+   o) 7.45
+   p) 7
+   q) Lowest
+   r) Highest
+   s) No
+   t) glycerol
+   u) keto bodies
+   v) amino acids
+   w) glucose
+   x) starch
+   y) fatty acids
+   z) amino acids
+   {) glycerol
+   |) glycogen
+   }) insulin
+   ~) glucagon
+   ) osmosis
+   ) active transport
+   ) simple diffusion
+   ) facilitated diffusion
+   ) carbon monoxide
+   ) keto bodies
+   ) amino acids
+
+Q11. https://theconversation.com/icu-ventilators-what-they-are-how-they-work-and-why-its-hard-to-make-more-135423 One reason why people with serious lung problems due to Covid 19 are put on ventilators, is to prevent respiratory acidosis due to the build-up of CO2 in their blood.
+   a) True
+   b) False
+
+Q12. Narcotics can cause _______ because they can _______
+   a) metabolic alkalosis; stimulate breathing
+   b) metabolic acidosis; stimulate breathing
+   c) respiratory acidosis; suppress breathing
+   d) respiratory alkalosis; suppress breathing
+
+Q13. Three common drugs that can cause metabolic acidosis: Metabolic acidosis https://healthjade.net/hyperchloremic-acidosis/
+   a) daizepam
+   b) aspirin
+   c) methanol
+   d) antacid
+   e) metformin
+
+========================================
+QUIZ: Blood  (20 questions)
+========================================
+
+Q1. One regulatory function of blood is to
+   a) maintain blood pH
+   b) take oxygen to cells
+   c) reduce infections
+   d) to take urea to the liver
+
+Q2. The term thrombocyte refers to
+   a) red blood cells
+   b) proteins in the plasma
+   c) white blood cells
+   d) platelets
+
+Q3. Blood is a connective tissue. All connective tissues have fibres. The precursor to the formation of fibres that support blood clotting is a protein called
+   a) fibrin
+   b) fibrinogen
+   c) collagen
+   d) fibroblast
+
+Q4. What is the primary function of the erythrocyte?
+   a) haemostasis
+   b) making antibodies
+   c) transporting oxygen
+   d) fighting infection
+
+Q5. Where are blood cells produced?
+   a) the liver
+   b) the kidney
+   c) the heart
+   d) in bone marrow
+
+Q6. Which structure contains dissolved substances that can be useful or waste?
+   a) WBC
+   b) thrombocytes
+   c) plasma
+   d) RBC
+
+Q7. How long to RBC last and where are they broken down primarily?
+   a) 120 days, spleen
+   b) 30 days kidney
+   c) 120 days, kidney
+   d) 30 days, spleen
+
+Q8. Tamāra has been infected with tapeworm! If we had a blood test we would see an increase in
+   a) platelets
+   b) Eosinophils
+   c) Neutrophils
+   d) Basophils
+
+Q9. Samuel has taken some antihistamines as he is allergic to lupin. What cells would have increased in his body that has resulted in him taking this medication?
+   a) Neutrophils
+   b) Basophils
+   c) Philrodpot
+   d) Phagocytes
+
+Q10. The first stage of haemostasis is
+   a) coagulation
+   b) vasodilation
+   c) vasoconstriction
+   d) vasopressin
+
+Q11. Why are RBC considered 'unselfish" in regards to their function?
+   a) They lack mitochondria to ensure all oxygen is delivered to other cells.
+   b) They can reproduce to share their oxygen transport abilities.
+   c) They donate their hemoglobin to white blood cells.
+   d) They consume oxygen only for their own energy needs.
+
+Q12. Which of the following blood groups is considered the universal donor?
+   a) O+
+   b) O-
+   c) AB+
+   d) AB-
+
+Q13. Which blood group seems the most 'selfish" as it can use any donated blood but can only give to one blood group?
+   a) A-
+   b) AB-
+   c) AB+
+   d) O+
+
+Q14. Why do mature RBC not have a nucleus?
+   a) To make them more rigid
+   b) To prevent them from dividing
+   c) To increase their energy production
+   d) To allow for more hemoglobin storage and oxygen transport
+
+Q15. What triggers erythropoiesis?
+   a) High levels of oxygen in the blood
+   b) Increased white blood cell count
+   c) High levels of platelets
+   d) Low oxygen levels in tissues
+
+Q16. Albumin is a large protein that floats around in blood plasma. It helps with homeostasis by acting as
+   a) fights of infections by producing antibodies
+   b) promotes the production of eosinophils
+   c) supports the transport of oxygen
+   d) a chemical sponge soaking up H+ or releasing them to maintain acid base balance
+
+Q17. Blood is kept within a very narrow pH range of
+   a) 6.9 - 7.1
+   b) 6.35 - 735
+   c) 7.35 to 7.45
+   d) 7.3 - 7.4
+
+Q18. Specific cells that produce and release antibodies are
+   a) phagocytes
+   b) Neutrophils
+   c) lymphocytes
+   d) thrombocytes
+
+Q19. Harley is an RH+ male, and his partner Quinn is an RH- female. They decide to have children. What potential complication should they consider regarding their child's health?
+   a) The child may inherit a genetic condition unrelated to RH factor.
+   b) The child may inherit the RH+ factor, potentially causing Rh incompatibility.
+   c) he child may inherit the RH- factor, causing no complications
+   d) There are no complications related to RH factors in this situation.
+
+Q20. Manu has blood type A and is in need of a blood transfusion. Her sister Jemima has blood type B wants to donate. What should be considered before proceeding with the transfusion?
+   a) Manu can only receive blood from individuals with blood type AB.
+   b) Manu can safely receive blood from Jemima because she is a sibling.
+   c) Jemima can donate to Manu only if their Rh factors match.
+   d) Manu cannot receive blood from Jemima because their blood types are incompatible
+
+========================================
+QUIZ: Buffers  (5 questions)
+========================================
+
+Q1. The fastest way of preventing large fluctuations in blood pH is through using:
+   a) digestive enzyme
+   b) buffers in the blood
+   c) respiratory mechanisms
+   d) renal mechanisms
+
+Q2. Proteins are natural buffers since they consist of:
+   a) fatty acids that can neutralise bases
+   b) negatively charged amino groups and positively charged carboxyl groups which can bind hydroxyl and hydrogen ions
+   c) positively charged amino groups and negatively charged carboxyl groups which can bind hydrogen and hydroxyl ions
+   d) positively charged amino groups which can bind hydrogen ions
+
+Q3. When CO2 and H2O are converted into , H+ ions are formed (as shown in the equation below). CO2 + H2O ↔ H2CO3 ↔ H+ + HCO3– carbonic acid bicarbonate / hydrogen carbonate These hydrogen ions are absorbed by the protein in erythrocytes so that the pH stays within the normal range. This buffering helps maintain normal blood pH despite the increase in H+ ions. One of the main reasons why the pH must stay within a certain narrow range of 7.35 to 7.45 is because cannot work optimally in suboptimum pH's. A large increase in hydrogen ions may lead to a condition called which may lead to cell death. The main buffer in blood plasma is . Another name for hydrogen carbonate is . https://ppt-online.org/105764
+   a) bicarbonate
+   b) HCO3–
+   c) hemoglobin
+   d) enzymes
+   e) acidosis
+   f) bicarbonate
+   g) hydrogen carbonate
+   h) HCO3-
+   i) bicarbonate
+
+Q4. Buffers are chemical sponges that keep the pH in the acidic range.
+   a) True
+   b) False
+
+Q5. The following is NOT an example of a buffering system in the human body.
+   a) Protein buffer
+   b) Carbohydrate-lipid buffer
+   c) Phosphate buffer
+   d) Bicarbonate-Carbonic Acid Buffer
+
+========================================
+QUIZ: The Integumentary System  (16 questions)
+========================================
+
+Q1. Skin consists of
+   a) dermis and subcutaneous fat
+   b) epidermis and dermis
+   c) epidermis, dermis and hypodermis
+   d) epidermis
+
+Q2. The tissue that supports the dermis is called
+   a) dense regular connective tissue
+   b) smooth muscle
+   c) stratified squamous epithelium
+   d) dense irregular connective tissue
+
+Q3. The looser tissue that anchors skin to the body while allowing the skin to slide freely over body structures is
+   a) blood
+   b) dense regular connective tissue
+   c) stratified squamous epithelium
+   d) adipose tissue
+
+Q4. Which layer of the skin receives the most nourishment?
+   a) epidermis and dermis
+   b) subcutaneous fat
+   c) dermis
+   d) epidermis
+
+Q5. Where in the epidermis does mitosis occur?
+   a) stratum corneum
+   b) dermis
+   c) stratum basale layer
+   d) stratum spinosum
+
+Q6. The epidermis consists of overlapping cells that are strong and waterproof ensuring the outer boundary to the body is continuous with no gaps or breaks to ensure the body is fully protected. The outermost cells of the body are
+   a) Granulocytes
+   b) Langherhans cells
+   c) Melanocytes
+   d) Keratinocytes
+
+Q7. In certain areas of the body where the epidermis needs to be a bit thicker, the dermal papillae project up into the epidermis causing ridges known which we know as
+   a) pain receptors
+   b) corns
+   c) finger and toe prints
+   d) leather
+
+Q8. The cells that help to protect the DNA inside skin cells are called
+   a) haemocytes
+   b) melanocytes
+   c) melonspermā
+   d) Keratinocytes
+
+Q9. The structures within the integumentary system that are found in hairy places of the body and produce a sweat that contains more protein and fatty substances are
+   a) apocrine glands
+   b) sebaceous glands
+   c) eccrine glands
+   d) mammary glands
+
+Q10. The skin and hair are soft, waterproof and non-brittle due to secretions from the
+   a) apocrine glands
+   b) sudoriferous glands
+   c) sebaceous glands
+   d) ceruminous glands
+
+Q11. The bacteria and fungi that live on and within the skin without causing disease are
+   a) viruses
+   b) teleflora
+   c) normal flora
+   d) pathogenic flora
+
+Q12. Skin cells can secrete a natural antibiotic that kills many microbes we come into contact with during the day. These natural antibiotics are called
+   a) acid mantle
+   b) defensins
+   c) augmentin
+   d) melanin
+
+Q13. Which of the following is a function of skin?
+   a) produces energy for the body
+   b) helps with making or synthesising vitamin D for the body
+   c) helps attach muscles to bones
+   d) stops our organs falling out
+
+Q14. Two ways the integumentary system helps to maintain our temperature when we are in a cold environment
+   a) vasodilation and piloerection
+   b) shivering and vasoconstriction
+   c) vasoconstriction and piloerection
+   d) shivering and piloerection
+
+Q15. Anne has developed creases in the skin as she has gotten older. This is due to the loss of
+   a) epithelial cells of within the epidermis
+   b) adipose tissue
+   c) skeletal muscle in her face
+   d) collagen fibres within the dermis
+
+Q16. Juju hasn't seen her brother for many years. They are finally reunited and hug each other very firmly! Juju feels a bit squashed as her
+   a) pacinian corpuscles are triggered
+   b) chemoreceptors are triggered
+   c) thermoreceptors are triggered
+   d) photoreceptors are triggered
+
+========================================
+QUIZ: Heat and Temperature  (10 questions)
+========================================
+
+Q1. Which method of heat transfer occurs when heat moves directly from one object to another through physical contact?
+   a) conduction
+   b) convection
+   c) evaporation
+   d) radiation
+
+Q2. A nurse applies a warm compress directly to a patient’s lower back to relieve muscle pain. Which method of heat transfer is primarily involved?
+   a) radiation
+   b) evaporation
+   c) conduction
+   d) convection
+
+Q3. Heat loss that occurs when air or fluid moves across the surface of the skin is known as:
+   a) conduction
+   b) radiation
+   c) convection
+   d) metabolism
+
+Q4. Which nursing intervention best demonstrates convection as a method of heat loss?
+   a) Applying an ice pack to the skin
+   b) Applying an ice pack to the skin
+   c) Leaving a patient uncovered near an open window
+   d) Using a reflective foil blanket
+
+Q5. Radiation refers to heat transfer that occurs:
+   a) When moisture evaporates from the skin
+   b) Only in cold environments
+   c) Through direct physical contact
+   d) Through electromagnetic waves without direct contact
+
+Q6. Which situation best illustrates radiation heat loss in a hospital setting?
+   a) A patient receiving IV fluids at room temperature
+   b) A patient touching a cold metal bed rail
+   c) A patient lying uncovered in a cool room
+   d) A patient sweating after exercise
+
+Q7. Which mechanism of heat loss is most closely associated with sweating?
+   a) conduction
+   b) radiation
+   c) evaporation
+   d) secretion
+
+Q8. Why is evaporation an effective method of reducing body temperature in a febrile patient?
+   a) Heat is released when sweat dries on the skin
+   b) Sweat insulates the body from heat
+   c) Skin temperature increases blood flow
+   d) Water transports heat into the body
+
+Q9. Infants are at higher risk of heat loss compared to adults primarily because they:
+   a) Have slower metabolic rates
+   b) Sweat excessively
+   c) Have thicker layers of subcutaneous fat
+   d) Have a larger body surface area relative to their weight
+
+Q10. A patient with hypothermia is rewarmed using a forced‑air warming blanket (e.g. Bair Hugger). Which primary method of heat transfer does this intervention use?
+   a) radiation
+   b) convection
+   c) evaporation
+   d) conduction
+
+========================================
+QUIZ: Homeostasis  (17 questions)
+========================================
+
+Q1. The ability of the body to maintain a stable internal environment despite changes to the external environment is known as
+   a) homostasis
+   b) osmosis
+   c) homeostasis
+   d) homogenation
+
+Q2. Match the following terminology:
+   a) stimulus
+   b) a change to the thing we are  regulating
+   c) receptor
+   d) effector
+   e) variable
+   f) the thing we are trying to regulate
+
+Q3. An example of an organ is the
+   a) cardiovascular system
+   b) red blood cell
+   c) neuron
+   d) pancreas
+
+Q4. The difference between negative and positive feedback is
+   a) negative feedback detects the stimulus while positive feedback does not require a stimulus
+   b) positive feedback moves the system closer to the normal range, while negative feedback moves the system further from the normal range
+   c) positive feedback must have a stimulus, while negative doesn't need one
+   d) negative feedback reverses changes in a system, whilst positive feedback amplifies changes to a system
+
+Q5. An example of a positive feedback mechanism is
+   a) regulation of blood calcium levels
+   b) regulation of blood clotting
+   c) regulation of body temperature
+   d) regulation of blood glucose levels
+
+Q6. Two control mechanisms for any homeostatic mechanism are the
+   a) nervous and endocrine systems
+   b) respiratory and cardiovascular system
+   c) endocrine and nervous system
+   d) urinary and nervous systems
+
+Q7. When the blood glucose levels decrease, the releases the hormone . This hormone travels via the to the liver. The hormone causes the liver to convert stored into which is released into the blood to increase blood levels to normal range.
+   a) pancreas
+   b) pancrease
+   c) glucagon
+   d) blood
+   e) glycogen
+   f) glucose
+   g) glucose
+
+Q8. In the above example where the blood glucose level has dropped, match the parts from the example to the terminology on the left.
+   a) stimulus
+   b) receptor
+   c) control centre
+   d) endocrine system
+   e) effector
+   f) glucagon releases stored glucose from the liver
+   g) effect
+   h) blood glucose levels increase
+
+Q9. Which hormone increases blood calcium levels by stimulating bone resorption and increasing calcium absorption in the intestines?
+   a) Insulin
+   b) Parathyroid hormone
+   c) Calcitonin
+   d) Cortisol
+
+Q10. A patient with chronic kidney disease is likely to experience calcium imbalance due to decreased production of:
+   a) Vitamin A
+   b) Vitamin K
+   c) Vitamin D3
+   d) Calcitrol
+
+Q11. In nursing assessment, which clinical manifestation indicates hypocalcemia?
+   a) Bradycardia
+   b) Muscle weakness
+   c) Positive Trousseau's sign
+   d) Polyuria
+
+Q12. Which process in bone tissue helps maintain normal blood calcium levels during periods of low dietary calcium intake?
+   a) Bone resorption
+   b) production of collagen
+   c) formation of cartilage
+   d) Bone mineralization (also known as deposition)
+
+Q13. A patient receiving IV calcium replacement therapy requires careful monitoring of:
+   a) Respiratory rate
+   b) White blood cell count
+   c) Heart rhythm
+   d) Blood pressure
+
+Q14. During pregnancy, which physiological change occurs to meet increased calcium demands?
+   a) Decreased parathyroid hormone secretion
+   b) increased calcium absorption through the intestine
+   c) the kidney increases calcium reabsorption into the blood (rather then peeing it out)
+   d) Decreased bone mineralization
+
+Q15. Interstitial fluid refers to the fluid that
+   a) that sits outside of cells
+   b) is also known as cytosol
+   c) is the cytoplasm
+   d) is inside cells
+
+Q16. The hormone that stimulates uterine contractions is
+   a) oestrogen
+   b) oxytocin
+   c) progesteron
+   d) oxymoron
+
+Q17. One way the integumentary system works to help maintain our temperature in a cold environment is:
+   a) shivering
+   b) sweating
+   c) vasoconstriction
+   d) widening the blood vessels in the skin
+   e) No answer text provided.
+
+========================================
+QUIZ: Homeostasis and Terminology  (15 questions)
+========================================
+
+Q1. Use a textbook or an "appendice" that contains the following "suffix" leuco and "cyte". What does the term leucocyte mean?
+   a) red blood cell
+   b) bone cell
+   c) white blood cells
+   d) merkel cell
+
+Q2. The layers of cells that make up the outer layer of the skin is called
+   a) stratified squamous epithelium
+   b) reticular tissue
+   c) simple squamous epithelium
+   d) stratified columnar epithelium
+
+Q3. A virus is not considered a living thing because it is unable to reproduce on its own. It required a host cell. Which level of biological organisation would a virus best fit in?
+   a) organism
+   b) molecule
+   c) organ
+   d) cell
+
+Q4. The dorsal body cavity relates to the
+   a) spinal cavity only
+   b) pelvic and abdominal cavities
+   c) spinal and cranial cavities
+   d) heart, lungs and mediastinum
+
+Q5. Your science lecturers are
+   a) Anne, Helen and Emma
+   b) Just Anne
+   c) Emma, Anne and Andy
+   d) Mary, Noah and Joseph
+
+Q6. A tissue is
+   a) a group of different cells that carry out one function
+   b) a group of the same cells that have a specific function
+   c) a group of different types of cells, that carry out different functions so the tissue work better
+   d) a group of similar cells arranged in such a way each cell has a different role
+
+Q7. Using an "appendice" or your text, what does "hyper" and "therm" mean. If we put them together to form HYPERTHERMIA what does this refer to?
+   a) a normal body temperature
+   b) I don't think there is a word like this
+   c) a higher than normal body temperature
+   d) a lower than normal body temperature
+
+Q8. Place the following in order from largest to smallest: lung, smooth muscle, erthrocyte, oxygen
+   a) lung, erythrocyte, smooth muscle, oxygen
+   b) erythrocyte, lung, smooth muscle, oxygen
+   c) lung, smooth muscle, erythrocyte, oxygen
+   d) oxygen, erythrocyte, smooth muscle, lung
+
+Q9. Using and appendices or appendix find out what these suffixes and prefixes mean: thrombo embo ism Thus, what is the name of a medical condition where a blood clot is moving around the body?
+   a) thrombokinesis
+   b) thromboembolism
+   c) thrombolism
+   d) thromboembokinesis
+
+Q10. Liquid wastes are removed from the body is referred to as
+   a) egestion
+   b) secretion
+   c) excretion
+   d) sweating
+
+Q11. When standing in the anatomical position, the palms of the hands are
+   a) facing forward (anterior)
+   b) facing up (superior)
+   c) facing the thighs
+   d) facing backward (posterior)
+
+Q12. The navel (belly button) is .................................. to the thorax
+   a) superior
+   b) posterior
+   c) lateral
+   d) inferior
+
+Q13. Timothy has a fever. The best way to help cool him down is to
+   a) stick Tim in an ice bath
+   b) blow a fan in his face
+   c) circulate air by aiming a fan at the wall
+   d) put some ice cubes on his neck and face
+
+Q14. Anne's dog Ianto is feeling cold at night. Anne can help keep Ianto warm by the principle of conduction by
+   a) blow hot air from a heater at him
+   b) placing a sheepskin on the floor for him to sleep on
+   c) put Ianto in a sunny spot
+   d) Use an infared lamp over him
+
+Q15. From a purely biological context, identical offspring produced from one parent are formed by
+   a) paternal twins
+   b) anerobic reproduction
+   c) sexual reproduction
+   d) asexual reproduction
+
+========================================
+QUIZ: Osmosis and Fluid Movement  (10 questions)
+========================================
+
+Q1. What happens in this scenario?
+   a) water moves into the dialysis tube
+   b) water moves out of the dialysis tube
+
+Q2. Geoffrey ate a packet of chips and afterwards found that he was feeling rather dehydrated. What happened to his blood volume? decrease What happened to his blood pressure? [ Select ] ["decrease", "increase"] This scenario is best described by the lab set up [ Select ] ["15% sucrose-filled dialysis tubing in beaker with 15% sucrose", "15% sucrose-filled dialysis tubing in beaker with 40% sucrose", "15% sucrose-filled dialysis tubing in beaker with 0% sucrose"]
+   a) increase
+   b) decrease
+   c) decrease
+   d) increase
+   e) 15% sucrose-filled dialysis tubing in beaker with 15% sucrose
+   f) 15% sucrose-filled dialysis tubing in beaker with 40% sucrose
+   g) 15% sucrose-filled dialysis tubing in beaker with 0% sucrose
+
+Q3. The kidney's main job is to get rid of extra fluid and waste material in your blood. Kidneys harmed by disease, injury, or birth defects lose their filtering ability, and cannot perform the excretory functions needed to maintain homeostasis. During dialysis, what components of the person's blood is filtered out of the semi-porous membrane?
+   a) RBCs and dead WBCs
+   b) plasma proteins
+   c) urea and sugars
+   d) urea and salt
+
+Q4. Match these term with the correct definitions.
+   a) facilitated diffusion
+   b) diffusion
+   c) osmosis
+
+Q5. Fill in the gaps about hydrostatic pressure as the driving force of filtration. Filtration is a passive transport process because it does not use energy from ATP .
+   a) passive
+   b) active
+   c) uses energy from ATP
+   d) does not use energy from ATP
+
+Q6. A cell is placed in a solution and after a while, it shrinks - what kind of solution has the cell been placed in?
+   a) hypertonic solution
+   b) hypotonic solution
+   c) isotonic solution
+
+Q7. Anne is in a hurry making a coffee between her meetings. She goes for the instant coffee in the staff room. Can she use cold water when doing this? will it work? Fill in the gaps about diffusion below: When temperature increases, the kinetic energy of the particles has [ Select ] ["remained the same", "decreased", "increased"] . The increased motion of the particles causes them to diffuse [ Select ] ["slower", "faster"] . Therefore, at higher temperatures, the rate at which fluid particles will diffuse is faster than at lower temperatures.
+   a) remained the same
+   b) decreased
+   c) increased
+   d) slower
+   e) faster
+
+Q8. What happens to red blood cells (RBCs) that are placed in an isotonic solution?
+   a) cell bursts
+   b) cell shrinks
+   c) cell integrity remains the same
+
+Q9. Which of the following is an isotonic saline solution. What could happen if the concentration is higher than it should be?
+   a) 0.09% ; blood cells may gain water and burst
+   b) 0.9% NaCl;  blood cells may lose water and shrink
+   c) 0.9%; KCl  blood cells may  lose water andshrink
+   d) 0.09% ; blood cells may gain water and burst
+
+Q10. In the cell membrane, different proteins play different transport functions. In which of the protein-mediated processes the protein changes shape but does not use energy from ATP to transport molecules. The molecules move along their concentration gradient.
+   a) simple diffusion
+   b) Proton pump action
+   c) Osmosis
+   d) Facilitated diffusion
+
+========================================
+QUIZ: Fluids, Acids and Bases  (63 questions)
+========================================
+
+Q1. Homeostasis is:
+   a) maintaining the body despite changes
+   b) the way the body adjusts itself
+   c) regulation of the body
+   d) maintaining a stable internal environment, despite changes in the external environment
+
+Q2. Chemical messengers that are released in the blood are called
+   a) enzymes
+   b) hormones
+   c) amino acids
+   d) antibodies
+
+Q3. A system which works to reduce the stimulus is called
+   a) positive feedback
+   b) negative feedback
+   c) hyposecretion
+   d) hypersecretion
+
+Q4. Hormonal responses are different to neural responses because
+   a) hormones are fast acting, and the effects last longer than nerve responses
+   b) nerves are fast acting and are longer lasting than hormonal effects
+   c) nerves are slow acting, and longer lasting than hormones
+   d) hormones are slow acting, and the effects are longer lasting than nerves
+
+Q5. The hormone that is released when the body is dehydrated is
+   a) vasopressin
+   b) PTH
+   c) oxytocin
+   d) ADH
+
+Q6. An increase in plasma osmolarity will cause the secretion of
+   a) ADH
+   b) insulin
+   c) thryoxine
+   d) PTH
+
+Q7. A low level of calcium in the blood plasma causes the release of
+   a) glucagon
+   b) insulin
+   c) PTH
+   d) calcitonin
+
+Q8. Calcitonin targets which cells in the skeleton?
+   a) osteoclasts
+   b) osteoblasts
+   c) vitamin D cells
+   d) osteocytes
+
+Q9. Calcitonin is produced by
+   a) osteoblasts
+   b) vitamin D
+   c) thyroid gland
+   d) parathyroid gland
+
+Q10. The hormone responsible for controlling your metabolic rate is
+   a) TSH
+   b) adrenaline
+   c) thyroxine
+   d) growth hormone
+
+Q11. The thyroid gland is
+   a) is on top of your kidneys
+   b) part of the brain
+   c) in your thorax
+   d) just below your voice box
+
+Q12. The hormone produced by the thyroid gland and is responsible for depositing calcium into bone is called
+   a) thyroxine
+   b) TSH
+   c) calcitonin
+   d) Iodine
+
+Q13. When glucose levels are high, which gland is stimulated to secrete insulin?
+   a) pancreas
+   b) liver
+   c) hypothalamus
+   d) thymus
+
+Q14. When blood glucose levels are low, the liver is stimulated to
+   a) change stored glycogen into glucose to be released into the blood
+   b) change stored glucagon into glucose to be released into the blood
+   c) change stored glucagon into glycogen to be released into the blood
+   d) change stored glucose into glycogen to be released into the blood
+
+Q15. In a cup of coffee, the water is the
+   a) solute
+   b) super-solute
+   c) solution
+   d) solvent
+
+Q16. A solution where you can see the particles have not actually dissolved, is called
+   a) a super-saturated solution
+   b) a colloid
+   c) a suspension
+   d) a solution
+
+Q17. The most important inorganic molecule in living matter is
+   a) amino acids
+   b) carbohydrates
+   c) lipids
+   d) water
+
+Q18. Substances that taste sour, and can react with metals are
+   a) alkali
+   b) bases
+   c) acids
+   d) salts
+
+Q19. Substances that are better known as proton acceptors are
+   a) acids
+   b) bases
+   c) water
+   d) salts
+
+Q20. The more H+ ions in a solution the
+   a) the higher the alkalinity of the solution
+   b) greater the acidity of the solution
+   c) lower the acidity of the solution
+   d) the higher the pH
+
+Q21. The relative concentration of hydrogen ions in various body fluids is measured in concentrations called
+   a) hydrometer
+   b) PH
+   c) pH units
+   d) log units
+
+Q22. At which pH does the number of hydrogen ions equal the number of hydroxyl ions?
+   a) 5
+   b) 7
+   c) 2
+   d) 14
+
+Q23. Blood has a pH of 7.4. We would say blood is
+   a) slightly acidic
+   b) a buffer
+   c) neutral
+   d) slightly alkaline
+
+Q24. A chemical that resists abrupt and large changes in pH of body fluids, by either releasing or absorbing H+ is known as
+   a) an enzyme
+   b) erythropoiten
+   c) water
+   d) a buffer
+
+Q25. When someone is anxious and has a panic attack, often their blood has become quite alkalotic. They might be asked to breathe in and out of a paper bag. The purpose of this is to
+   a) get them to ventilate faster and lower the pH
+   b) give them something to focus on
+   c) to get them to rebreathe the carbon dioxide, in turn increasing carbonic acid in the body, and lowering the pH till it returns to normal
+   d) to get them to rebreathe the carbon dioxide, in turn increasing carbonic acid in the body, and raising the pH until it returns to normal
+
+Q26. When the blood turns acidic, the kidneys
+   a) retain hydrogen ions, and exrete bicarbonate ions
+   b) act like a sponge and just soak up all the hydrogen ions, and release them when they are needed
+   c) retain bicarbonate ions, and excrete hydrogen ions
+   d) release aldosterone
+
+Q27. An example of a positive feedback mechanism is
+   a) increasing blood glucose levels
+   b) helping blood to clot
+   c) reducing dehydration by reabsorbing more water in the kidney tubules
+   d) increasing calcium uptake by bones
+
+Q28. When glucose molecules are in an area of low concentration, and need to be moved to an area of high glucose concentration, they move by
+   a) active transport
+   b) osmosis
+   c) selective permeability
+   d) faciliated diffusion
+
+Q29. One form of passive transport requires the help of a substance like insulin to change the permeability of the cells, by changing the shape of the leakage channels to allow glucose to move from high to low concentration. This kind of passive transport is known as
+   a) facilitated diffusion
+   b) active transport
+   c) simple diffusion
+   d) osmosis
+
+Q30. In a homeostatic mechanism, the effector
+   a) produces a change that will influence the stimulus
+   b) produces a change that stimulates the control centre
+   c) determines the response
+   d) detects the stimulus
+
+Q31. If a solution gets too concentrated with solutes, it can form a supersaturated solution. In the human body, a super-saturated solution can result in
+   a) kidney stones
+   b) oedema
+   c) a swollen brain
+   d) appendicitis
+
+Q32. The number of particles in a solution is measured by
+   a) hedgehogs
+   b) pH
+   c) moles
+   d) voles
+
+Q33. Diffusion will occur more slowly in all of the following situations EXCEPT
+   a) high pressure
+   b) if there is more solute
+   c) large molecule size
+   d) low temperature
+
+Q34. The movement of a solvent from an area with a low solute concentration, to an area where there is a higher solute concentration is called
+   a) osmosis
+   b) filtration
+   c) facilitated diffusion
+   d) simple diffusion
+
+Q35. Cells are like a closed container. Adding water will
+   a) have no pressure effects
+   b) increase the osmotic pressure inside
+   c) increase the hydrostatic pressure inside
+   d) decrease the hydrostatic pressure inside
+
+Q36. When alcohol enters the bloodstream,
+   a) it will decrease the osmolarity of the fluid outside the cells, causing water to move into cells, so the cells swell up.
+   b) it increases the osmolarity of the fluid outside the cells, causing water to move out of the cells, so the cells shrink.
+   c) it will decrease the osmolarity of the fluid outside the cells, causing water to move out of the cells, so the cells shrink
+   d) it will increase the osmolarity of the fluid outside the cells, causing water to move into the cells, so the cells will swell up
+
+Q37. Two places in the body where filtration occurs is
+   a) alveoli and capillaries
+   b) glomeruli and alveoli
+   c) alveoli and kidneys
+   d) glomeruli and capillaries
+
+Q38. A red blood cell will swell and possibly burst when placed in
+   a) hypertonic solutions
+   b) alcohol
+   c) hypotonic solutions
+   d) isotonic solutions
+
+Q39. A person has diarrhoea and becomes severly dehydrated. The type of dehydration they are suffering from is
+   a) hypertonic
+   b) hydroponic
+   c) isotonic
+   d) hypotonic
+
+Q40. Some cells like nerve cells, need to transport sodium out, and potassium in. This means that the sodium concentration is LOWER on the inside of the cells. This maintains the electrochemical gradient that cells need to send impulses. This is an example of
+   a) facilitated diffusion
+   b) filtration
+   c) active transport
+   d) passive transport
+
+Q41. Water's importance to living systems relects its
+   a) ability to dissolve many substances
+   b) protective qualites as it froms a resilient cushion around some organs e.g. CSF
+   c) ability to absorb and release large amounts of heat
+   d) ability to change from one state to another e.g. from liquid to gas
+
+Q42. A healthy, young woman will have
+   a) more water than a healthy, young male of the same age and body composition
+   b) less water than an older person
+   c) more water than a baby
+   d) less water than an infant
+
+Q43. Extracellular fluid consists of all of the following except:
+   a) plasma
+   b) intersitial fluid
+   c) cytosol
+   d) the fluid and jelly in the eye
+
+Q44. The word electrolyte means
+   a) they are lighter than an electron
+   b) they can conduct electricity
+   c) they are used to power the lights in your home
+   d) they have no electrons
+
+Q45. The most abundant electrolytes in the extra-cellular fluid (ECF) are
+   a) potassium and bicarbonate
+   b) chlorine and potassium
+   c) sodium and potassium
+   d) sodium and chloride
+
+Q46. The concentrations of sodium and potassium ions in ECF and ICF are nearly opposite. This is because
+   a) these ions are on different sides of the plasma membrane and reflects the activity of the pumps used in active transport.
+   b) these ions must be kept separate at all costs
+   c) these ions are both + ions, and so need to be separated as they push each other apart like magnets
+   d) these ions reflect the activity of the hydrostatic pressures exerted on cells
+
+Q47. The body gets water from
+   a) eating, drinking, metabolism, absorbing water from the environment
+   b) absorbing rain and bath water
+   c) eating, metabolism and drinking
+   d) drinking and metabolism
+
+Q48. An example of an insensible water loss is
+   a) sweating
+   b) in the faeces
+   c) breathing
+   d) urinating
+
+Q49. The release of ADH will cause
+   a) urine to be more dilute
+   b) more urine being excreted
+   c) no change to urine output
+   d) less urine being excreted
+
+Q50. A rise in plasma osmolarity
+   a) will cause ADH production to stop
+   b) causes the thirst centre to be stimulated
+   c) will cause the kidneys to release large amounts of concentrated urine
+   d) will cause the kidneys to release large amounts of diluted urine
+
+Q51. The body essentially has a powerful "water magnet". This is
+   a) sodium atoms
+   b) iron ions
+   c) sodium ions
+   d) chloride ions
+
+Q52. Which statement is TRUE of anti-diuretic hormone?
+   a) It is activated when a person is dehydrated
+   b) It directly controls the salt levels in the body
+   c) It is released when a person drinks too much water
+   d) It is responsible for the excretion of excessive amounts of water
+
+Q53. Your thirst is quenched the moment
+   a) the kidney nephrons reabsorb water to restore blood volume
+   b) water arrives in the stomach and the stretch receptors are activated
+   c) water enters the mouth and the throat and these areas are moistened
+   d) water is reabsorbed through the digestive system
+
+Q54. A decrease in ECF (extracellular fluid) osmolarity means that
+   a) ADH production stops
+   b) PTH production will start
+   c) PTH production stops
+   d) more ADH is released
+
+Q55. Mental confusion is often an earlier sign of
+   a) dehydration
+   b) hypoproteinemia
+   c) over-hydration
+   d) having studied too much
+
+Q56. Courtney drinks an extraordinary amount of water very, very quickly.
+   a) The ICF will become more concentrated as a result
+   b) The ECF becomes more concentrated and water moves into cells
+   c) The ECF concentrations will cause water to move into the cells of the body
+   d) The ECF becomes dilute, and water moves into cells causing them to swell
+
+Q57. Hyponatremia is caused by
+   a) hypotonic hydration
+   b) isotonic hydration
+   c) hypertonic hydration
+   d) dehydration
+
+Q58. Hypoproteinemia is a condition where you have low levels of proteins in the plasma. This will result in
+   a) impaired circulation
+   b) nausea
+   c) odema
+   d) shrivelled skin
+
+Q59. The most abundant positive (+) electrolyte in the body is
+   a) K⁺
+   b) Ca⁺
+   c) Na⁺
+   d) Cl⁺
+
+Q60. High levels of aldosterone will
+   a) increase the amount of sodium reabsorbed by the kidney. As water follows salt, so to speak, a person will also retain fluid in the body
+   b) inhibit the reabsorbtion of sodium in the kidney, and excrete the sodium, and as water usually follows salt, water will be excreted too
+   c) allow sodium to be reabsorbed, but large amounts of urine will be produced that is very dilute
+   d) allow sodium to be excreted but not water, so urine will be really concentrated
+
+Q61. Jamie eats a meal with a high salt content. It is likely his blood pressure will
+   a) not be affected
+   b) increase, as the salt in the blood, causes water to be drawn into the blood vessels
+   c) I can't work this out!
+   d) decrease, as the salt causes water to go into body cells
+
+Q62. Shallow breathing will result in
+   a) metabolic alkalosis
+   b) respiratory alkalosis
+   c) metabolic acidosis
+   d) respiratory acidosis
+
+Q63. An asthmatic might experience
+   a) metabolic alkalosis
+   b) respiratory alkalosis
+   c) metabolic acidosis
+   d) respiratory acidosis
+
+========================================
+QUIZ: pH  (5 questions)
+========================================
+
+Q1. Every time choose an item from the drop-down menu to answer the following questions. pH scale The pH scale measures the degree of [ Select ] ["alkalinity", "sweetness", "acidity", "phosphates"] of a solution. It means it measures the number of [ Select ] ["potassium", "oxygen", "hydroxide", "sodium", "hydrogen"] ions in the solution. The pH scale goes from [ Select ] ["7", "14", "0", "1"] to [ Select ] ["7", "14", "0", "1"] with [ Select ] ["1", "14", "0", "7", "10"] being neutral.
+
+Q2. Use the image to help you find the answers. Fill the blanks with words in the word list. https://www.brighthubengineering.com/marine-engines-machinery/27471-measuring-ph-on-board-ships-using-ph-meter/ WORDLIST: EGG YOLK, SEAWATER, ACIDOSIS, ALKALOSIS, BATTERY ACID, 0-2, 5-6, 6-7, 13-14, 7-8, 7, 7.45, 7.35, 7.5, 8, DRAIN CLEANER, ALKALINE, HYDROXIDE, GASTRIC JUICE, 1. Strong acids like and hydrochloric acid in will have a pH of and weak acids like will have a pH of . 2. Strong bases like will have a pH of and weak bases like will have a pH of . 3. Saliva has a pH of which is called . It means there are equal numbers of hydrogen ions and (OH-) present. 4. Cola drinks contain phosphoric acid, and, due to the carbon dioxide dissolved in it, also acid. 5. Blood's normal pH is slightly . sets in when blood pH drops below 7.35. sets in when blood pH goes above 7.45.
+
+Q3. Every time choose an item from the drop-down menu to answer the following questions. https://getwellstaywellathome.com/blog/2012/03/using-ph-as-a-health-monitor/ 1. Which is more acidic: A substance with a pH of ……… five or a substance with a pH of one? [ Select ] ["FIVE", "ONE"] three or a substance with a pH of nine? [ Select ] ["THREE", "NINE"] 2. Which ONE substance showed on the pH scale would be: The most alkaline? [ Select ] ["HYDROCHLORIC ACID", "SODIUM HYDROXIDE"] The most acidic? [ Select ] ["HYDROCHLORIC ACID", "SODIUM HYDROXIDE"] Neutral [ Select ] ["SALIVA", "EGGS"] 3. Assume a person has acid indigestion and wants to neutralise (make harmless) the excess acid Why would milk not be able to neutralise the acid efficiently? Milk is not [ Select ] ["NEUTRAL", "ACIDIC", "ALKALINE"] Give another substance from the scale that would be safe and efficient to use to neutralise the excess acid. Baking soda and [ Select ] ["SODIUM HYDROXIDE", "BATTERY ACID", "BORAX", "BLEACH", "MILK OF MAGNESIA"] . 4. Washing powders (detergents) are all [ Select ] ["ALKALINE", "NEUTRAL", "ACIDIC"] . 5. An upset stomach is [ Select ] ["ALKALINE", "ACIDIC"] acidic than a healthy stomach.
+
+Q4. Fill the blanks with words from the given information. Universal indicator strips with the following complementary chart are dipped in four different solutions. Universal indicator is a paper that was soaked in coloured substances that change colour at different levels. What pH are the solutions based off the given colour changes?
+
+Q5. Every time choose an item from the drop-down menu to answer the following questions. https://www.alleganynutrition.com/supporting-pages/the-human-digestive-tract-ph-range-diagram/ Use the diagram above and your knowledge of where different enzymes work in the human digestive system to answer the following questions by choosing the correct item from the drop-down list. Salivary amylase is an enzyme that works best in a(n) [ Select ] ["NEUTRAL", "ALKALINE", "ACIDIC"] environment. Pepsinogen is activated to the active enzyme, pepsin, by [ Select ] ["ALKALINE", "ACIDIC", "NEUTRAL"] conditions. Pancreatic amylase is an enzyme that works best in a [ Select ] ["HIGHLY ACIDIC", "HIGHLY ALKALINE", "SLIGHTLY ALKALINE", "SLIGHTLY ACIDIC"] environment. In the duodenum, the enzyme trypsin breaks down polypeptides to tripeptides and dipeptides in a(n) [ Select ] ["highly acidic", "slightly acidic", "slightly alkaline", "neutral", "highly alkaline"] environment created by bile and a high concentration of [ Select ] ["hydroxide ions", "bicarbonate ions"] from [ Select ] ["Gastric pits", "Lieberkuhn's crypts", "acini cells of pancreas", "Brunner's glands"] in the duodenal mucosa.
+
+========================================
+QUIZ: The Urinary System  (3 questions)
+========================================
+
+Q1. Choose the correct answer from the dropdown boxes to label the nephon:
+
+Q2. Choose the correct answers from the dropdown boxes to label the kidney:
+
+Q3. Choose the correct definition for the following terms:
+
+##### Module 3 #####
+
+========================================
+QUIZ: Nutrients  (21 questions)
+========================================
+
+Q1. Water is a
+
+Q2. Anne puts some white table sugar into her coffee. White table sugar is an example of
+
+Q3. When someone suffers malnutrition, they have a deficiency in particular nutrients. Marasmus is an example of malnutrition related to a lack of
+
+Q4. The mucus that is produced to lubricate joints is predominantly formed from
+
+Q5. Courtney loves coca cola (and the not the sugar free stuff!). This is a very concentrated energy source. We would refer to this as
+
+Q6. Match the following
+
+Q7. The axon of nerve cells is covered in
+
+Q8. Oils that have been solidified are known as
+
+Q9. Calcium is needed for muscle contraction. In the body, one type of Troponin enzyme binds to these calcium ions to help the muscle contract. Troponin is an example of a cardiac enzyme. When Troponin levels are high this might indicate (select all that apply)
+
+Q10. Salivary amylase
+
+Q11. Which nutrient is made in the large intestine and helps the liver to make proteins that help blood to clot?
+
+Q12. When Anne was young her mum told her she needed to eat the crusts of her bread, as this would make her hair curly. Obviously that did not work and is untrue. However, her mum also told her to eat her carrots to help Anne see in the dark. Which of the following statements is correct?
+
+Q13. Many cell structures and functional substances within the cells are things like collagen, enzymes and haemoglobin. These are primarily made from
+
+Q14. Triglycerides are made up of
+
+Q15. Daenerys is pregnant and her baby is overdue. The midwife suggests that Daenerys and her partner Kharl could have sex which might start labor because
+
+Q16. Raymond has a heart attack and needs to have a coronary bypass to get around the plague in the blocked coronary artery. The plaque is caused by
+
+Q17. You are working with a patient who is a very strict vegetarian who keeps getting sick over the winter times. You feel they might not be able to produce enough antibodies to fight off these off. You wonder if they are not getting the whole range of amino acids in the body. There are how many different amino acids that are essential in the diet?
+
+Q18. A catalyst is something that speeds up reactions. A classic catalyst in the body is
+
+Q19. Freddy goes off to the pub on Friday night to celebrate his 30th birthday. After a few drinks he starts to feel a bit woozy and thinks he needs to have some food to reduce the toxic effects of the alcohol he has had. The best thing from the menu to help reduce this toxicity is
+
+Q20. One thing that carbohydrates, lipids and proteins have in common is they form
+
+Q21. Daenny and Kharl welcome their new baby. When the baby is six months old, she isn't meeting growth milestones. The doctor asks Daenny and Kharl about the babys diet and determines the baby is probably low in
+
+========================================
+QUIZ: Nutrition  (26 questions)
+========================================
+
+Q1. In New Zealand, the unit for measuring the amount of energy in food is the
+
+Q2. Select all that apply The major nutrients are:
+
+Q3. A balanced diet is one where
+
+Q4. There are about 50 molecules that the body cannot make fast enough, and these have to be provided for in the diet. These molecules are known as
+
+Q5. A shortage of this molecule can suppress brain function, and lead to death! This molecule is:
+
+Q6. Glucose is an example of a
+
+Q7. Highly refined carbs, such as lollies, and soft drinks provide concentrated energy sources. The term used to describe such foods is
+
+Q8. The nutrient that can reduce toxicity of drugs, medications and other substances are
+
+Q9. Consider the structure of the plasma membrane of a cell. Which of the following choices, show all the nutrients that are needed to help build and maintain the structure?
+
+Q10. Animal fats and dairy foods contain
+
+Q11. One of the function of lipids is to
+
+Q12. Which of the following is NOT a function of lipids?
+
+Q13. A diet rich in proteins would be one consisting of
+
+Q14. Which of the following are incomplete proteins?
+
+Q15. Keratin and collagen that form parts of the integumentary system are formed from eating
+
+Q16. Enzymes are examples of
+
+Q17. Amino acids that are not being used to make new proteins are
+
+Q18. To make proteins, do all the amino acids need to be present in a cell, at the same time, and in sufficient amounts?
+
+Q19. The substances needed to help the body use necessary nutrients are called
+
+Q20. Most vitamins are eaten or ingested. The vitamin that is made by the skin is
+
+Q21. Vitamin K is needed for
+
+Q22. Select all that apply The mineral calcium is needed in the body to:
+
+Q23. Iodine is the mineral needed to
+
+Q24. When the energy taken in, and the energy being used or going out of the body are balanced, a person's mass will
+
+Q25. Increases in body temperature
+
+Q26. True or false? One way our body regulates food intake is by transmitting messages, via nerves, from the stretch receptors in the stomach and telling the brain how much has been eaten.
+
+========================================
+QUIZ: Basic Digestive System Structure & Function  (13 questions)
+========================================
+
+Q1. Part C is known as the ....
+
+Q2. Part D is known as the ....
+
+Q3. Part A is called:
+
+Q4. Part G is called the ....
+
+Q5. Part H is known as the large intestine.
+
+Q6. Part I is called the ...
+
+Q7. The duodenum is shown by part
+
+Q8. The gall bladder is labelled by letter:
+
+Q9. The rectum is labelled by letter .....
+
+Q10. The anus is labeled by letter .....
+
+Q11. Match the letters of the parts of the digestive system to the functions.
+
+Q12. 1. Give the letter (A to K) of ONE place (besides the mouth) in the digestive system where mechanical digestion takes place. 2. Give the letter (A to K) of THREE places in the digestive system (besides the mouth) where chemical digestion takes place.
+
+Q13. 1) Write the letters A, B or C from the diagram to show the parts labeled as below. Lacteal Capillaries 2) Write the letters A, B or C from the diagram to show the parts into which the following nutrients are absorbed. Fatty acids Glucose Amino acids
+
+========================================
+QUIZ: Digestive System Structure & Function  (9 questions)
+========================================
+
+Q1. Name the following structures
+
+Q2. What are the functions of the following structures
+
+Q3. Make use of the diagram, your knowledge, and textbooks to complete the following matching exercise. https://ivcjournal.com/digestive-enzymes-dogs-cats/
+
+Q4. Make use of the diagram, your knowledge, and textbooks to complete the following matching exercise. https://healthjade.net/cholecystokinin/
+
+Q5. https://ohiostate.pressbooks.pub/vethisto/wp-admin/admin-ajax.php?action=h5p_embed&id=21 This slide does NOT show a section through the small intestine because .......
+
+Q6. https://digitalhistology.org/quizzes/digestive-system/ This must be a cross-section through the _______________ since _________________ are visible in the ........
+
+Q7. https://digitalhistology.org/quizzes/digestive-system/ The arrows show the ...........................of the small intestine
+
+Q8. This image can easily be identified as being a section through the ......... because one can see the ...........
+
+Q9. Trypsin and pepsin are protein-digesting enzymes. They are released in their inactive forms to prevent them from digesting the pancreas and stomach wall respectively.
+
+========================================
+QUIZ: Digestion - SAQs  (4 questions)
+========================================
+
+Q1. Describe the composition of pancreatic juice. Where in the pancreas in this juice produced and how does it reach the duodenum? Write your answer below. You'll be able to check all your answers at the end of the quiz.
+
+Q2. Describe the functions of three enzymes in the pancreatic juice
+
+Q3. Describe the composition of gastric juice (name the 4 components). Explain the function of each component
+
+Q4. Describe the structural and functional differences between the mucosa of the stomach and that of the small intestine.
+
+========================================
+QUIZ: Digestion (mouth to stomach)  (26 questions)
+========================================
+
+Q1. Ingestion is
+
+Q2. Sublingual, Submandibular and Parotid are types of
+
+Q3. Which of the following is a digestive function of saliva
+
+Q4. The pharynx is the
+
+Q5. The term for chewing is
+
+Q6. The teeth, tongue and saliva work to roll the food in the mouth up into a ball for swallowing. This ball is called a
+
+Q7. The term that refers to the waves of muscular contraction that moves the food through the digestive system is
+
+Q8. The serous membranes of the stomach
+
+Q9. The ridges in the stomach are called
+
+Q10. The gastric juice produced by the stomach of an infant contains
+
+Q11. Most enzymes require a neutral pH and work best at 37 degrees Celsius. However, the enzyme in the stomach requires a low pH. This is because
+
+Q12. After the stomach churns, and the gastric juices are mixed up with the bolus, the food breaks down even more and is turned into a liquified food mass called
+
+Q13. The mechanical and chemical changing of food composition is called
+
+Q14. Two muscular rings control movement of food into and out of the stomach. They are called the
+
+Q15. The lower part of the stomach that is shaped a bit like a 'J' is called the
+
+Q16. The oesophagus is
+
+Q17. Choose the answer that lists the four layers of the wall of the alimentary canal in order from innermost to outermost
+
+Q18. Chemical digestion starts in the
+
+Q19. Sometimes the sphincter muscles weaken. What is a possible effect of a weakened cardiac sphincter?
+
+Q20. The stomach can expand to over 100 times its empty volume. This is due partly to the
+
+Q21. Sione suffers from acid reflux and consumes many antacid tablets (like Quick Eze or Mylanta). He finds that he is unable to digest which of the following nutrients very well.
+
+Q22. Which cells are responsible for producing HCl
+
+Q23. Which of the following types of epithelial cells are mostly predominant throughout the digestive tract?
+
+Q24. In addition to storage and mechanical digestion of food, the stomach:
+
+Q25. The following nutrients must be digested:
+
+Q26. When peristalsis happens in reverse you will
+
+========================================
+QUIZ: Digestion (duodenum to anus)  (28 questions)
+========================================
+
+Q1. Which of the following is NOT an accessory digestive organ?
+
+Q2. All nutrients are absorbed through the villi and are taken to the liver for metabolic processing, or storage. The name of the blood vessel that collects and takes these nutrients to the liver is the
+
+Q3. The beginning of the small intestine is called the
+
+Q4. When the semi digested food enters the duodenum, have the fats or lipids been digested?
+
+Q5. One of the functions of the small intestine is to completely finish of the chemical digestion of macromolecules to the building blocks. The other function of the small intestine is to
+
+Q6. The liver is made of lobules. Each lobule is made up of liver cells. These are called
+
+Q7. Which of the following is NOT a function of the liver
+
+Q8. As red blood cells (RBCs) do not have nuclei, they are unable to make new proteins and thus are unable to repair themselves when they get old and inflexible. The old, worn-out RBCs go to the liver where they are broken down. The haem protein in the RBC is used to form
+
+Q9. Which of the following is NOT a function of bile?
+
+Q10. Which of the following TWO statements are true, in regard to bile.
+
+Q11. Pancreatic juice
+
+Q12. The structure divided into the caecum, appendix, colon, rectum, anus is the
+
+Q13. Pancreatic amylase, lipase and trypsin are released and then activated in the duodenum. They are collectively referred to as
+
+Q14. The large intestine contains normal flora (bacteria that reside normally on or within the body). One of the functions of these bacteria is to
+
+Q15. The main function of the colon is to
+
+Q16. The enzyme trypsin
+
+Q17. Segmentation contractions of the small intestine mix which of the following substances?
+
+Q18. Undigested food is moved along the colon by two processes. These are
+
+Q19. There are two sorts of nerves. Parasympathetic nerves work when you are resting. Sympathetic nerves are working when you are active, or when you are scared or frightened. These are the nerves that spur you into action when you are scared! When you want to empty the rectum in order to defecate, which nerves do you think would be functioning more?
+
+Q20. The majority of nutrient absorption occurs in the
+
+Q21. When your tummy growls in response to an ad on TV, or the smell of food, which part of the gastric secretion is occurring
+
+Q22. The small intestine is well adapted to absorb nutrients. It has become specialised for this job with the presence of
+
+Q23. In terms of digestion, the colons greatest contribution would be
+
+Q24. Fatty acids known as triglycerides, are absorbed into the
+
+Q25. The small intestine is so called because
+
+Q26. When the small intestine secretes the hormones CCK and secretin, the hormones go into the blood and cause
+
+Q27. The liver is least likely to be involved with
+
+Q28. Microscopically, the liver is made up of rows of cuboidal cells with small blood spaces running between the cells called
+
+========================================
+QUIZ: Carbohydrate Metabolism  (12 questions)
+========================================
+
+Q1. The primary purpose of carbohydrate metabolism in the human body is to:
+
+Q2. The main carbohydrate found in the diet that is broken down during digestion is:
+
+Q3. During digestion, carbohydrates are mainly broken down into:
+
+Q4. Excess glucose that is not immediately required for energy is stored in the liver and muscles as:
+
+Q5. When blood glucose levels fall between meals, which hormone helps raise blood glucose levels?
+
+Q6. Which statement best describes glycolysis?
+
+Q7. Why is understanding carbohydrate metabolism important in nursing practice?
+
+Q8. Carbohydrate metabolism takes place primarily in which parts of the body?
+
+Q9. The enzyme amylase plays a key role in carbohydrate metabolism by:
+
+Q10. When blood glucose levels are high, insulin promotes:
+
+Q11. What happens to glucose once it enters a body cell?
+
+Q12. Which carbohydrate storage form is found primarily in the liver and skeletal muscles?
+
+========================================
+QUIZ: Protein Metabolism  (10 questions)
+========================================
+
+Q1. The main function of protein metabolism in the human body is to:
+
+Q2. During digestion, dietary proteins are broken down into:
+
+Q3. Protein digestion begins primarily in the:
+
+Q4. Which enzyme plays a major role in starting protein digestion in the stomach?
+
+Q5. After digestion, amino acids are absorbed mainly in the:
+
+Q6. Once absorbed, amino acids are used by the body to:
+
+Q7. Excess amino acids that are not needed for protein synthesis are:
+
+Q8. The process of removing the nitrogen group from amino acids during metabolism is called:
+
+Q9. The liver plays an important role in protein metabolism by:
+
+Q10. When protein intake is inadequate, the body is most likely to:
+
+========================================
+QUIZ: Lipid Metabolism  (10 questions)
+========================================
+
+Q1. The primary role of lipid metabolism in the human body is to:
+
+Q2. Dietary lipids are mainly digested in the:
+
+Q3. Which substance is released by the liver to help break down fats into smaller droplets?
+
+Q4. The main enzyme responsible for breaking down triglycerides into fatty acids is:
+
+Q5. During digestion, lipids are broken down into:
+
+Q6. After absorption, most lipids are transported in the body:
+
+Q7. Excess lipids that are not immediately required for energy are mainly stored in:
+
+Q8. When carbohydrate intake is low, lipids can be broken down to provide:
+
+Q9. Which hormone promotes the storage of fat after a meal?
+
+Q10. During prolonged fasting or starvation, increased fat metabolism can lead to the production of:
+
+========================================
+QUIZ: More Metabolism Questions  (9 questions)
+========================================
+
+Q1. A synthesis reaction is best described as:
+
+Q2. Which of the following is an example of a decomposition reaction?
+
+Q3. Which statement best describes the key difference between synthesis and decomposition reactions?
+
+Q4. Which reaction type is involved in glycogen formation in the liver?
+
+Q5. Decomposition reactions are especially important because they:
+
+Q6. Anabolism refers to metabolic processes that:
+
+Q7. Catabolism is best described as the process of:
+
+Q8. Which example best represents an anabolic process?
+
+Q9. Which statement correctly compares anabolism and catabolism?
+
+========================================
+QUIZ: DNA Protein Synthesis  (7 questions)
+========================================
+
+Q1. DNA is best described as:
+
+Q2. The basic structural unit of DNA and RNA is called a:
+
+Q3. Which components make up a nucleotide?
+
+Q4. Which nitrogenous base is found in RNA but not in DNA?
+
+Q5. Why is DNA important for normal growth and repair in the human body?
+
+Q6. In nursing practice, understanding DNA and RNA is important because they:
+
+Q7. Using the wordlist provided, fill in the blanks to make the paragraph make correct sense. Be careful with your spelling and only use lowercase as the Canvas auto-marking feature is case sensitive. Note that you will not use all the words in the list. Wordlist: proteins, carbohydrates, transcription, translation, nucleus, ribosome, lysosome, nucleolus, triglyceride, amino acids, mRNA, cells, protein, polypeptide chain. Protein synthesis is the process by which cells make . It begins in the , where the DNA contains the genetic instructions. During a process called , a copy of the DNA code is made in the form of . This molecule then leaves the nucleus and travels to the in the cytoplasm. At the ribosome, a process called occurs. Here, the genetic code carried by mRNA is used to assemble into a specific sequence. These amino acids are joined together to form a , which then folds into a functional . Protein synthesis is essential for growth, repair, and normal functioning of the .

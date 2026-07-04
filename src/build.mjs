@@ -67,7 +67,11 @@ const out = [];
 for (const q of parsed) {
   const a = answers[q.code];
   if (!a) { errors.push(`MISSING ANSWER: ${q.code} — "${q.stem.slice(0, 60)}"`); continue; }
-  const base = { code: q.code, module: q.module, moduleName: MODULE_NAMES[q.module], quiz: q.quiz, stem: q.stem };
+  if (a.drop) continue; // intentionally removed (unanswerable/junk) — see patch notes
+  // a.q overrides the parsed stem: lets us rewrite image/worksheet questions into
+  // self-contained concept questions without touching the raw Canvas export.
+  const stem = a.q !== undefined ? a.q : q.stem;
+  const base = { code: q.code, module: q.module, moduleName: MODULE_NAMES[q.module], quiz: q.quiz, stem };
   if (a.a !== undefined) {
     // MCQ
     const clean = cleanOptions(q);

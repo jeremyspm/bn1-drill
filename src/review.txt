@@ -97,20 +97,24 @@ CELLFN-7 | The cytoplasm is the:
     => [c] fluid interior of the cell and all the organelles and inclusions of the cell
     why: Cytoplasm = everything inside the cell membrane except the nucleus: the cytosol PLUS all organelles and inclusions. (Cytosol alone is just the fluid.)
 
-CELLDIV-1 (CHECK) | The skin is able to repair itself by process called mitosis. Mitosis is the splitting of the nuclear material (karyokinesis) followed by the splitting of cytoplasm (cytokinesis). When the cell is not dividing, it is in interphase. During interphase the DNA replicates and the chromatin doubles. The cell is now ready for mitosis. FROM TOP TO BOTTOM THE CORRECT SEQUENCE OF THE LABELS IN THIS DIAGRAM IS:
-    => Diagram-based labelling (verify against your slide). Typical top-to-bottom order for a cell diagram: cell membrane, cytoplasm, nuclear membrane, chromosomes, centrioles.
+CELLDIV-1 | Skin repairs itself by mitosis. What are the two steps of mitosis, and what is the phase called when a cell is NOT dividing?
+    => Mitosis = karyokinesis (the nucleus/genetic material divides) then cytokinesis (the cytoplasm splits) — giving two identical daughter cells. A non-dividing cell is in INTERPHASE, when it grows and copies its DNA ready for the next division.
+    why: Interphase is the longest part of the cell cycle.
 
 CELLDIV-2 | Descriptions: Which description goes with which diagram? Metaphase: The chromosomes line up across the middle (equator)of the spindle fibres Telophase: A new nuclear membrane starts to form around each set of chromatids, and the cytoplasm divides across the middle forming two new cells, with the same number of chromosomes. Anaphase: The centromeres holding the chromatids together break and the chromatids move to opposite ends (spindle poles) of the cell. Prophase: The chromatin is coiled up to show chromosomes as a pair of chromatids. The centrioles start to form spindle fibres for the chromatids to move along.
     => Stages of mitosis: PROPHASE — chromatin coils into visible chromosomes (paired chromatids); centrioles form spindle fibres. METAPHASE — chromosomes line up on the middle (equator) of the spindle. ANAPHASE — centromeres split; chromatids pulled to opposite poles. TELOPHASE — new nuclear membranes form around each set; cytoplasm divides (cytokinesis) into two identical cells.
 
-CELLDIV-3 | ARROW POSITION OF CHROMATIDS e.g. on spindle equator/ at spindle poles/ spread out /moving towards poles STAGE OF MITOSIS 1 [ Select ] [ Select ] 2 [ Select ] [ Select ] 3 [ Select ] [ Select ] 4 [ Select ] [ Select ] In cells in interphase, the following structures that are NOT visible in a cell undergoing mitosis, are visible : [ Select ] Which of the following do you NOT expect in a cell that is in interphase? [ Select ]
-    => Interphase shows structures NOT seen during mitosis: an intact nuclear membrane, a grainy chromatin network, and a nucleolus. In interphase you do NOT expect condensed chromosomes or spindle fibres. Chromatid positions by stage: metaphase = on the spindle equator; anaphase = moving toward the poles; telophase = at the spindle poles.
+CELLDIV-3 | In mitosis, name the stage where chromatids are (a) lined up on the spindle equator, and (b) being pulled to opposite poles. Then list the four stages in order.
+    => (a) On the equator = METAPHASE. (b) Moving to the poles = ANAPHASE. Order: Prophase, Metaphase, Anaphase, Telophase.
+    why: Mnemonic PMAT: 'Met in the Middle, pulled Apart in Anaphase.'
 
-CELLDIV-4 (CHECK) | Below are some photomicrographs showing cells undergoing mitosis. Cells 1 to 6 are respectively in:
-    => Identifying mitosis stages from photomicrographs (verify against your slide). Key cues: Prophase = condensing chromosomes, no equator line; Metaphase = chromosomes aligned on the equator; Anaphase = chromatids split toward poles; Telophase = two reforming nuclei / dividing cytoplasm.
+CELLDIV-4 | Give the single identifying feature that tells each mitosis stage apart: prophase, metaphase, anaphase, telophase.
+    => Prophase = chromosomes condense and become visible, no equator line yet. Metaphase = chromosomes lined up single-file on the equator. Anaphase = sister chromatids split and move to opposite poles. Telophase = two new nuclei reform and the cytoplasm divides (cytokinesis).
+    why: Look for the equator line: on it = metaphase, split from it = anaphase.
 
-CELLDIV-5 | Read and answer the material on cell division from the following pages. Cell division in the body: Mitosis and Meiosis There are two types of cell division called mitosis and meiosis.Mitosis is essentially for the growth and repair of all living tissues in humans, whereas meiosis only occurs in the special reproductive glands – specifically in the testes and ovaries in humans. (These processes do occur in animals and also plants as well). New cells form from old ones by cell division, allowing organisms to grow and repair by replacing worn out and damaged tissues and cells. When cells become too big, it is difficult for oxygen and nutrients to diffuse across the large cell. As the cell becomes inefficient, it will divide into two smaller cells. Thus, mitotic cell division is necessary when cells become too large. Once mitotic cell division is completed, two new cells would have formed: each with exactly the same number of chromosomes as the mother cell. During meiosis, four new cells are made. Each of these cells has half the number of chromosomes as the original cell. That is why meiosis is also known as “reduction” devision. Meiosis only occurs in organisms that reproduce sexually. For example, in humans, during fertilisation the sperm cell from the male with 23 chromosomes unites with the egg from the female which also has 23 chromosomes to form one cell with 46 chromosomes. Because sexual reproduction involves the joining together of these two gametes, the number of chromosomes in each gamete must be halved so that when the gametes join, the correct number of chromosomes will be maintained. Summarise the information above, in table 1.3 below. Mitosis Meiosis Where cell division process occurs [ Select ] [ Select ] Number of cells at the end of the process [ Select ] [ Select ] Chromosome number of daughter cells in humans [ Select ] [ Select ] Why this type of cell division is needed [ Select ] [ Select ]
-    => Mitosis vs Meiosis — MITOSIS: occurs in potentially all body cells; makes 2 daughter cells; each with 46 chromosomes (diploid, identical to parent); needed for growth and repair. MEIOSIS: occurs only in ovaries and testes; makes 4 cells; each with 23 chromosomes (haploid); forms gametes (sperm/eggs) and gives genetic variation ('reduction division').
+CELLDIV-5 | Contrast mitosis and meiosis on four points: where it happens, number of daughter cells, chromosome number of the daughters, and its purpose.
+    => MITOSIS: happens in all body tissues; 2 daughter cells; full chromosome number (diploid, 46 in humans); for growth and repair. MEIOSIS: only in ovaries/testes; 4 daughter cells; HALF the chromosomes (haploid, 23); makes gametes for sexual reproduction ('reduction division').
+    why: Halving in meiosis means fertilisation restores 46 (23 + 23).
 
 MEMB-1 | Osmosis refers to the movement of:
     => [c] Water across a selectively permeable membrane
@@ -184,32 +188,37 @@ MEMB-18 | Ion channels primarily function by:
     => [a] Facilitating passive movement of ions
     why: Ion channels facilitate the passive movement of ions down their gradient.
 
-TIS1-1 | Part D1: Tissues of the Skin NB: Your textbook (Marieb) will also include information about this content. Overview: 1. Skin layers The main layers: the epidermis (superficial), dermis (in the middle), and hypodermis (the deepest).The epidermis consists of several layers of epithelium tissue. Because the superficial layer consists of [ Select ] epithelium, we classify the epidermis as [ Select ] epithelium. The layers, from superficial to deep are: Stratum [ Select ] : dead cells filled with keratin filaments embedded in a dense protein matrix. Nuclei are [ Select ] . Stratum [ Select ] : transparent cells – consist of several layers of flattened dead cells. Faint nuclear outlines may be visible in some cells. Stratum [ Select ] : cells with lipid-rich keratohyaline granules which are released in interstitial spaces to form a waterproof barrier. Stratum [ Select ] : polygonal cells separated by narrow, translucent clefts spanned by spine-like cytoplasmatic extensions. These spines meet end-to-end or side-to-side and are attached to one another by desmosomes. Stratum [ Select ] : A single layer of columnar /cuboidal stem cells that divide by mitosis to replace cells towards the surface. Melanocytes contain melanin to protect dividing cells against UV light. Basement membrane: superficial to the [ Select ] . SALT, i.e. Skin-Associated Lymphoid Tissue includes two types of epidermal cells namely Langerhans cells and Merkel cells. Langerhans cells recognize [ Select ] and express them on their surface for recognition by the immune cells. https://quizlet.com/134736586/dermatopathology-flash-cards/ http://download.videohelp.com/vitualis/med/his_pic_integument2.htm Choose the correct option: The dermis, which is much [ Select ] than the epidermis, consists mainly of dense [ Select ] connective tissue. Dermal tissue that creates an irregular border between the dermis and epidermis is known as [ Select ] . Sweat glands, hair, hair erector muscles, sebaceous glands, and various sense organs are situated in the dermis. The hypodermis consists mainly of [ Select ] tissue. Strands of dense connective tissue may extend from the dermis deep into the hypodermis and anchor the skin to underlying structures.
-    => Skin/epidermis fill-in: the superficial cells are SQUAMOUS, so the epidermis is STRATIFIED SQUAMOUS epithelium. Strata superficial→deep: corneum (dead, keratin, nuclei ABSENT) → lucidum (clear, flat dead cells) → granulosum (lipid/keratohyaline granules → waterproofing) → spinosum (spiny, desmosomes) → basale (single layer of dividing stem cells + melanocytes). Basement membrane sits superficial to the DERMIS. Langerhans cells recognise ANTIGENS. The dermis is THICKER than the epidermis and is dense IRREGULAR connective tissue; DERMAL PAPILLAE interlock the two. The hypodermis is mainly ADIPOSE tissue.
+TIS1-1 | Name the layers of the epidermis from deepest to most superficial. Which layer divides, and which is dead? Then: what tissue makes up the dermis and the hypodermis?
+    => Epidermis deep to superficial: stratum BASALE (dividing stem cells) - SPINOSUM - GRANULOSUM - LUCIDUM (thick skin only) - CORNEUM (dead, keratin-filled, waterproof surface). The dermis = dense IRREGULAR connective tissue. The hypodermis = mostly ADIPOSE (fat) tissue.
+    why: Only the basale divides; cells flatten, fill with keratin and die as they rise.
 
-TIS1-2 | Stratified Squamous Epithelial Tissue As seen in the micrographs below, the epidermis has different cell types. http://lecannabiculteur.free.fr/SITES/UNIV%20W.AUSTRALIA/mb140/CorePages/Integumentary/Integum.htm#labmajor Which of the following epidermal cell types do you observe in the epidermis? [ Select ] Why do we identify it then as stratified squamous epithelium? [ Select ] How can we distinguish between dead and live cells? [ Select ] Choose the options that give more information about where you expect each of the following and a brief function of each: Cell type Location Function Melanocytes [ Select ] [ Select ] Dead cells [ Select ] [ Select ] Cells that release fatty granules [ Select ] [ Select ] Dividing cells [ Select ] [ Select ] Polyhedral keratinocytes [ Select ] [ Select ] 5. TITLE: LANGERHANS CELLS. FUNCTION: [ Select ] https://commons.wikimedia.org/wiki/File:Langerhans_Cells_in_Normal_Epidermis,_CD1a_Immunostain_(4435883030).jpg
-    => Stratified squamous epidermis: you see squamous cells (and cuboidal/columnar deeper). It is 'stratified squamous' because the MOST SUPERFICIAL layer is flat (squamous). Dead cells have LOST THEIR NUCLEI. Locations/functions — Melanocytes: stratum basale, make melanin (skin colour, UV protection); Dead cells: stratum corneum, keratinised protection; Cells releasing fatty granules: stratum granulosum, waterproofing; Dividing cells: stratum basale, mitosis to replace cells; Langerhans cells: immune function (process antigens).
+TIS1-2 | Why is the epidermis classed as 'stratified squamous' epithelium, and where in it do you find the melanocytes and the dividing cells?
+    => Stratified = many cell layers; squamous = the surface cells are flat — so 'stratified squamous'. The melanocytes (make melanin for UV protection) and the dividing stem cells both sit in the deepest layer, the stratum basale.
+    why: As cells are pushed up they flatten, keratinise and die.
 
-TIS1-3 | Dense Irregular Connective Tissue Look at the two micrographs of dense irregular connective tissue below. This tissue forms the matrix of the dermis. https://plasticsurgerykey.com/histology-of-the-skin/ https://fankhauserblog.wordpress.com/2001/10/12/connective-tissues-lab/ Make notes on the following: 1. The position of the dermis: The dermis is situated deep to the [ Select ] and superficial to the [ Select ] . It extends into the epidermis through [ Select ] 2. The arrangement and appearance of the collagen fibres. The collagen fibres are arranged [ Select ] . 3. The arrangement and appearance of the fibroblast nuclei. The nuclei of the fibroblasts are situated [ Select ] . They are [ Select ] in shape.
-    => Dense irregular connective tissue (dermis): lies DEEP to the epidermis and SUPERFICIAL to the hypodermis; projects into the epidermis via DERMAL PAPILLAE. Collagen fibres run in all directions (HAPHAZARDLY) = strength in every direction. Fibroblast nuclei sit BETWEEN the fibres and are ELONGATED/flattened.
+TIS1-3 | Dense irregular connective tissue: where is it in the skin, how are its collagen fibres arranged, and why does that suit the dermis?
+    => Found in the DERMIS (deep to the epidermis). Its collagen fibres run in many directions (criss-crossed / irregular), so it resists pulling forces from ALL directions — ideal for skin that gets stretched every way.
+    why: Contrast dense REGULAR (parallel fibres) in tendons — strong in one direction only.
 
-TIS1-4 | Connective Tissue Proper: Loose Areolar Tissue Identify and label elastic fibres, collagen fibres, and fibroblast nuclei in the micrograph of areolar tissue below. https://fankhauserblog.wordpress.com/2001/10/12/connective-tissues-lab/ 1. The outstanding features of this tissue that would help you recognize it later are that it looks [ Select ] . 2. Location(s) where areolar tissue is found in the human body is/are [ Select ] . 3. Functions: Its function in the skin is NOT to [ Select ] and in the organs it is NOT to [ Select ] . 4. “Although fascia looks like one sheet of tissue, it’s actually made up of multiple layers with liquid in between called hyaluronan. It’s designed to stretch as you move. But there are certain things that cause fascia to thicken and become sticky. When it dries up and tightens around muscles, it can limit mobility and cause painful knots to develop”. https://www.hopkinsmedicine.org/health/wellness-and-prevention/muscle-pain-it-may-actually-be-your-fascia 4.1 What is fascia? Fascia is [ Select ] 4.2 How does fascia relate to areolar tissue? It has, like areolar tissue, [ Select ] . 4.3 How could the Covid pandemic and lockdowns relate to stiffened fascia? [ Select ]
-    => Areolar (loose) connective tissue: looks COBWEBBY with loose criss-crossing fibres. Found beneath the dermis and beneath the epithelia of all body systems with external openings. Functions: attaches skin/epithelium to underlying tissue, holds organs in place, acts as a reservoir of water and salts, and lets cells exchange nutrients/wastes. Fascia is a sheet of connective tissue (with a matrix, fibres and cells, like areolar); inactivity/lockdown can let it dry and stiffen.
+TIS1-4 | Loose (areolar) connective tissue: how do you recognise it, where is it found, and what does it do?
+    => Looks loose and open — sparse cells and scattered collagen + elastic fibres in a gel matrix, with fibroblasts. Found under epithelia, around vessels and organs, and in the hypodermis. It holds structures in place, cushions them, and is the main site of inflammation and immune defence.
+    why: 'Areolar' = little open spaces.
 
-TIS1-5 | Adipose tissue The following are labelled in the micrograph below: adipocytes (adipose cells), nuclei of adipocytes, and the plasma membrane (cytoplasmic membrane). 1. Where do you see the extracellular matrix? [ Select ] http://histology-world.com/photoalbum/displayimage.php?pid=1194 2. In which part of the adipocyte is the fat stored? [ Select ] 3. The outstanding features of adipose tissue that would help you recognize it later are: [ Select ] 4. Give two locations (besides in the hypodermis) where adipose tissue is found. [ Select ] 5. Adipose tissue stores reserve energy in the form of fat. What are the other roles of adipose tissue in the body? [ Select ]
-    => Adipose tissue: the extracellular matrix is BETWEEN the cells; fat is stored in a large central vacuole so the nucleus is pushed to the edge (cells look 'empty' with a rim). Recognisable by these signet-ring, empty-looking cells. Also found around organs and in bone marrow. Roles: energy store, insulation (reduces heat loss) and cushioning/protection of organs.
+TIS1-5 | Adipose tissue: how do you recognise it under the microscope, where is the fat stored in each cell, and what are its roles besides storing energy?
+    => Cells look like empty rings ('signet-ring'): one big fat droplet fills the cell and pushes the nucleus and cytoplasm to the rim. Besides energy storage it provides insulation (heat), cushioning/protection of organs, and acts as an endocrine tissue (e.g. releases leptin).
+    why: The 'empty' look is because the fat washes out during slide prep.
 
-TIS1-6 | Muscle tissue in the skin Three types of muscle tissue are found in the human body (see later) namely cardiac (involuntary in the heart), skeletal (voluntary), and smooth (involuntary). https://quizlet.com/272818097/comparison-of-muscle-types-ch8-diagram/ https://www.frontiersin.org/files/Articles/736738/fcell-09-736738-HTML/image_m/fcell-09-736738-g001.jpg https://eugraph.com/histology/skin/arrseb.html The arrector / errector muscle (arr) in the skin causes goosebumps when it is cold. It does that when it pulls the [ Select ] upright and the skin inwards. The errector muscle is of the [ Select ] type (try to see the [ Select ] -shaped fibres with large oval [ Select ] nuclei in the micrograph).
-    => Arrector pili muscle: pulls the HAIR upright (goosebumps) and dimples the skin. It is SMOOTH muscle — spindle-shaped fibres with a single central oval nucleus.
+TIS1-6 | Which muscle type is the arrector pili (the skin muscle that raises hairs / causes goosebumps), and what does it do?
+    => SMOOTH muscle (involuntary). It contracts to pull the hair upright and dimple the skin ('goosebumps'), and helps squeeze sebum out of the sebaceous glands.
+    why: Smooth muscle: spindle-shaped fibres, one central nucleus, no stripes/striations.
 
-TIS1-7 | Blood Different types of blood cells are shown in the image below. These blood cells are suspended in the blood plasma (the matrix), a protein-rich fluid containing electrolytes. Choose the appropriate words in brackets to make the following information true. Thrombocytes are the smallest cellular elements in the blood – they are involved in blood clotting. They are also called (platelets/ basophils) Erythrocytes are small biconcave (nucleated/anucleated) cells that contain the oxygen-carrying protein, hemoglobin (Hb). The heme parts of hemoglobin have (Iron/Copper) at their centre. When oxygen (molecules/atoms/ions) are uploaded into it, it forms oxyhemoglobin (HbO2). It can also upload carbon dioxide to form carbamino hemoglobin(HbCO2). https://courses.lumenlearning.com/suny-wmopen-biology2/chapter/introduction-to-structure-and-function-of-blood/ Title: Micrograph of human blood https://quizlet.com/272599408/blood-cells-under-the-microscope-diagram/ Leukocytes are known as white blood cells. Two groups are found in the blood: 1. Granulocytes contains small granules. Use the image to identify three examples of granulocytes. Give their main function of each. Granulocytes Name of Leukocyte Function of Leukocyte Large cell with a multilobed nucleus that looks like a dumbbell. Usually stains purple. [ Select ] involved in allergic reactions and secrete [ Select ] and other compounds that cause inflammation Large cell with a multilobed nucleus that looks like a string of beads. Usually stains purple. [ Select ] The body's first-line defense against [ Select ] , viruses, and fungal infections. When tissue is injured, the body releases chemotactic factors (substances that stimulate cell migration) to attract them. Large cell with a multilobed nucleus that looks like earphones. Will stain pink with the stain Eosin. [ Select ] fight parasitic infections like [ Select ] 2. Agranulocytes do not contain granules. Use the image to identify three examples of agranulocytes. Give the main function of each. Agranulocytes Name of Leukocyte Function of Leukocyte Smallish cell with a round large nucleus. Usually stains purple. [ Select ] Mature in the bone marrow and make antibodies to kill pathogens. Smallish cell with a round large nucleus. Usually stains purple.[ [ Select ] Mature in the thymus and kill pathogens using chemicals and by puncturing them. 3. These red blood (erythrocytes) cells may have been exposed to a [ Select ] environment. https://www.klimud.org/public/atlas/idrar/web/www.diaglab.vet.cornell.edu/clinpath/modules/rbcmorph/images/roldbld.jpg 4. The smallest cellular components of blood are [ Select ] and they are involved in the formation of blood clots. Cells that contain hemoglobin and carry oxygen are known as [ Select ] 5. Outline why blood is considered to be a specialised type of connective tissue: [ Select ]
-    => Blood as tissue: Thrombocytes = PLATELETS (smallest, clotting). Erythrocytes are ANUCLEATED biconcave cells; haem contains IRON; O2 binds as molecules → oxyhaemoglobin. Granulocytes: BASOPHIL (bilobed, allergy/inflammation, releases HISTAMINE); NEUTROPHIL (multilobed, first-line defence vs BACTERIA); EOSINOPHIL (fights parasites/WORMS). Agranulocytes: B-LYMPHOCYTE (matures in bone marrow, makes antibodies); T-LYMPHOCYTE (matures in thymus, kills directly). Blood is a specialised connective tissue: it has a matrix (plasma) and forms fibres (fibrin) when it clots.
+TIS1-7 | Blood is a connective tissue. Name the granulocytes and the agranulocytes with one function each, and say why blood counts as a connective tissue.
+    => Granulocytes: NEUTROPHILS (first responders, engulf bacteria), EOSINOPHILS (parasites and allergy), BASOPHILS (release histamine for inflammation). Agranulocytes: LYMPHOCYTES (B cells make antibodies, T cells kill infected cells), MONOCYTES (become macrophages). Blood is a connective tissue because it is cells suspended in a large extracellular MATRIX (plasma).
+    why: 'Never Let Monkeys Eat Bananas' — neutrophils, lymphocytes, monocytes, eosinophils, basophils by frequency.
 
-TIS1-8 | Nervous Tissue The micrograph below shows nervous tissue. Identify and label the neuron cell body, nucleus, and processes (axon and dendrites). cell body [ Select ] nucleus [ Select ] and processes axon [ Select ] with myelin sheath dendrites [ Select ] In people with multiple sclerosis, the [ Select ] becomes damaged so that conduction of electrical impulses is impaired. TITLE: THE NEURON SURROUNDED BY NEUROGLIAL SUPPORTING TISSUE https://m.facebook.com/doctorthelifeline/photos/a.2105079472875736/3303864469663891/?type=3&_rdr (Links to an external site.) Describe this tissue’s outstanding features that would help you recognize it: [ Select ] Where in the brain are cell bodies and axons respectively found? cell bodies [ Select ] axons [ Select ] What are the functions of the cell bodies, dendrites, and axons respectively? cell bodies [ Select ] dendrites [ Select ] axons [ Select ] What are the functions of the neuroglia? Overall [ Select ] https://ecampusontario.pressbooks.pub/neurosciencecdn2/chapter/anatomy-physiology-the-nervous-system-and-nervous-tissue/ Microglia [ Select ] Oligodendrocytes [ Select ] Ependymal cells [ Select ] Astrocytes [ Select ]
-    => Nervous tissue: a neuron has a cell body, nucleus, a single axon (with myelin sheath) and branching dendrites. In multiple sclerosis the MYELIN SHEATH is damaged, slowing conduction. Cell bodies sit in GREY matter, axons in WHITE matter. Dendrites bring signals TO the cell body; the axon takes signals AWAY. Neuroglia support neurons: microglia phagocytose pathogens; oligodendrocytes make myelin (CNS); ependymal cells make/circulate CSF; astrocytes maintain the extracellular environment and blood-brain barrier.
-
-TIS1-9 | Tissues not found in the skin Copy and paste this table in your text window and complete it. An answer will be uploaded in the answer to this question so that you can mark it yourself. Connective tissue recap Complete table 1.5 to create an overview of connective tissue: Table 1.5: ________________________________________________________________ TYPE MATRIX LOCATION: EXAMPLE Cells FIBROUS Areolar Collagen, Elastin and reticular fibres Between tissues and organs; Between skin and ____________________ Fibroblasts Mast cells Plasma cells Macrophages Adipose Little matrix; fibroblasts enlarge to store ________________ Around organs, in ___________ of the skin Adipocytes Reticular Reticular fibres Lymphatic organs like ________ __________& _____________ Fibroblasts Reticular cells Dense · Regular Bundles of ___________ collagen fibres Tendons, _________________ Fibroblasts · Irregular Bundles of _____________________ collagen fibres Joint capsules; __________of the skin Fibroblasts CARTILAGE · Hyaline Fine collagen fibres Ends of __________bones; nose, _____________cartilages ______________ cytes in lacunae · Elastic Many ______________fibres ________________ ear · Fibro _________collagen fibres Between ________________ ___________symphysis BONE · Compact Collagen plus calcium salts arranged in ____________________-- Skeleton Osteo_________ in lacunae to maintain bone Osteo______ to resorb bone Osteo______ to build bone · Spongy Collagen plus calcium salts arranged in trabeculae In flat bones, Ends of ________ bones BLOOD Plasma Inside blood vessels and heart Erythrocytes Leukocytes Thrombocytes https://www.cliffsnotes.com/study-guides/anatomy-and-physiology/tissues/connective-tissue Images of other connective tissues not found in the skin: Bone https://www.pinterest.nz/pin/369928556876315998/ Identify and label in your book the Haversian system (osteon) with the central canal, canaliculi, lacunae with osteocytes (bone cells), and lamellae. Cartilage Study the micrograph of hyaline cartilage (trachea). Identify and label the extracellular matrix and the chondrocytes in the lacuna in your book. In this image, you see the chondrocytes (B and C) in the lacuna (A). Where do we find this tissue in the body? http://faculty.gordonstate.edu/sfinazzo/connective%20tissue/Histology_Connective_Tissue/Histology_Connective_Tissue_print.html Dense regular connective tissue This is shown in the micrograph below. Identify and label in your book: collagen fibres and nuclei of fibroblasts. https://en.wikipedia.org/wiki/Dense_connective_tissue Compare the micrograph above with one of irregular dense connective tissue (as found in the dermis). What is the most obvious difference between these two tissues? In which of the following do you expect dense regular connective tissue? Ligaments / Tendons / Joint capsules Remember, the orientation of the fibres shows the direction of its strength. Outline the functional differences between dense regular connective tissue and dense irregular connective tissue. Reticular connective tissue As found in the spleen and other lymphoid organs (except thymus). https://www.flickr.com/photos/146824358@N03/40885194065 A micrograph of spleen tissue is seen below. Identify and label in your book: reticular fibres, lymphocyte (a type of white blood cell) and mast cell.
-    => Connective tissue overview table: Areolar (loose, all fibre types — packing/support); Adipose (fat store, insulation); Reticular (reticular fibres — spleen, lymph nodes); Dense regular (parallel collagen — tendons, ligaments); Dense irregular (criss-cross collagen — dermis, joint capsules); Cartilage — hyaline (bone ends, nose, trachea), elastic (ear), fibrocartilage (intervertebral discs, pubic symphysis); Bone — compact (osteons) and spongy (trabeculae); Blood (plasma matrix, cells).
+TIS1-8 | Name the parts of a neuron and their jobs, say what the neuroglia do, and state what is damaged in multiple sclerosis (MS).
+    => CELL BODY (holds the nucleus, integrates signals) - DENDRITES (receive incoming signals) - AXON (carries the impulse away), usually wrapped in a MYELIN sheath that speeds conduction. Neuroglia are support cells (astrocytes support/feed, oligodendrocytes make myelin, microglia = immune defence, ependymal make CSF). In MS the MYELIN is destroyed, so impulse conduction is impaired.
+    why: Grey matter = cell bodies; white matter = myelinated axons.
 
 TIS2-1 | Which type of epithelium is most commonly found in the lining of the respiratory tract?
     => [b] Pseudostratified columnar epithelium
@@ -271,20 +280,25 @@ TIS2-15 | The term "fibrosis" refers to
     => [b] The formation of scar tissue following injury or damage to tissue
     why: Fibrosis = formation of scar (fibrous) tissue after injury.
 
-TIS2-16 (CHECK) | What tissue type is this?
-    => Image-based ('what tissue type is this?') — identify from your slide. Cues: adipose = empty signet-ring cells; blood = red cells + scattered WBCs; cartilage = chondrocytes in lacunae; lung = airspaces.
+TIS2-16 | Under the microscope, give the one identifying feature that distinguishes each: adipose tissue, blood, cartilage, and lung tissue.
+    => Adipose = empty 'signet-ring' cells (fat droplet, nucleus pushed to the rim). Blood = many red cells with scattered white cells in fluid. Cartilage = chondrocytes sitting in lacunae (little spaces) within a firm matrix. Lung = lots of open airspaces (alveoli).
+    why: Ask: cells-in-fluid (blood), cells-in-lacunae (cartilage), fat-rings (adipose), or airspaces (lung)?
 
-TIS2-17 (CHECK) | What tissue is this?
-    => Image-based ('what tissue is this?') — identify from your slide. Splenic reticular tissue = fine mesh + lymphocytes; hyaline cartilage = glassy matrix with chondrocytes in lacunae; elastic cartilage = wavy elastic fibres.
+TIS2-17 | How do you tell reticular tissue, hyaline cartilage and elastic cartilage apart under the microscope?
+    => Reticular tissue (spleen, lymph nodes) = a fine mesh of fibres packed with lymphocytes. Hyaline cartilage = smooth, glassy matrix with chondrocytes in lacunae. Elastic cartilage = the same but with obvious wavy elastic fibres in the matrix (e.g. the ear).
+    why: Elastic vs hyaline: look for the wavy elastic fibres.
 
-TIS2-18 (CHECK) | What kind of fibre arrangement is this tissue? Hint: the white spaces are due to dehydration when the slides are made, in real life, there's no white space.
-    => Image-based fibre arrangement — dense regular = parallel bundles (tendon); dense irregular = criss-crossing bundles (dermis); loose = sparse, open. Identify from your slide.
+TIS2-18 | Connective-tissue fibre arrangement: how do dense regular, dense irregular and loose connective tissue differ, and give an example of each?
+    => Dense REGULAR = fibres in tight parallel bundles - tendons/ligaments (strong in one direction). Dense IRREGULAR = fibres criss-crossed in all directions - dermis (strong in every direction). LOOSE (areolar) = few, widely spaced fibres with open gaps - sits under epithelia.
+    why: Regular = one-way pull; irregular = multi-way pull; loose = packing/cushion.
 
-TIS2-19 (CHECK) | What kind of tissue is this?
-    => Image-based epithelium ID — simple squamous = single flat layer; simple cuboidal = single cube layer; simple columnar = single tall layer; stratified squamous = many layers, flat on top. Identify from your slide.
+TIS2-19 | Name the four main epithelial types by their shape/layers, and where each is typically found.
+    => Simple squamous = single flat layer (alveoli, capillaries — thin for diffusion). Simple cuboidal = single cube-shaped layer (kidney tubules, glands). Simple columnar = single tall layer (gut lining — absorption). Stratified squamous = many layers, flat on top (skin, mouth — protection).
+    why: 'Simple' = one layer (function); 'stratified' = many layers (protection).
 
-TIS2-20 (CHECK) | What organ is this tissue slide from?
-    => Image-based organ ID from a tissue slide — match the tissue to the organ (e.g. simple columnar + villi = intestine; airspaces = lung). Identify from your slide.
+TIS2-20 | How can a tissue slide tell you which organ it came from? Give two worked examples.
+    => Match the tissue to where that tissue lives. E.g. simple columnar epithelium with finger-like VILLI = small INTESTINE; many thin-walled airspaces (alveoli) = LUNG; chondrocytes in lacunae in a smooth matrix = cartilage (e.g. trachea or a joint).
+    why: Identify the tissue first, then recall which organ uses it.
 
 MIC1-1 | Bacteria are prokaryotes.
     => [a] True
@@ -310,14 +324,17 @@ MIC1-6 | What is the correct order for the stages of viral replication: 3. The v
     => [e] 3, 6, 4, 1, 2, 5
     why: Viral replication order: attach (3) → enter (6) → uncoat, nucleic acid enters (4) → copy nucleic acid + make proteins (1) → assemble (2) → release (5).
 
-MIC1-7 (CHECK) | The organism pictured below is a:
-    => Image-based microbe ID — identify from your slide (options were insect, bacteria, fungi, protozoa).
+MIC1-7 | Under the microscope, how do you tell bacteria, fungi and protozoa apart?
+    => BACTERIA = tiny single cells, simple shapes (cocci/round, bacilli/rods, spirals), with NO nucleus (prokaryotes). FUNGI = larger; either threads (hyphae/mould) or budding yeast cells, WITH a nucleus. PROTOZOA = larger single-celled 'animal-like' eukaryotes, often seen moving (e.g. amoeba), WITH a nucleus.
+    why: Size and a nucleus are the giveaways: bacteria are smallest and have no nucleus.
 
-MIC1-8 (CHECK) | The organisms pictured below are:
-    => Image-based microbe ID — identify from your slide (options were protozoa, virus, fungi, bacteria).
+MIC1-8 | Compare bacteria, protozoa, fungi and viruses by size and structure — which is smallest, and which are actually cells?
+    => Size, smallest to largest: VIRUS < BACTERIA < FUNGI / PROTOZOA. Viruses are NOT cells (just genetic material in a protein coat, needing a host). Bacteria are cells but prokaryotic (no nucleus). Fungi and protozoa are eukaryotic cells (have a nucleus).
+    why: Only viruses are non-cellular and can't reproduce on their own.
 
-MIC1-9 (CHECK) | This is:
-    => Image-based ID — identify from your slide (options were virus, flea, elephant, mite).
+MIC1-9 | Is a virus a living cell? Describe its basic structure and why it needs a host.
+    => A virus is NOT a cell and is not considered fully alive on its own. It is just nucleic acid (DNA or RNA) inside a protein coat (capsid), sometimes with an outer envelope. It cannot make energy or reproduce itself, so it must hijack a host cell's machinery to replicate.
+    why: This is why antibiotics (which target bacterial cells) don't work on viruses.
 
 MIC2-1 | An obligate aerobe is
     => [c] an organism that can only grow in oxygen
@@ -615,13 +632,13 @@ MICREV-3 | How is a disinfectant different to an antiseptic
 MICREV-4 | Water cyclinders are generally set at 55 degree celcius to avoid scalding and burns. Often people run utensils and plates straight under hot water from the tap to clean them. How effective will this be? Why?
     => Not very effective. At ~55°C the water is well below sterilising temperature and contact time is only a few seconds — this just rinses off visible debris. It does not kill most pathogens or spores. Proper cleaning needs detergent + scrubbing, and true killing needs much higher temperatures (e.g. an autoclave/dishwasher sanitise cycle) or a disinfectant.
 
-ACID-1 | https://www.khanacademy.org/science/biology/structure-of-a-cell/prokaryotic-and-eukaryotic-cells/a/plasma-membrane-and-cytoplasm Fat-soluble substances, like fatty acids, can diffuse freely through the phospholipid bilayer of the cell membrane. With large water-soluble molecules, like glucose, diffusion needs to be facilitated by channel proteins.
+ACID-1 | True or false: fat-soluble substances (like fatty acids) can diffuse freely through the phospholipid bilayer of the cell membrane.
     => [a] True
-    why: True — fat-soluble substances cross the lipid bilayer freely; large water-soluble ones (glucose) need channel/carrier proteins.
+    why: True — fat-soluble substances cross the lipid bilayer freely; large water-soluble ones (e.g. glucose) need channel/carrier proteins.
 
-ACID-2 | https://www.emedihealth.com/glands-hormones/diabetes/manage-diabetes In hyperglycemia (>10 mmol/L), the high levels of glucose in the blood of a diabetic person are due to an inability of the body cells to get glucose from the blood.
+ACID-2 | True or false: in hyperglycaemia (>10 mmol/L), the high blood glucose in a diabetic is because the body's cells cannot take glucose up from the blood.
     => [a] True
-    why: True — in diabetes, glucose stays high in the blood because cells can't take it up (no/ineffective insulin).
+    why: True — without effective insulin, glucose stays high in the blood because cells can't take it up.
 
 ACID-3 | A blood pH of 7 is seen as acidotic.
     => [a] True
@@ -649,19 +666,21 @@ ACID-8 | Link the breathing patterns to the type of blood pH conditions that wou
 ACID-9 | Link the conditions to the matching item.
     => Matches: Hypokalaemia = low blood potassium; Hyperkalaemia = high blood potassium. Some diuretics cause hypokalaemia AND metabolic alkalosis. Excess antacids → metabolic alkalosis. 'Too much CO2 blown off' → respiratory alkalosis. Arrhythmias are linked to both hyper- and hypokalaemia.
 
-ACID-10 | Consider the given information and fill in the spaces by choosing an appropriate word from the drop-down menu in every case. Ketones, keto bodies (like acetone) and ketoacids are alternative [ Select ] ["fuels", "hormones", "enzymes", "building blocks"] for the body. They are made from fatty acids in the [ Select ] ["kidneys", "brain", "pancreas", "liver"] when glucose is in short supply, such as during dieting or fasting. Low levels of the hormone [ Select ] ["glucagon", "glycerol", "insulin", "glycogen"] cause fat to be released from the fat cells and to be broken down to glycerol and fatty acids (a process known as lipolysis). Fatty acids travel through the blood to the liver and are processed into ketone units. The ketone units circulate back into the bloodstream and are picked up by the muscle and other tissues to fuel the body’s metabolism. In a person without diabetes, ketone production is the body’s normal adaptation to starvation. Normally blood sugar levels never get too high, because the production is regulated by just the right balance of insulin, glucagon and other hormones. In people with diabetes, dangerous and life-threatening ketone levels can develop. With insufficient insulin levels, the fat cells continually release fat into the blood, and the liver continues to make ketones and ketoacids. If the rising ketoacid levels make the blood pH go below [ Select ] ["7.35", "7.4", "7.45", "7"] - an emergency medical situation that requires immediate medical attention develops. Type 1 diabetics have the [ Select ] ["Lowest", "Highest", "No"] risk of developing Diabetic Ketoacidosis (DKA) since they do not produce enough insulin. Type 2 diabetics can develop DKA if insulin resistance is severe or during an infection or steroid treatment or reduction in insulin release from the pancreas. Diabetics can go into DKA when their cells start to use [ Select ] ["glycerol", "keto bodies", "amino acids"] as an energy source. This will happen if [ Select ] ["glucose", "starch", "fatty acids", "amino acids"] cannot get into the cells because of a lack of the pancreatic hormone insulin . Another reason could be that the cells are resistant to this hormone and the cell transport process of [ Select ] ["osmosis", "active transport", "simple diffusion", "facilitated diffusion"] cannot happen. The cells are then forced to use alternative energy sources like [ Select ] ["carbon monoxide", "keto bodies", "amino acids"] in the process. The person's breath may smell fruity when keto bodies are produced in the liver as a result of this metabolic shift.
-    => Ketones fill-in: ketones are alternative FUELS, made from fatty acids in the LIVER when glucose is short. Low INSULIN releases fat (lipolysis). If ketoacids push blood pH below 7.35 it is an emergency. Type 1 diabetics have the HIGHEST DKA risk. Cells switch to using KETO BODIES because GLUCOSE (or fatty acids) can't get into cells without insulin, so FACILITATED DIFFUSION of glucose fails, forcing the use of KETO BODIES.
+ACID-10 | In diabetic ketoacidosis (DKA): what are ketones and where are they made, which hormone problem triggers it, and below what blood pH is it a medical emergency?
+    => Ketones (acetone, ketoacids) are an alternative FUEL made from fatty acids in the LIVER when glucose can't get into cells. In DKA a lack of INSULIN means cells can't use glucose, so fat is broken down and ketoacids build up, dropping blood pH. Below pH 7.35 = acidosis; a big drop is an emergency. Type 1 diabetics are at highest risk.
+    why: Fruity-smelling breath is a classic sign of ketones.
 
-ACID-11 | https://theconversation.com/icu-ventilators-what-they-are-how-they-work-and-why-its-hard-to-make-more-135423 One reason why people with serious lung problems due to Covid 19 are put on ventilators, is to prevent respiratory acidosis due to the build-up of CO2 in their blood.
+ACID-11 | True or false: one reason people with serious lung problems (e.g. COVID-19 pneumonia) are put on ventilators is to prevent respiratory acidosis.
     => [a] True
-    why: True — ventilation clears CO2, preventing respiratory acidosis in severe lung disease (e.g. COVID pneumonia).
+    why: True — ventilation clears CO2, preventing the CO2 build-up that would cause respiratory acidosis.
 
 ACID-12 | Narcotics can cause _______ because they can _______
     => [c] respiratory acidosis; suppress breathing
     why: Narcotics/opioids suppress the breathing centre → CO2 builds up → respiratory acidosis.
 
-ACID-13 | Three common drugs that can cause metabolic acidosis: Metabolic acidosis https://healthjade.net/hyperchloremic-acidosis/
-    => Select all — drugs that can cause metabolic acidosis: ASPIRIN (salicylate), METHANOL, and METFORMIN (lactic acidosis). (Antacids cause alkalosis, not acidosis.)
+ACID-13 | Name three common drugs or substances that can cause metabolic acidosis.
+    => ASPIRIN (salicylate overdose), METHANOL, and METFORMIN (can cause lactic acidosis). Note: antacids cause alkalosis, not acidosis.
+    why: Metabolic (not respiratory) = the problem is added acid or lost bicarbonate, not CO2.
 
 BLOOD-1 | One regulatory function of blood is to
     => [a] maintain blood pH
@@ -751,8 +770,9 @@ BUF-2 | Proteins are natural buffers since they consist of:
     => [c] positively charged amino groups and negatively charged carboxyl groups which can bind hydrogen and hydroxyl ions
     why: Proteins buffer because they have positively charged amino groups (bind OH-) and negatively charged carboxyl groups (bind H+).
 
-BUF-3 | When CO2 and H2O are converted into , H+ ions are formed (as shown in the equation below). CO2 + H2O ↔ H2CO3 ↔ H+ + HCO3– carbonic acid bicarbonate / hydrogen carbonate These hydrogen ions are absorbed by the protein in erythrocytes so that the pH stays within the normal range. This buffering helps maintain normal blood pH despite the increase in H+ ions. One of the main reasons why the pH must stay within a certain narrow range of 7.35 to 7.45 is because cannot work optimally in suboptimum pH's. A large increase in hydrogen ions may lead to a condition called which may lead to cell death. The main buffer in blood plasma is . Another name for hydrogen carbonate is . https://ppt-online.org/105764
-    => Fill-in: CO2 + H2O → CARBONIC ACID → H+ + HCO3-. The H+ is mopped up by the protein HAEMOGLOBIN in red cells. pH must stay 7.35–7.45 because ENZYMES can't work in the wrong pH. A large H+ rise causes ACIDOSIS (can lead to cell death). The main plasma buffer is BICARBONATE; another name for hydrogen carbonate is HCO3-.
+BUF-3 | Write the reaction when CO2 dissolves in blood (the bicarbonate buffer), and explain how it helps control blood pH.
+    => CO2 + H2O <-> H2CO3 (carbonic acid) <-> H+ + HCO3- (bicarbonate). The extra H+ is mopped up by the protein HAEMOGLOBIN in red cells and buffered by BICARBONATE in plasma, keeping blood pH at 7.35–7.45. If H+ rises too far you get ACIDOSIS; enzymes then can't work properly.
+    why: Bicarbonate is the body's main plasma buffer; the lungs adjust CO2 to fine-tune pH.
 
 BUF-4 | Buffers are chemical sponges that keep the pH in the acidic range.
     => [b] False
@@ -947,10 +967,6 @@ HOMEOT-4 | The dorsal body cavity relates to the
     => [c] spinal and cranial cavities
     why: The dorsal body cavity = the cranial + spinal (vertebral) cavities.
 
-HOMEOT-5 (CHECK) | Your science lecturers are
-    => [a] Anne, Helen and Emma
-    why: Course-specific — your listed lecturers. Verify against your class; best match is Anne, Helen and Emma.
-
 HOMEOT-6 | A tissue is
     => [b] a group of the same cells that have a specific function
     why: A tissue = a group of similar (same) cells performing a specific function.
@@ -991,11 +1007,13 @@ HOMEOT-15 | From a purely biological context, identical offspring produced from 
     => [d] asexual reproduction
     why: Asexual reproduction = one parent → genetically identical offspring.
 
-OSMO-1 (CHECK) | What happens in this scenario?
-    => Diagram-based osmosis scenario — read from your slide: water moves toward the side with the higher solute concentration (across the selectively permeable dialysis membrane).
+OSMO-1 | In osmosis across a selectively permeable membrane, which way does water move, and why?
+    => Water moves from where there is MORE water (low solute concentration) to where there is LESS water (high solute concentration) — i.e. toward the more concentrated solution — until the two sides even out. Only water crosses; the solute can't.
+    why: Water follows solute: 'salt sucks water toward it.'
 
-OSMO-2 | Geoffrey ate a packet of chips and afterwards found that he was feeling rather dehydrated. What happened to his blood volume? decrease What happened to his blood pressure? [ Select ] ["decrease", "increase"] This scenario is best described by the lab set up [ Select ] ["15% sucrose-filled dialysis tubing in beaker with 15% sucrose", "15% sucrose-filled dialysis tubing in beaker with 40% sucrose", "15% sucrose-filled dialysis tubing in beaker with 0% sucrose"]
-    => Geoffrey (salty chips → dehydration): blood volume DECREASES and blood pressure DECREASES. Best modelled by the lab set-up '15% sucrose tubing in a 40% sucrose beaker' — water leaves the tube (like water leaving the blood into the saltier gut/tissue).
+OSMO-2 | After a salty meal you become dehydrated. What happens to blood volume and blood pressure, and which osmosis direction explains it?
+    => Blood volume DECREASES and blood pressure DECREASES. The salt makes the gut/tissue fluid more concentrated, so water is drawn OUT of the blood by osmosis — like water leaving 15% sucrose tubing sitting in a 40% sucrose beaker.
+    why: Less water in the vessels = less volume = lower pressure.
 
 OSMO-3 | The kidney's main job is to get rid of extra fluid and waste material in your blood. Kidneys harmed by disease, injury, or birth defects lose their filtering ability, and cannot perform the excretory functions needed to maintain homeostasis. During dialysis, what components of the person's blood is filtered out of the semi-porous membrane?
     => [d] urea and salt
@@ -1011,8 +1029,9 @@ OSMO-6 | A cell is placed in a solution and after a while, it shrinks - what kin
     => [a] hypertonic solution
     why: A cell that shrinks has lost water to a hypertonic solution (more solute outside).
 
-OSMO-7 | Anne is in a hurry making a coffee between her meetings. She goes for the instant coffee in the staff room. Can she use cold water when doing this? will it work? Fill in the gaps about diffusion below: When temperature increases, the kinetic energy of the particles has [ Select ] ["remained the same", "decreased", "increased"] . The increased motion of the particles causes them to diffuse [ Select ] ["slower", "faster"] . Therefore, at higher temperatures, the rate at which fluid particles will diffuse is faster than at lower temperatures.
-    => Diffusion & temperature: as temperature rises, the kinetic energy of particles INCREASES, so they diffuse FASTER. (So hot water dissolves instant coffee faster than cold.)
+OSMO-7 | How does temperature affect the rate of diffusion, and why? (e.g. dissolving coffee in cold vs hot water)
+    => Higher temperature gives particles more kinetic energy, so they move faster and diffuse FASTER. So instant coffee dissolves and spreads faster in hot water than in cold.
+    why: More heat = more particle motion = quicker mixing.
 
 OSMO-8 | What happens to red blood cells (RBCs) that are placed in an isotonic solution?
     => [c] cell integrity remains the same
@@ -1278,26 +1297,33 @@ FLU-63 | An asthmatic might experience
     => [d] respiratory acidosis
     why: An asthma attack traps air and retains CO2 → respiratory acidosis.
 
-PH-1 | Every time choose an item from the drop-down menu to answer the following questions. pH scale The pH scale measures the degree of [ Select ] ["alkalinity", "sweetness", "acidity", "phosphates"] of a solution. It means it measures the number of [ Select ] ["potassium", "oxygen", "hydroxide", "sodium", "hydrogen"] ions in the solution. The pH scale goes from [ Select ] ["7", "14", "0", "1"] to [ Select ] ["7", "14", "0", "1"] with [ Select ] ["1", "14", "0", "7", "10"] being neutral.
-    => pH scale fill-in: the pH scale measures the degree of ACIDITY of a solution — really the number of HYDROGEN ions present. It runs from 0 to 14, with 7 being neutral.
+PH-1 | What does the pH scale measure, which ion does it reflect, what is its range, and which value is neutral?
+    => pH measures how ACIDIC or alkaline a solution is — specifically the concentration of HYDROGEN (H+) ions. The scale runs 0 to 14; 7 is NEUTRAL; below 7 is acidic (more H+); above 7 is alkaline/basic (fewer H+).
+    why: Each 1 pH step = a 10-fold change in H+ concentration.
 
-PH-2 | Use the image to help you find the answers. Fill the blanks with words in the word list. https://www.brighthubengineering.com/marine-engines-machinery/27471-measuring-ph-on-board-ships-using-ph-meter/ WORDLIST: EGG YOLK, SEAWATER, ACIDOSIS, ALKALOSIS, BATTERY ACID, 0-2, 5-6, 6-7, 13-14, 7-8, 7, 7.45, 7.35, 7.5, 8, DRAIN CLEANER, ALKALINE, HYDROXIDE, GASTRIC JUICE, 1. Strong acids like and hydrochloric acid in will have a pH of and weak acids like will have a pH of . 2. Strong bases like will have a pH of and weak bases like will have a pH of . 3. Saliva has a pH of which is called . It means there are equal numbers of hydrogen ions and (OH-) present. 4. Cola drinks contain phosphoric acid, and, due to the carbon dioxide dissolved in it, also acid. 5. Blood's normal pH is slightly . sets in when blood pH drops below 7.35. sets in when blood pH goes above 7.45.
-    => pH values: strong acids (battery acid, hydrochloric acid in gastric juice) ≈ pH 0–2; weak acids (egg yolk) ≈ pH 5–6. Strong bases (drain cleaner) ≈ pH 13–14; weak bases (seawater) ≈ pH 7–8. Saliva ≈ 7 (neutral) — equal H+ and OH-. Cola contains phosphoric AND carbonic acid. Blood is slightly ALKALINE (7.35–7.45): acidosis below 7.35, alkalosis above 7.45.
+PH-2 | Give the approximate pH ranges for a strong acid, a weak acid, neutral, a weak base and a strong base. What is blood's normal pH, and what values define acidosis and alkalosis?
+    => Strong acid ~0–2 (battery acid, gastric acid); weak acid ~5–6; neutral 7 (saliva); weak base ~7–8; strong base ~13–14 (drain cleaner). Blood is normally slightly alkaline, ~7.35–7.45. Acidosis = blood pH below 7.35; alkalosis = above 7.45.
+    why: Blood's safe range is tiny — only about 7.35 to 7.45.
 
-PH-3 | Every time choose an item from the drop-down menu to answer the following questions. https://getwellstaywellathome.com/blog/2012/03/using-ph-as-a-health-monitor/ 1. Which is more acidic: A substance with a pH of ……… five or a substance with a pH of one? [ Select ] ["FIVE", "ONE"] three or a substance with a pH of nine? [ Select ] ["THREE", "NINE"] 2. Which ONE substance showed on the pH scale would be: The most alkaline? [ Select ] ["HYDROCHLORIC ACID", "SODIUM HYDROXIDE"] The most acidic? [ Select ] ["HYDROCHLORIC ACID", "SODIUM HYDROXIDE"] Neutral [ Select ] ["SALIVA", "EGGS"] 3. Assume a person has acid indigestion and wants to neutralise (make harmless) the excess acid Why would milk not be able to neutralise the acid efficiently? Milk is not [ Select ] ["NEUTRAL", "ACIDIC", "ALKALINE"] Give another substance from the scale that would be safe and efficient to use to neutralise the excess acid. Baking soda and [ Select ] ["SODIUM HYDROXIDE", "BATTERY ACID", "BORAX", "BLEACH", "MILK OF MAGNESIA"] . 4. Washing powders (detergents) are all [ Select ] ["ALKALINE", "NEUTRAL", "ACIDIC"] . 5. An upset stomach is [ Select ] ["ALKALINE", "ACIDIC"] acidic than a healthy stomach.
-    => Lower pH = more acidic. So pH 1 is more acidic than 5; pH 3 more acidic than 9. Most alkaline = sodium hydroxide; most acidic = hydrochloric acid; neutral = saliva. Milk can't neutralise stomach acid well because it is not ALKALINE; use milk of magnesia (or baking soda) instead. Detergents are ALKALINE. An upset stomach is MORE acidic than a healthy one.
+PH-3 | On the pH scale, is a lower number more or less acidic? Which is more acidic, pH 1 or pH 5? Why can't milk neutralise stomach acid, and what safely can?
+    => Lower pH = MORE acidic, so pH 1 is more acidic than pH 5. Milk is roughly neutral, so it can't cancel acid effectively; a mild ALKALI (base) such as baking soda or milk of magnesia neutralises the excess acid.
+    why: A base neutralises an acid; strong bases (drain cleaner) would be dangerous.
 
-PH-4 (CHECK) | Fill the blanks with words from the given information. Universal indicator strips with the following complementary chart are dipped in four different solutions. Universal indicator is a paper that was soaked in coloured substances that change colour at different levels. What pH are the solutions based off the given colour changes?
-    => Universal-indicator colours ↔ pH (read from your chart): red/orange = strong acid (~1–3), yellow = weak acid (~5–6), green = neutral (~7), blue = weak base (~8–10), purple = strong base (~11–14).
+PH-4 | Universal indicator: what pH does each colour show — red/orange, yellow, green, blue, purple?
+    => Red/orange = strong acid (~1–3); yellow = weak acid (~5–6); green = NEUTRAL (~7); blue = weak base (~8–10); purple/violet = strong base (~11–14).
+    why: Warm colours = acid, green = neutral, cool colours = alkaline.
 
-PH-5 | Every time choose an item from the drop-down menu to answer the following questions. https://www.alleganynutrition.com/supporting-pages/the-human-digestive-tract-ph-range-diagram/ Use the diagram above and your knowledge of where different enzymes work in the human digestive system to answer the following questions by choosing the correct item from the drop-down list. Salivary amylase is an enzyme that works best in a(n) [ Select ] ["NEUTRAL", "ALKALINE", "ACIDIC"] environment. Pepsinogen is activated to the active enzyme, pepsin, by [ Select ] ["ALKALINE", "ACIDIC", "NEUTRAL"] conditions. Pancreatic amylase is an enzyme that works best in a [ Select ] ["HIGHLY ACIDIC", "HIGHLY ALKALINE", "SLIGHTLY ALKALINE", "SLIGHTLY ACIDIC"] environment. In the duodenum, the enzyme trypsin breaks down polypeptides to tripeptides and dipeptides in a(n) [ Select ] ["highly acidic", "slightly acidic", "slightly alkaline", "neutral", "highly alkaline"] environment created by bile and a high concentration of [ Select ] ["hydroxide ions", "bicarbonate ions"] from [ Select ] ["Gastric pits", "Lieberkuhn's crypts", "acini cells of pancreas", "Brunner's glands"] in the duodenal mucosa.
-    => Enzyme pH: salivary amylase works best in a NEUTRAL mouth; pepsinogen → pepsin is activated by ACIDIC stomach conditions; pancreatic amylase works best in a SLIGHTLY ALKALINE duodenum; trypsin works in a SLIGHTLY ALKALINE environment created by BICARBONATE ions from the ACINI cells of the pancreas.
+PH-5 | Give the best pH environment for salivary amylase, pepsin, and the pancreatic enzymes (amylase/trypsin). What makes the duodenum alkaline, and where does that come from?
+    => Salivary amylase works best in a NEUTRAL mouth. Pepsin works in an ACIDIC stomach (pepsinogen is switched on by acid). Pancreatic amylase and trypsin work in a SLIGHTLY ALKALINE duodenum. The duodenum is made alkaline by BICARBONATE ions from the PANCREAS, which neutralise the stomach acid.
+    why: Each enzyme is tuned to the pH of the region it works in.
 
-URIN-1 (CHECK) | Choose the correct answer from the dropdown boxes to label the nephon:
-    => Nephron labels (verify on your diagram): glomerulus (capillary tuft) and Bowman's/glomerular capsule (filtration), proximal convoluted tubule (reabsorption), loop of Henle (concentrates urine), distal convoluted tubule, and collecting duct (ADH-controlled water reabsorption).
+URIN-1 | Name the parts of a nephron in the order filtrate flows through them, and what each part does.
+    => Glomerulus (in Bowman's/glomerular capsule) — FILTERS the blood; then the PROXIMAL convoluted tubule — reabsorbs most water, nutrients and salts; the LOOP OF HENLE — concentrates urine (sets up a salt gradient); the DISTAL convoluted tubule — fine-tunes salts; the COLLECTING DUCT — final water reabsorption controlled by ADH.
+    why: Filter (glomerulus) then selectively reabsorb the good stuff back.
 
-URIN-2 (CHECK) | Choose the correct answers from the dropdown boxes to label the kidney:
-    => Kidney labels (verify on your diagram): cortex (outer), medulla (renal pyramids), renal pelvis, ureter, and the renal artery & vein at the hilum.
+URIN-2 | Name the gross structures of the kidney from outer to inner, and what enters and leaves at the hilum.
+    => Outer to inner: CORTEX (outer layer), MEDULLA (the renal pyramids), then urine collects in the renal PELVIS and drains down the URETER. At the hilum: the renal ARTERY brings blood in, the renal VEIN takes it out, and the ureter carries urine out.
+    why: Cortex and medulla do the work; pelvis and ureter are the drainage.
 
 URIN-3 | Choose the correct definition for the following terms:
     => Key urinary terms: FILTRATION = plasma pushed from glomerulus into the capsule; REABSORPTION = useful substances returned to blood; SECRETION = wastes added to the tubule; MICTURITION = urination; ADH = hormone that increases water reabsorption.
@@ -1443,68 +1469,88 @@ NUTN-25 | Increases in body temperature
 NUTN-26 | True or false? One way our body regulates food intake is by transmitting messages, via nerves, from the stretch receptors in the stomach and telling the brain how much has been eaten.
     => TRUE — stretch receptors in the stomach signal the brain via nerves about how much has been eaten (helping regulate intake).
 
-DIGB-1 (CHECK) | Part C is known as the ....
-    => Diagram label 'Part C' — read from your labelled diagram. Tract order (mouth → anus): mouth, pharynx, oesophagus, stomach, duodenum, jejunum, ileum, caecum, colon, rectum, anus; accessory organs: liver, gall bladder, pancreas.
+DIGB-1 | Name the three parts of the small intestine in order from the stomach.
+    => DUODENUM, then JEJUNUM, then ILEUM. The duodenum receives chyme plus bile and pancreatic juice; most absorption happens in the jejunum and ileum.
+    why: 'Dow Jones Industrial' — Duodenum, Jejunum, Ileum.
 
-DIGB-2 (CHECK) | Part D is known as the ....
-    => Diagram label 'Part D' — read from your labelled diagram (use the tract order: oesophagus → stomach → small intestine (duodenum/jejunum/ileum) → large intestine → rectum → anus).
+DIGB-2 | Which organ makes bile, and where is bile stored and concentrated before use?
+    => The LIVER makes bile continuously; it is stored and concentrated in the GALL BLADDER, which releases it into the duodenum (via the bile duct) to emulsify fats.
+    why: Liver makes it, gall bladder stores it.
 
-DIGB-3 (CHECK) | Part A is called:
-    => Diagram label 'Part A' — read from your labelled diagram. Part A is usually the first/topmost structure (mouth or oesophagus).
+DIGB-3 | Trace the upper digestive tract in order from the mouth to the stomach.
+    => Mouth, then pharynx, then oesophagus, then stomach. Swallowed food is pushed down by PERISTALSIS (waves of muscle contraction); the oesophagus itself has no digestive enzymes.
+    why: Peristalsis moves food along the whole GI tract.
 
-DIGB-4 (CHECK) | Part G is called the ....
-    => Diagram label 'Part G' — read from your labelled diagram (match position to the tract order).
+DIGB-4 | Name the parts of the large intestine in order.
+    => Caecum (with the appendix), then ascending colon, transverse colon, descending colon, sigmoid colon, rectum, and anus. Its main job is to reabsorb water and form faeces.
+    why: Colon goes up, across, down, then S-bend to the rectum.
 
-DIGB-5 (CHECK) | Part H is known as the large intestine.
-    => Statement: Part H = the LARGE INTESTINE (as labelled) — verify against your diagram.
+DIGB-5 | What are the main functions of the large intestine?
+    => Reabsorb WATER and electrolytes, house gut bacteria (which make some vitamin K and B vitamins), and compact, store and eliminate faeces. Very little chemical digestion happens here.
+    why: Main theme: water reclaim + waste storage.
 
-DIGB-6 (CHECK) | Part I is called the ...
-    => Diagram label 'Part I' — read from your labelled diagram.
+DIGB-6 | What are the digestive functions of the stomach?
+    => It stores food, churns it (mechanical digestion), and secretes gastric juice — HCl (kills microbes and activates enzymes) plus pepsin, which begins PROTEIN digestion. It turns food into chyme and releases it slowly into the duodenum.
+    why: Stomach = protein start + acid + storage; it does NOT absorb much.
 
-DIGB-7 (CHECK) | The duodenum is shown by part
-    => The DUODENUM is the first part of the small intestine (just after the stomach's pyloric sphincter) — find its letter on your diagram.
+DIGB-7 | Where is the duodenum, and why is it important?
+    => The DUODENUM is the first part of the small intestine, just past the stomach's pyloric sphincter. It receives BILE (from the liver/gall bladder) and PANCREATIC juice, which neutralise stomach acid and digest all three food groups.
+    why: The duodenum is where most chemical digestion is completed.
 
-DIGB-8 (CHECK) | The gall bladder is labelled by letter:
-    => The GALL BLADDER sits under the liver (right upper area) — find its letter on your diagram.
+DIGB-8 | Where does the gall bladder sit, and what does it do?
+    => It sits tucked under the LIVER in the upper-right abdomen. It stores and concentrates BILE, then releases it into the duodenum to emulsify fats — breaking large fat globules into small droplets so lipase can work.
+    why: Emulsify = increase fat surface area for digestion.
 
-DIGB-9 (CHECK) | The rectum is labelled by letter .....
-    => The RECTUM is near the end of the large intestine, just before the anus — find its letter on your diagram.
+DIGB-9 | Where is the rectum, and what is its role?
+    => The RECTUM is the final straight section of the large intestine, just before the anus. It stores faeces; stretching of its wall triggers the urge to defecate.
+    why: Rectum = storage; anus = exit.
 
-DIGB-10 (CHECK) | The anus is labeled by letter .....
-    => The ANUS is the very last structure of the tract — find its letter on your diagram.
+DIGB-10 | What guards the anus, and what is the difference between its two sphincters?
+    => The ANUS is the exit of the GI tract, guarded by two sphincters: the INTERNAL anal sphincter (smooth muscle, involuntary) and the EXTERNAL anal sphincter (skeletal muscle, under VOLUNTARY control).
+    why: Voluntary external sphincter = why toilet training is possible.
 
-DIGB-11 (CHECK) | Match the letters of the parts of the digestive system to the functions.
-    => Match parts to functions: mouth = ingestion/mechanical + starch digestion; stomach = protein digestion + storage; small intestine = digestion completed + absorption; large intestine = water reabsorption; liver = bile; pancreas = enzymes; gall bladder = stores bile.
+DIGB-11 | Match each part of the digestive system to its main function: mouth, stomach, small intestine, large intestine, liver, pancreas, gall bladder.
+    => Mouth = ingestion, chewing and starch digestion (salivary amylase). Stomach = protein digestion and storage. Small intestine = digestion completed and nutrients absorbed. Large intestine = water reabsorption. Liver = makes bile. Pancreas = makes digestive enzymes (and bicarbonate). Gall bladder = stores bile.
+    why: Liver/pancreas/gall bladder are 'accessory' organs — food never passes through them.
 
 DIGB-12 | 1. Give the letter (A to K) of ONE place (besides the mouth) in the digestive system where mechanical digestion takes place. 2. Give the letter (A to K) of THREE places in the digestive system (besides the mouth) where chemical digestion takes place.
     => Mechanical digestion (besides the mouth): the STOMACH (churning). Three places of chemical digestion (besides the mouth): the STOMACH, the DUODENUM/small intestine — with enzymes from the pancreas and intestinal wall.
 
-DIGB-13 | 1) Write the letters A, B or C from the diagram to show the parts labeled as below. Lacteal Capillaries 2) Write the letters A, B or C from the diagram to show the parts into which the following nutrients are absorbed. Fatty acids Glucose Amino acids
-    => In a villus: the central LACTEAL (lymph vessel) absorbs FATTY ACIDS; the blood CAPILLARIES absorb GLUCOSE and AMINO ACIDS.
+DIGB-13 | In a villus of the small intestine, what is absorbed into the central lacteal versus into the blood capillaries?
+    => The central LACTEAL (a lymph vessel) absorbs digested FATS (fatty acids). The blood CAPILLARIES absorb GLUCOSE and AMINO ACIDS.
+    why: Fats go to lymph first; sugars and amino acids go straight to blood.
 
-DIGF-1 (CHECK) | Name the following structures
-    => 'Name the structures' — identify from your diagram (e.g. villi, gastric glands, liver lobule, etc.).
+DIGF-1 | Name the structures of the small-intestine wall that increase its surface area for absorption.
+    => CIRCULAR FOLDS (plicae) of the wall, covered in VILLI (finger-like projections), each cell topped with MICROVILLI (the brush border). Every villus contains a LACTEAL (absorbs fat) and blood CAPILLARIES (absorb sugars and amino acids).
+    why: Folds x villi x microvilli multiply the surface area enormously.
 
-DIGF-2 (CHECK) | What are the functions of the following structures
-    => 'Functions of the structures' — give each labelled structure's job from your diagram/notes.
+DIGF-2 | What are the functions of the villi, microvilli and the lacteal in the small intestine?
+    => Villi and microvilli hugely increase the SURFACE AREA for faster absorption. The villus's blood capillaries absorb glucose and amino acids into the blood; the central LACTEAL absorbs digested fats (fatty acids) into the lymph.
+    why: More surface area = more nutrients absorbed per minute.
 
-DIGF-3 | Make use of the diagram, your knowledge, and textbooks to complete the following matching exercise. https://ivcjournal.com/digestive-enzymes-dogs-cats/
-    => Digestive-enzyme matches: salivary amylase → starch; pepsin → protein (stomach); pancreatic amylase → starch; trypsin/chymotrypsin → protein; pancreatic lipase → fats; maltase/sucrase/lactase → disaccharides; peptidases → peptides.
+DIGF-3 | Match each digestive enzyme to what it digests: salivary amylase, pepsin, pancreatic amylase, trypsin, pancreatic lipase, and maltase/sucrase/lactase.
+    => Salivary amylase -> starch. Pepsin -> protein (in the stomach). Pancreatic amylase -> starch. Trypsin (and chymotrypsin) -> protein. Pancreatic lipase -> fats. Maltase/sucrase/lactase -> disaccharides into simple sugars.
+    why: '-ase' enzymes are named after what they break: amyl(starch), lip(fat), prote(protein).
 
-DIGF-4 | Make use of the diagram, your knowledge, and textbooks to complete the following matching exercise. https://healthjade.net/cholecystokinin/
-    => CCK (cholecystokinin): released by the duodenum when fatty/protein-rich chyme arrives; it makes the GALL BLADDER release bile and the PANCREAS release enzymes, and slows stomach emptying.
+DIGF-4 | Cholecystokinin (CCK): where is it released, what triggers it, and what does it do?
+    => CCK is released by the DUODENUM when fatty or protein-rich chyme arrives. It makes the GALL BLADDER release bile and the PANCREAS release digestive enzymes, and it slows stomach emptying so digestion can keep up.
+    why: CCK = 'chole-cysto-kinin' literally means 'move the gall bladder'.
 
-DIGF-5 (CHECK) | https://ohiostate.pressbooks.pub/vethisto/wp-admin/admin-ajax.php?action=h5p_embed&id=21 This slide does NOT show a section through the small intestine because .......
-    => Image-based — this is NOT small intestine because it lacks the small intestine's features (villi/microvilli, crypts, lacteals). Identify from your slide.
+DIGF-5 | How can you tell a histology slide is NOT small intestine — what small-intestine features would be missing?
+    => The small intestine has tall VILLI, a MICROVILLI brush border, deep crypts and a central LACTEAL. If those are absent it isn't small intestine — e.g. the stomach has gastric pits and no villi; the large intestine has a flat lining with many goblet cells and no villi.
+    why: No villi = not small intestine.
 
-DIGF-6 (CHECK) | https://digitalhistology.org/quizzes/digestive-system/ This must be a cross-section through the _______________ since _________________ are visible in the ........
-    => Image-based cross-section ID — name the organ from the visible features on your slide (e.g. villi = small intestine; gastric pits = stomach).
+DIGF-6 | How do you identify which part of the gut a cross-section is from? Give the tell-tale feature for stomach, small intestine and large intestine.
+    => STOMACH = gastric pits/glands, no villi. SMALL INTESTINE = long villi with a microvilli brush border. LARGE INTESTINE = no villi; a flat lining packed with GOBLET cells (mucus) and straight crypts.
+    why: Villi present = small intestine; goblet-rich and flat = large intestine.
 
-DIGF-7 (CHECK) | https://digitalhistology.org/quizzes/digestive-system/ The arrows show the ...........................of the small intestine
-    => Image-based — the arrows most likely show the VILLI (finger-like projections) of the small intestine. Confirm on your slide.
+DIGF-7 | What are the finger-like projections of the small-intestine lining called, and what is their purpose?
+    => They are VILLI (each covered in even tinier MICROVILLI, the brush border). They massively increase the surface area to speed up absorption of digested nutrients.
+    why: Villi (visible fingers) vs microvilli (microscopic brush on each cell).
 
-DIGF-8 (CHECK) | This image can easily be identified as being a section through the ......... because one can see the ...........
-    => Image-based section ID — name the organ from its identifying features on your slide.
+DIGF-8 | What visible features let you identify a slide as small intestine?
+    => The presence of VILLI (finger-like projections) topped by a MICROVILLI brush border, each villus containing a central lacteal and capillaries — a pattern unique to the small intestine.
+    why: Villi + brush border together = small intestine.
 
 DIGF-9 | Trypsin and pepsin are protein-digesting enzymes. They are released in their inactive forms to prevent them from digesting the pancreas and stomach wall respectively.
     => TRUE — trypsin and pepsin are secreted as INACTIVE zymogens (trypsinogen, pepsinogen) so they don't digest the pancreas/stomach wall; they're activated only in the gut lumen.

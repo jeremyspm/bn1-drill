@@ -2,7 +2,7 @@
 
 A self-contained, offline, phone-first revision app for **BN1 Health Science 1**
 (Bachelor of Nursing, year 1). Built from the course's Canvas quiz bank:
-**514 questions across 3 modules** (= the 3 tests), each with a correct answer and a
+**512 questions across 3 modules** (= the 3 tests), each with a correct answer and a
 short *why*.
 
 ### ▶ Use it now: **https://jeremyspm.github.io/bn1-drill/**
@@ -33,9 +33,14 @@ Canvas exported the questions **without** the correct answers marked, so the ans
 key here was authored from standard anatomy/physiology and the course framing. It's a
 study aid, not gospel — trust your lecturer/textbook if they ever disagree.
 
-**32 questions are flagged "⚠ verify with notes"** in the app: they depend on a slide
-image (e.g. *"What tissue is this?"*, *"label the nephron"*) or are class-specific.
-Check those against your own notes. Full list: [`src/flagged.txt`](src/flagged.txt).
+The **image-dependent and dropdown cards were rewritten** into self-contained concept
+questions. Originally ~45 cards asked about a picture that wasn't on the card (*"What
+tissue is this?"*, *"label the nephron"*, *"Part C is…"*) or dumped raw Canvas dropdown
+syntax (`[ Select ] […]`) into one unreadable wall. Those now ask the underlying idea
+and are answerable on the card itself — e.g. *"Name the parts of a nephron in the order
+filtrate flows through them, and what each does."* Two pure-junk cards were dropped. The
+rewrites live in `src/ans*.json` (the `"q"` field overrides a question) — edit and
+rebuild if you'd word one differently.
 
 ## Fixing / editing an answer
 

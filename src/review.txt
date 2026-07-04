@@ -82,7 +82,7 @@ CELLFN-3 | The function of the mitochondria is to:
     => [d] produce ATP (energy) for the cell
     why: Mitochondria are the 'powerhouse': they produce ATP via aerobic respiration.
 
-CELLFN-4 | Match the feature to the cell type:
+CELLFN-4 | Give the key structural feature of each cell type: red blood cell, phagocyte, neuron, melanocyte.
     => Matching: Red blood cell → biconcave shape; Phagocyte → many lysosomes (to digest microbes); Neuron → myelinated axon; Melanocyte → melanosomes (make melanin).
 
 CELLFN-5 | Phagocytes are white blood cells that engulf and break down microbes and other foreign bodies. To help with this function, they have increased numbers of an organelle which contains digestive enzymes and acid. These organelles are called:
@@ -614,10 +614,10 @@ MIC2-70 | The microbe characterised by its simple structure of a protein coat an
     => [a] virus
     why: A virus is basically a protein coat (capsid) around nucleic acid — the simplest microbe.
 
-MICTERM-1 | Understanding the new terms is going to be very important for this topic! Match up the following terms and their definitions!
+MICTERM-1 | Define these microbiology terms: agar, antibiotic, gel sanitiser, microbe, control, streak plate, sensitivity, resistance, blood agar, colony, normal flora, leucocyte, UTI.
     => Term ↔ definition matches: Agar = jelly growth medium; Antibiotic = substance that targets/kills bacteria; Gel sanitiser = high-alcohol hand rub; Microbe = tiny organism (fungi, bacteria, viruses); Control = the sample with no variable applied (checks for contamination); Streak plate = method to get isolated colonies; Sensitivity = affected/killed by something; Resistance = able to withstand it; Blood agar = enriched growth medium; Colony = growth from one microbe; Normal flora = resident body microbes; Leucocyte = white blood cell; UTI = urinary tract infection.
 
-MICTERM-2 | Understanding the new terms is going to be very important for this topic! Match up the following terms and their definitions!
+MICTERM-2 | Define these microbiology terms: swab, inoculating loop, inoculate, bacterial culture, bacterial lawn, inhibition, zone, fatal, MSU, pili, pathogen, sterilisation, disinfect, sterile, autoclave.
     => Term ↔ definition matches: Swab = sterile sampling tool; Inoculating loop = sterile tool to transfer culture to agar; Inoculate = introduce microbes into a medium; Bacterial culture = growing microbes on medium for ID; Bacterial lawn = confluent growth covering the agar; Inhibition = stopping growth; Zone = an area; Fatal = able to kill; MSU = mid-stream urine sample; Pili = help bacteria stick / pass DNA; Pathogen = a disease-causing microbe; Sterilisation = remove ALL microbes; Disinfect = remove MOST microbes; Sterile = no microbes present; Autoclave = steam steriliser.
 
 MICREV-1 | What is an autoclave?
@@ -660,10 +660,10 @@ ACID-7 | People feel dizzy when they breathe fast and deep. This breathing patte
     => [b] False
     why: False — fast, deep breathing (hyperventilation) blows off CO2, so it causes respiratory ALKALOSIS, not acidosis.
 
-ACID-8 | Link the breathing patterns to the type of blood pH conditions that would cause these symptoms. Breathing pattern that would...................................
+ACID-8 | For each breathing pattern, give its acid-base effect: Kussmaul (deep, rapid), hyperventilation, and hypoventilation (shallow/slow).
     => Breathing patterns ↔ pH: Kussmaul (deep, rapid) breathing COMPENSATES for metabolic acidosis (blows off CO2 to counter excess H+). Hyperventilation CAUSES respiratory alkalosis (too little CO2). Hypoventilation (rapid shallow / slow breathing) CAUSES respiratory acidosis (CO2 accumulates).
 
-ACID-9 | Link the conditions to the matching item.
+ACID-9 | Define and link these: hypokalaemia vs hyperkalaemia, and what causes metabolic alkalosis (diuretics, excess antacids, blowing off too much CO2)?
     => Matches: Hypokalaemia = low blood potassium; Hyperkalaemia = high blood potassium. Some diuretics cause hypokalaemia AND metabolic alkalosis. Excess antacids → metabolic alkalosis. 'Too much CO2 blown off' → respiratory alkalosis. Arrhythmias are linked to both hyper- and hypokalaemia.
 
 ACID-10 | In diabetic ketoacidosis (DKA): what are ketones and where are they made, which hormone problem triggers it, and below what blood pH is it a medical emergency?
@@ -890,7 +890,7 @@ HOMEO-1 | The ability of the body to maintain a stable internal environment desp
     => [c] homeostasis
     why: Homeostasis = maintaining a stable internal environment despite external change.
 
-HOMEO-2 | Match the following terminology:
+HOMEO-2 | Define each homeostasis control term: stimulus, variable, receptor, and effector.
     => Terminology: STIMULUS = a change in the variable being regulated; VARIABLE = the thing being regulated (e.g. temperature); RECEPTOR = detects the change; EFFECTOR = carries out the response.
 
 HOMEO-3 | An example of an organ is the
@@ -1019,10 +1019,10 @@ OSMO-3 | The kidney's main job is to get rid of extra fluid and waste material i
     => [d] urea and salt
     why: Dialysis removes small waste solutes — urea and excess salts — while keeping blood cells and plasma proteins.
 
-OSMO-4 | Match these term with the correct definitions.
+OSMO-4 | Define each transport term: diffusion, facilitated diffusion, and osmosis.
     => Definitions: DIFFUSION = solutes move down their gradient (high → low). FACILITATED DIFFUSION = the same, but via a membrane protein (still passive). OSMOSIS = water moves across a selectively permeable membrane toward higher solute concentration.
 
-OSMO-5 | Fill in the gaps about hydrostatic pressure as the driving force of filtration. Filtration is a passive transport process because it does not use energy from ATP .
+OSMO-5 | What is the driving force of filtration, and does it use energy (ATP)?
     => Filtration is a PASSIVE transport process — it uses hydrostatic (blood) pressure as the driving force and does NOT use energy from ATP.
 
 OSMO-6 | A cell is placed in a solution and after a while, it shrinks - what kind of solution has the cell been placed in?
@@ -1325,7 +1325,7 @@ URIN-2 | Name the gross structures of the kidney from outer to inner, and what e
     => Outer to inner: CORTEX (outer layer), MEDULLA (the renal pyramids), then urine collects in the renal PELVIS and drains down the URETER. At the hilum: the renal ARTERY brings blood in, the renal VEIN takes it out, and the ureter carries urine out.
     why: Cortex and medulla do the work; pelvis and ureter are the drainage.
 
-URIN-3 | Choose the correct definition for the following terms:
+URIN-3 | Define each urinary term: filtration, reabsorption, secretion, micturition, and ADH.
     => Key urinary terms: FILTRATION = plasma pushed from glomerulus into the capsule; REABSORPTION = useful substances returned to blood; SECRETION = wastes added to the tubule; MICTURITION = urination; ADH = hormone that increases water reabsorption.
 
 NUTR-1 | Water is a
@@ -1343,7 +1343,7 @@ NUTR-4 | The mucus that is produced to lubricate joints is predominantly formed 
 NUTR-5 | Courtney loves coca cola (and the not the sugar free stuff!). This is a very concentrated energy source. We would refer to this as
     => Concentrated sugary cola = a CONCENTRATED ENERGY SOURCE, i.e. refined carbohydrate ('empty calories').
 
-NUTR-6 | Match the following
+NUTR-6 | Match each nutrient to its main role: carbohydrate, protein, lipid/fat, vitamins & minerals, and water.
     => Matching nutrients to roles: carbohydrate → energy; protein → growth & repair; lipid/fat → energy store, insulation, membranes; vitamins & minerals → regulate reactions; water → transport/solvent.
 
 NUTR-7 | The axon of nerve cells is covered in
@@ -1639,7 +1639,7 @@ DIGMS-23 | Which of the following types of epithelial cells are mostly predomina
 DIGMS-24 | In addition to storage and mechanical digestion of food, the stomach:
     => Besides storage/mechanical digestion, the stomach chemically digests PROTEIN (pepsin), secretes intrinsic factor, and kills microbes with acid.
 
-DIGMS-25 | The following nutrients must be digested:
+DIGMS-25 | Which nutrient groups must be chemically digested, and which don't need digesting?
     => The nutrients that must be digested are the large macromolecules: CARBOHYDRATES, PROTEINS and FATS. (Vitamins, minerals and water don't need digesting.)
 
 DIGMS-26 | When peristalsis happens in reverse you will
@@ -1870,5 +1870,6 @@ DNA-5 | Why is DNA important for normal growth and repair in the human body?
 DNA-6 | In nursing practice, understanding DNA and RNA is important because they:
     => DNA/RNA direct protein synthesis (growth, repair, enzymes, immunity); mutations cause genetic diseases and cancer — all relevant to nursing care.
 
-DNA-7 | Using the wordlist provided, fill in the blanks to make the paragraph make correct sense. Be careful with your spelling and only use lowercase as the Canvas auto-marking feature is case sensitive. Note that you will not use all the words in the list. Wordlist: proteins, carbohydrates, transcription, translation, nucleus, ribosome, lysosome, nucleolus, triglyceride, amino acids, mRNA, cells, protein, polypeptide chain. Protein synthesis is the process by which cells make . It begins in the , where the DNA contains the genetic instructions. During a process called , a copy of the DNA code is made in the form of . This molecule then leaves the nucleus and travels to the in the cytoplasm. At the ribosome, a process called occurs. Here, the genetic code carried by mRNA is used to assemble into a specific sequence. These amino acids are joined together to form a , which then folds into a functional . Protein synthesis is essential for growth, repair, and normal functioning of the .
-    => Protein synthesis fill-in: cells make PROTEINS. It begins in the NUCLEUS (DNA holds the instructions). In TRANSCRIPTION a copy is made as mRNA, which leaves for the RIBOSOME in the cytoplasm. There, TRANSLATION assembles AMINO ACIDS in sequence, joined into a POLYPEPTIDE CHAIN that folds into a functional PROTEIN — essential for growth, repair and normal functioning of the CELLS.
+DNA-7 | Describe protein synthesis: what do cells make, where does it begin, what are the two key processes (and where each happens), and what gets assembled into what?
+    => Cells make PROTEINS. It begins in the NUCLEUS (the DNA holds the instructions). In TRANSCRIPTION a copy of the code is made as mRNA, which leaves for the RIBOSOME in the cytoplasm. There, TRANSLATION assembles AMINO ACIDS in sequence, joined into a POLYPEPTIDE CHAIN that folds into a functional PROTEIN — essential for growth, repair and normal cell function.
+    why: Two steps: transcription (DNA to mRNA, in the nucleus) then translation (mRNA to protein, at the ribosome).

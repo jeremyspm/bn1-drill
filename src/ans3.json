@@ -4,7 +4,7 @@
   "NUTR-3": {"r":"Marasmus is protein-ENERGY malnutrition — a lack of overall food energy/calories (and protein). (Kwashiorkor is specifically protein deficiency.)"},
   "NUTR-4": {"r":"Joint/lubricating mucus is built mainly from CARBOHYDRATES — glycoproteins/mucopolysaccharides (e.g. hyaluronic acid in synovial fluid)."},
   "NUTR-5": {"r":"Concentrated sugary cola = a CONCENTRATED ENERGY SOURCE, i.e. refined carbohydrate ('empty calories')."},
-  "NUTR-6": {"r":"Matching nutrients to roles: carbohydrate → energy; protein → growth & repair; lipid/fat → energy store, insulation, membranes; vitamins & minerals → regulate reactions; water → transport/solvent."},
+  "NUTR-6": {"r":"Matching nutrients to roles: carbohydrate → energy; protein → growth & repair; lipid/fat → energy store, insulation, membranes; vitamins & minerals → regulate reactions; water → transport/solvent.","q":"Match each nutrient to its main role: carbohydrate, protein, lipid/fat, vitamins & minerals, and water."},
   "NUTR-7": {"r":"The axon is covered in MYELIN — a fatty (lipid) insulating sheath."},
   "NUTR-8": {"r":"Solidified oils = (saturated / hydrogenated) FATS — e.g. margarine."},
   "NUTR-9": {"r":"Select all — raised troponin indicates CARDIAC MUSCLE DAMAGE, i.e. a heart attack (myocardial infarction) / cardiac injury."},
@@ -96,7 +96,7 @@
   "DIGMS-22": {"r":"HCl is produced by the PARIETAL (oxyntic) cells of the stomach."},
   "DIGMS-23": {"r":"The digestive tract is lined mostly by SIMPLE COLUMNAR epithelium."},
   "DIGMS-24": {"r":"Besides storage/mechanical digestion, the stomach chemically digests PROTEIN (pepsin), secretes intrinsic factor, and kills microbes with acid."},
-  "DIGMS-25": {"r":"The nutrients that must be digested are the large macromolecules: CARBOHYDRATES, PROTEINS and FATS. (Vitamins, minerals and water don't need digesting.)"},
+  "DIGMS-25": {"r":"The nutrients that must be digested are the large macromolecules: CARBOHYDRATES, PROTEINS and FATS. (Vitamins, minerals and water don't need digesting.)","q":"Which nutrient groups must be chemically digested, and which don't need digesting?"},
   "DIGMS-26": {"r":"Peristalsis in reverse = VOMITING (emesis)."},
   "DIGDA-1": {"r":"Accessory organs = salivary glands, teeth, tongue, liver, gall bladder, pancreas. The odd-one-out (part of the tract itself, e.g. the stomach or small intestine) is NOT an accessory organ."},
   "DIGDA-2": {"r":"The HEPATIC PORTAL VEIN carries absorbed nutrients from the gut to the liver."},
@@ -173,5 +173,5 @@
   "DNA-4": {"r":"URACIL (U) is found in RNA but not DNA (it replaces thymine)."},
   "DNA-5": {"r":"DNA carries the instructions to make proteins, and is copied when cells divide, so new cells have the same information for growth and repair."},
   "DNA-6": {"r":"DNA/RNA direct protein synthesis (growth, repair, enzymes, immunity); mutations cause genetic diseases and cancer — all relevant to nursing care."},
-  "DNA-7": {"r":"Protein synthesis fill-in: cells make PROTEINS. It begins in the NUCLEUS (DNA holds the instructions). In TRANSCRIPTION a copy is made as mRNA, which leaves for the RIBOSOME in the cytoplasm. There, TRANSLATION assembles AMINO ACIDS in sequence, joined into a POLYPEPTIDE CHAIN that folds into a functional PROTEIN — essential for growth, repair and normal functioning of the CELLS."}
+  "DNA-7": {"r":"Cells make PROTEINS. It begins in the NUCLEUS (the DNA holds the instructions). In TRANSCRIPTION a copy of the code is made as mRNA, which leaves for the RIBOSOME in the cytoplasm. There, TRANSLATION assembles AMINO ACIDS in sequence, joined into a POLYPEPTIDE CHAIN that folds into a functional PROTEIN — essential for growth, repair and normal cell function.","q":"Describe protein synthesis: what do cells make, where does it begin, what are the two key processes (and where each happens), and what gets assembled into what?","w":"Two steps: transcription (DNA to mRNA, in the nucleus) then translation (mRNA to protein, at the ribosome)."}
 }

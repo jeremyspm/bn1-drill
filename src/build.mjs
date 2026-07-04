@@ -118,9 +118,10 @@ fs.writeFileSync(path.join(DRILL, 'bn1-questions.json'), JSON.stringify(out, nul
 
 const tpl = path.join(__dirname, 'bn1-drill.template.html');
 if (fs.existsSync(tpl)) {
+  const BUILD = new Date().toISOString().slice(0, 16).replace('T', ' ') + ' UTC';
   const html = fs.readFileSync(tpl, 'utf8').replace(
     '/*__BN1_DATA__*/',
-    'window.BN1_QUESTIONS=' + JSON.stringify(out) + ';'
+    'window.BN1_QUESTIONS=' + JSON.stringify(out) + ';window.BN1_BUILD=' + JSON.stringify(BUILD) + ';'
   );
   fs.writeFileSync(path.join(DRILL, 'bn1-drill.html'), html);
   // index.html is the same file, so GitHub Pages serves the app at the repo root.
